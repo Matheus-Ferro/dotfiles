@@ -1,0 +1,15 @@
+2022/03/01-19:00:03.072 157e6 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/01-19:00:03.072 157e6 Recovering log #32
+2022/03/01-19:00:03.074 157e6 Reusing old log /home/breakcore/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000032.log 
+2022/03/01-19:11:53.057 18b10 Level-0 table #37: started
+2022/03/01-19:11:53.066 18b10 Level-0 table #37: 869628 bytes OK
+2022/03/01-19:11:53.069 18b10 Delete type=0 #32
+2022/03/01-19:11:53.069 18b10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/01-19:11:53.069 18b10 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x03\xcd\xf4\xa9\x903\xf4wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 65051 : 0
+2022/03/01-19:11:53.069 18b10 Compacting 1@1 + 1@2 files
+2022/03/01-19:11:53.075 18b10 Generated table #38@1: 356 keys, 24237 bytes
+2022/03/01-19:11:53.075 18b10 Compacted 1@1 + 1@2 files => 24237 bytes
+2022/03/01-19:11:53.077 18b10 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/01-19:11:53.077 18b10 Delete type=2 #34
+2022/03/01-19:11:53.077 18b10 Delete type=2 #37
+2022/03/01-19:11:53.077 18b10 Manual compaction at level-1 from '\x00\x09\x01\x1f\x03\xcd\xf4\xa9\x903\xf4wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 65051 : 0 .. (end); will stop at (end)

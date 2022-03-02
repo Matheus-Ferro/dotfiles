@@ -1,0 +1,179 @@
+{
+   "screenshot_app_about": {
+      "message": "Quant a"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Tots els drets reservats."
+   },
+   "screenshot_app_exit": {
+      "message": "Surt"
+   },
+   "screenshot_app_help": {
+      "message": "Ajuda"
+   },
+   "screenshot_app_language_code": {
+      "message": "CA"
+   },
+   "screenshot_app_language_name": {
+      "message": "Català"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Catalan"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Inicia la sessió..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Tanca la sessió"
+   },
+   "screenshot_app_options": {
+      "message": "Opcions"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Tanca la finestra de pujada automàticament"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Copia automàticament l'enllaç després de pujar-la"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Captura el cursor en la captura de pantalla."
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Configura"
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Una de les tecles de drecera no és vàlida. Per inhabilitar-la desmarca la casella de selecció corresponent."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formats"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Qualitat JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Mantenir la posició de l'àrea seleccionada"
+   },
+   "screenshot_app_options_language": {
+      "message": "Idioma"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Sempre"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Mai"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "No configurat (connexió directa)"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Puja utilitzant el format"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Feu una captura de pantalla"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "No mostris més aquest missatge"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Neteja la selecció"
+   },
+   "screenshot_plugin_close": {
+      "message": "Tanca"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Difuminat"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Color"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marcador"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Llapis"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rectangle"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Desfés"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Editeu una captura de pantalla en línia"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Error"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Selecciona pantalla completa"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Mida incorrecta"
+   },
+   "screenshot_plugin_open": {
+      "message": "Obre"
+   },
+   "screenshot_plugin_print": {
+      "message": "Imprimeix"
+   },
+   "screenshot_plugin_save": {
+      "message": "Desa"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "La captura de pantalla s'ha copiat al porta-retalls"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "S'ha pujat la captura de pantalla. S'ha copiat l'enllaç al porta-retalls."
+   },
+   "screenshot_plugin_share": {
+      "message": "Comparteix a les xarxes socials"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Comparteix al Facebook"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Comparteix a Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Envia a través de correu electrònic"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Cerca imatges similars a Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Comparteix al Twitter"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Actualment el Lightshot està configurat per utilitzar aquest proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "El Lightshot utilitza la configuració del proxy actual del sistema: %proxy%"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Puja a prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Error de pujada"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Ha fallat la pujada."
+   },
+   "screenshotplugin_default_title": {
+      "message": "Feu una captura de pantalla"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (l'eina de captura de pantalla)"
+   }
+}

@@ -1,0 +1,8 @@
+[2022-03-02 02:20:12.927] [main] [info] update#setState idle
+[2022-03-02 02:20:12.953] [main] [info] ExtensionHostStarterWorker created
+[2022-03-02 02:20:13.510] [main] [info] Starting extension host with pid 111301 (fork() took 5 ms).
+[2022-03-02 02:20:13.510] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-03-02 02:20:42.935] [main] [info] update#setState checking for updates
+[2022-03-02 02:20:43.176] [main] [info] update#setState idle
+[2022-03-02 02:22:15.669] [main] [info] Waiting for extension host with pid 111301 to exit.
+[2022-03-02 02:22:15.690] [main] [info] Extension host with pid 111301 exited with code: 0, signal: null.

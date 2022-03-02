@@ -1,0 +1,6 @@
+2022/03/01-23:31:40.181 3 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/01-23:31:40.181 3 Recovering log #26
+2022/03/01-23:31:40.185 3 Reusing old log /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/000026.log 
+2022/03/01-23:49:41.082 3 Level-0 table #31: started
+2022/03/01-23:49:41.095 3 Level-0 table #31: 13855 bytes OK
+2022/03/01-23:49:41.126 3 Delete type=0 #26

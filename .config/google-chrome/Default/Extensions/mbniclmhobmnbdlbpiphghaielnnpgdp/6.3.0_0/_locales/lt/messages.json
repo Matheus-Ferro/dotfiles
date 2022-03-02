@@ -1,0 +1,326 @@
+{
+   "screenshot_app_about": {
+      "message": "Apie"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Visos teisės saugomos."
+   },
+   "screenshot_app_exit": {
+      "message": "Išeiti"
+   },
+   "screenshot_app_help": {
+      "message": "Pagalba"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Klaida, bandant priregistruoti spartųjį mygtuką"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Kita aplikacija jau naudoja tai. Paspausk ant žinutės, norint atidaryti nustatymus."
+   },
+   "screenshot_app_language_code": {
+      "message": "LT"
+   },
+   "screenshot_app_language_name": {
+      "message": "Lietuvių"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Lithuanian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mano galerija (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prisijungti..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Atsijungti"
+   },
+   "screenshot_app_options": {
+      "message": "Nustatymai"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Automatiškai uždaryti įkėlimo langą"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automatiškai nukopijuoti nuorodą po įkėlimo"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Nufotografuoti \"pelytę\" kartu su ekranvaizdžiu"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfiguruoti"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sisteminis proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Jūs negalite pasirinkti to pačio sparčiojo mygtuko skirtingoms fukcijoms. Prašome pasikeisti vieną iš jų."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Vienas iš jūsų greitųjų klavišų nepasiekiamas. Jei jūs norite išjungti tą klavišą, prašome atžymėti tinkamą varnelę"
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formatai"
+   },
+   "screenshot_app_options_general": {
+      "message": "Pagrindinis"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Pagrindinis greitasis klavišas"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Greitieji klavišai"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Momentinis pilno ekranvaizdžio išsaugojimas"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Momentinis viso ekrano įkėlimas"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kokybė"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Išlaikyti pasirinktą sritį kitam kartui"
+   },
+   "screenshot_app_options_language": {
+      "message": "Kalba"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Rankinis proxy nustatymas"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Nėra proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Visada"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Niekada"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimizuoti ekranvaizdžius"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Vien tik, kaip įkeliama"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Prievardis"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Rodyti pranešimus apie kopijavimą ir išsaugijimą"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nenustatyta (tiesioginis prijungimas)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Naudoti sisteminius proxy nustatymus"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Įkelti naudojant formatą"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Prisijungęs kaip"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prisijungti"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot prisijungimo klaida"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: klaida prisijungiant. Bandykite dar kart."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Padaryti ekranvaizdžio nuotrauką"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot terminai ir paslaugos"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Paspauskite \"%hotkey_main%\" mygtuka savo klaviatūroje, kad padarytumėte ekranvaizdžio nuotrauką"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Neberodyti šios žinutės vėliau"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Atšaukti"
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Dėja, Google Chrome nebepalaiko vaizdų kopijavimo į iškarpinę su API, todėl mes turėjome išjungti šią parinktį. Atsiprašome už nepatogumus.\\n\\nKaip jūs galite padėti?\\nYra Google Chrome bugtracker'yje apie tai klausimas. Galite mus pažymėti žvaigždute, tuomet tai įgaus aukštesnį prioritetą ir tai gali būti ištaisyta greičiau nei įprastai. \\n\\nKopijavimo funkcija puikiai veikia čia - jūs galite tai atsisiųsti iš http://app.prntscr.com/\\n\\nSpauskite \"Gerai\" norėdami atidaryti \"Google Chrome\" bugtracker'į.\\nSpustelėkite \"Atšaukti\", jei norite uždaryti šį langą."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Ištrinti pasirinkimą"
+   },
+   "screenshot_plugin_close": {
+      "message": "Uždaryti"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopijuoti"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Klaida: Firefox CTypes priedas nerastas. Pabandykite perkrauti naršyklę. Jeigu matote šį pranešimą po naršyklės perkrovimo, prašome susisiekti support@skillbrains.com.\\n\\nKlaidos informacija: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Rodyklė"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Išlieti"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Apskritimas"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Spalva"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linija"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Žymeklis"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pieštukas"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Stačiakampis"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekstas"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Atstatyti"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Koreguoti paveikslėlį internete"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Klaida"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pasirinkti visą ekrano vaizdą"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Atsiprašome dėl nepatogumų, tačiau Lightshot papildinys veikia tik su \"Windows\" operacine sistema. Jeigu norite Lightshot skirto Mac kompiuteriui, prašome jį atsisiųsti iš Mac App Store. Eiti į App Store dabar?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Bloga JSON struktūra paveikslėlio hostingo serveryje"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Netinkamas dydis"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Klaida: Lightshot NPAPI priedas nerastas. Pabandykite perkrauti naršyklę. Jeigu matote šį pranešimą po naršyklės perkrovimo, prašome susisiekti support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Atidaryti"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Ekrano optimizavimas"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Atsiprašome dėl nepatogumų, tačiau, Lightshot veikia tik su \"Windows\" ir \"Mac\" kompiuteriais. Jeigu norite Lightshot pritaikytos jūsų operacinei sistemai, prašome susisiekti support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Spausdinti"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Dar kartą"
+   },
+   "screenshot_plugin_save": {
+      "message": "Išsaugoti"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Ekranvaizdis buvo nukopijuotas į iškarpinę"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Klaida: „Lightshot“ nepavyko padaryti paveikslėlio. Pabandykite perkrauti naršyklę. Jeigu matote šį pranešimą po naršyklės perkrovimo, prašome susisiekti support@skillbrains.com.\\n\\nPilna klaidos informacija: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Ekranvaizdis buvo išsaugoas į %filename%. Spausk čia kad atidarytum aplanke."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Ekrano vaizdas įkeltas. Nuoroda nukopijuotą į iškarpinę"
+   },
+   "screenshot_plugin_share": {
+      "message": "Pasidalinti per socialinius tinklus"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Pasidalinti per Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Ieškoti panašių paveikslėlių per Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pasidalinti per Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Išsiųsti elektroniniu paštu"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Ieškoti panašių paveikslėlių per Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Pasidalinti per Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Pasidalinti per VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Pasirinkti plotą"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Atšaukti - atšaukti ekranvaizdžio kėlimą"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Prašome įsitikiti, kad viskas yra sukonfiguruota gerai ir proxy neblokuoja Lightshot prisijungimų"
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Tęsti - atidaryti Lightshot proxy konfiguraciją"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Tęsti - atidaryti sisteminę proxy konfiguraciją"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Dabar Lightshot sukonfiguruotas naudoti šį proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot naudoja proxy nustatymus: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Bandykite dar kartą - bandykite naudoti dabartinius nustatymus"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Įkelti į prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Įkėlimo klaida"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Išplėstinė informacija"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Įkėlimas nepavyko"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Įkėlimas nepavyko. Pakartoti?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Paveikslėlis yra įkeliamas"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Padaryti ekrano nuotrauką"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (ekrano nuotraukų įrankis)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Lengvai naudojamas ir patogus ekrano vaizdzo nuotraukų įrankis."
+   }
+}

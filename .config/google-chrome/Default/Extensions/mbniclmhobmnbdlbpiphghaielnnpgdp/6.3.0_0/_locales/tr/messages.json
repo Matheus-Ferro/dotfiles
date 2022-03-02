@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Hakkında"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Tüm hakları saklıdır."
+   },
+   "screenshot_app_exit": {
+      "message": "Çıkış"
+   },
+   "screenshot_app_help": {
+      "message": "Yardım"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Kısayol atama başarısız:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Bu Klavye kısayolu başka bir uygulama tarafından kullanılıyor.Buraya tıklayarak uygulamayı görebilirsiniz."
+   },
+   "screenshot_app_language_code": {
+      "message": "TR"
+   },
+   "screenshot_app_language_name": {
+      "message": "Türkçe"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Turkish"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Resimlerim (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Giriş Yap"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Oturumu Kapat"
+   },
+   "screenshot_app_options": {
+      "message": "Ayarlar"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Yükleme penceresini otomatik kapat"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Yüklemeden sonra bağlantıyı otomatik olarak kopyala"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "İmleci ekran görüntüsünde göster"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Yapılandırma"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sistem vekil sunucusu"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Farklı işlemler için aynı kısayolu seçemezsiniz. Lütfen birini değiştirin."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Klavye kısayollarından biri geçersiz. Eğer iptal etmek istiyorsan, sadece başındaki işareti kaldırman yeterli."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Dosya Türü"
+   },
+   "screenshot_app_options_general": {
+      "message": "Genel"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Genel klavye kısayolu"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Klavye Kısayolları"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Tam ekran görüntüsünü anında kaydet"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Tam ekran görüntüsünü anında yükle"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) vekil sunucusu"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kalitesi"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Seçilen alanı hatırla"
+   },
+   "screenshot_app_options_language": {
+      "message": "Dil Seçimi"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Vekil sunucu yapılandırması"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Vekil sunucu kullanma"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Her zaman"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Asla"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Ekran görüntülerini optimize et (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Sadece yüklenirken"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Vekil Sunucu"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Kopyalama ya da yapıştırma işleminde bildirim göster"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Ayarlanmadı (direk bağlantı)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Sistemin vekil sunucu ayarlarını kullan"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Yüklenecek Resim Dosya Türü"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Kullanıcı Adı:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Giriş Yap"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot giriş yapma hatası"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Üye girişi yapılırken bir hata oluştu.Lütfen tekrar deneyin."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ekran görüntüsü yakala"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Kullanım Koşulları"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Klavyenizden \"%hotkey_main%\" tuşuna basarak ekran görüntüsü yakalamaya başlayabilirsiniz."
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Bu mesajı tekrar gösterme"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "İptal"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Hay aksi!\u003C/h4>Tekrar oldu! Google Chrome yüksek çözünürlüklü monitörlerde ekran işlevselliğiyle ilgili \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">çok kötü bir hataya\u003C/a> sahip. Tarayıcı bütün resimlerin ölçeklerini düşürüyor, böylece kaliteli bir ekran görüntüsü yerine bulanık bir görüntüyle karşılaşıyorsunuz. Bu hata, hata izleyicisinde sabit olarak işaretlendiği halde henüz düzeltilmedi, umuyoruz ki Chrome 39 veya 40 sürümünde düzeltilmiş olacak. Ne yazık ki biz bu konuda bir şey yapamıyoruz.\u003Cbr>Şiddetle Lightshot masaüstü sürümünü öneriyoruz. Masaüstü sürümü Google Chrome değişikliklerinden etkilenmez. Şuradan indirebilirsiniz: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Verdiğimiz rahatsızlıktan dolayı özür dileriz."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Ne yazık ki Google Chrome resimleri panoya kopyalamaya API ile izin vermiyor, bu yüzden bu özelliği kapattık. Verdiğimiz rahatsızlıktan dolayı özür dileriz.\\n\\nNası yardımcı olabilirsiniz?\\nGoogle Chrome hata izleyicisinde bunla ilgili bir konu mevcut. O konuyu yıldız ile öne çıkarırsanız, önceliği yüksek hale gelirse belki yakın zamanda düzeltilir.\\n\\nVeya Lightshot masaüstü sürümü kullanabilirsiniz. Kopyalama özelliği mükemmel şekilde çalışıyor bu sürümde. Şuradan indirebilirsiniz: http://app.prntscr.com/\\n\\n\"Tamam\" butonuna bastığınızda Google Chrome hata izleyiciye gidersiniz.\\n\"İptal\" butonuna bastığınızda bu pencere kapanır."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Seçimi Temizle"
+   },
+   "screenshot_plugin_close": {
+      "message": "Kapat"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopyala"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Hata:Firefox CTypes Lightshot'ı yüklerken hata oluştu. Lütfen tarayıcınızı yeniden başlatın. Hata almaya devam ediyorsanız lütfen aşağıdaki hata bilgileriyle birlikte support@skillbrains.com adresine e-posta göndererek bizimle iletişime geçin.\\n\\nDetaylı Hata Bilgileri: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Ok"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Bulanıklık"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Yuvarlak"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Renk"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Çizgi"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "İşaretleyici"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Kalem"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Dikdörtgen"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Metin"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Geri Al"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Ekran Görüntüsünü çevrimiçi düzenle"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Hata"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Tüm ekranı seç"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Üzgünüz, Lightshot sadece Windows işletim sisteminde çalışır. Eğer Mac kullanıyorsanız Mac App Store'dan uygulamamızı indirebilirsiniz. App Store'dan şimdi indirmek ister misiniz?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Resim yüklenen sunucudan hatalı yapıda JSON yanıtı"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Hatalı Boyut"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Eski güzel Lightshot'a ne oldu?\u003C/h4>Bildiğiniz gibi Google Chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">NPAPI eklenti desteğini Eylül ayında durdurdu\u003C/a>. Yani bu değişikliğe uyum sağlamak zorundayız.\u003Cbr>NPAPI desteğini Javascript'e taşımak sıkıntılıydı. Bu yüzden şu anda \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">Google Chrome hatasından dolayı\u003C/a> \"Kopyalama\" özelliğini iptal ettik ve diğer bazı özelliklerde etkilendi.\u003Cbr>Eğer önceki sürümü seviyorsanız ve bu değişiklikler hoşunuza gitmediyse Lightshot masaüstü sürümünü denemenizi öneririz. \u003Ca href=\"http://app.prntscr.com/\">Masaüstü sürümü\u003C/a> Google Chrome değişikliklerinden etkilenmez. \u003Cbr>\u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">Buradan\u003C/a> indirebilirsiniz.\u003Cbr>Verdiğimiz rahatsızlıktan dolayı özür dileriz."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Hata: Lightshot NPAPI eklentisi bulunamadı. Lütfen tarayıcınızı tekrar çalıştırın. Hata almaya devam ediyorsanız lütfen support@skillbrains.com adresine e-posta göndererek bizimle iletişime geçin."
+   },
+   "screenshot_plugin_open": {
+      "message": "Aç"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Bir ekran görüntüsü optimize ediliyor"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Üzgünüz, Lightshot sadece Windows ve Mac işletim sistemlerinde çalışabilir. Eğer farklı bir işletim sistemi için kullanmak istiyorsanız, lütfen bize yazın: support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Yazdır"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Tekrar"
+   },
+   "screenshot_plugin_save": {
+      "message": "Kaydet"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Ekran Görüntüsü panoya kopyalandı"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Hata: Lightshot ekran görüntüsünü yakalayamadı. Lütfen tarayıcınızı yeniden başlatın. Hata almaya devam ediyorsanız lütfen aşağıdaki hata bilgileriyle birlikte support@skillbrains.com adresine e-posta göndererek bizimle iletişime geçin.\\n\\nDetaylı Hata Bilgileri: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Ekran Görüntüsü %filename% kaydedildi. Dosya konumunu açmak için tıklayın."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Ekran Görüntüsü Yüklendi. Bağlantı kopyalandı."
+   },
+   "screenshot_plugin_share": {
+      "message": "Sosyal ağlarda paylaş"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Facebook'da paylaş"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Google'da benzer görselleri ara"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pinterest'de paylaş"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "E-posta ile gönder"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Tineye'de benzer görselleri ara"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Twitter'da paylaş"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "VK'da paylaş"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Lütfen alan seçin"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "İptal - ekran görüntüsü yüklemeyi iptal et"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Lütfen vekil sunucu yapılandırmanızın doğru olduğundan ve Lightshot isteklerini engellemeyeceğinden emin olun."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Devam - Lightshot vekil sunucu yapılandırmasını aç"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Devam - sistem vekil sunucu yapılandırmasını açın"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot şu anda vekil sunucu olarak şunu kullanıyor: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot şu anda sistemde tanımlı vekil sunucu ayarı olarak bunu kullanıyor: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Tekrar Dene - geçerli ayarları tekrar kullanmayı deneyin"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Prntscr.com'a yükle"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Yükleme hatası"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detaylı bilgi"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Yükleme başarısız."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Yükleme Başarısız. Tekrar Dene?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Resim yükleniyor"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Ekran Görüntüsü Yakala"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (ekran görüntüsü aracı)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Ekran görüntüsü yakalamak için kolay ve kullanışlı uygulama. Belirli bir alanı seçebilir, düzenleyebilir ve uzak sunucuya yükleyebilirsiniz."
+   }
+}

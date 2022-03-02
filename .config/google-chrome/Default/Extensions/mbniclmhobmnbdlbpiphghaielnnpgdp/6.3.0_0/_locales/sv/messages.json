@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Om"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Alla rättigheter reserverade."
+   },
+   "screenshot_app_exit": {
+      "message": "Lämna"
+   },
+   "screenshot_app_help": {
+      "message": "Hjälp"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Misslyckades registrera snabbtangent"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Förmodligen använder en annan applikation redan den. Klicka på detta meddelande för att öppna dialogruta för alternativ"
+   },
+   "screenshot_app_language_code": {
+      "message": "SV"
+   },
+   "screenshot_app_language_name": {
+      "message": "Svenska"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Swedish"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mitt galleri (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Logga in..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Logga ut"
+   },
+   "screenshot_app_options": {
+      "message": "Alternativ"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Stänger automatiskt nedladdat fönster"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Kopiera automatiskt en länk efter ledladdning"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Fånga en markör på en skärmdump"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurera"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "System proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Du kan inte samma snabbtangent för flera funktioner. Ändra en av snabbtangenterna."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "En av snabbtangenterna är ur funktion. Om du vill inaktivera den snabbtangenten, bocka av motsvarande kryssruta."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Format"
+   },
+   "screenshot_app_options_general": {
+      "message": "Allmän"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Allmänna snabbtangenter"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Snabbtangenter"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Omedelbart sparande av fullskärm"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Omedelbar nedladdning av fullskärm"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvalitet"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Behåll det valda områdets position"
+   },
+   "screenshot_app_options_language": {
+      "message": "Språk"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Manuell proxy konfigurering"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Ingen proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Alltid"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Aldrig"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimera skärmdumpar (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Endast vid nedladdning"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Visa meddelande om kopiering och spara"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Inte upprättad (direktanslutning)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Använd system proxy inställningar"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Nedladdning enligt format"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Logga in som"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Logga in"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot inloggningsfel"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Ett fel uppstod under inloggning. Försök igen."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ta en screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Villkor"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Tryck \"%hotkey_main%\" på ditt tangentbord för att ta en skärmdump"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Avbryt"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Mäh!\u003C/h4>Det hände igen! Google Chrome har \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">en hemsk bugg\u003C/a>relaterad till skärmdumpens funktionsduglighet på high-dpi skärmar. Webbläsaren förminskar hela bilden, så du ser en suddig skärmdump istället för en med hög kvalitet. Trots att buggen är markerad som fixad i en buggspårare, släpps den bara med version Chrome 39 eller 40. Tyvärr kan vi inte göra något åt det.\u003Cbr>Vi rekommenderar skarpt att du prövar Lightshop skrivbords applikation. Den fungerar exakt som den gjorde tidigare, och den påverkas inte av förändringar i Google Chrome. Du kan ladda ner den här.\u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Vi ber om ursäkt för olägenheten."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Tyvärr tillhandahåller inte Google Chrome support för att kopiera bilder till klippbord med API, så vi var tvungna att stänga av det alternativet. Vi ber om ursäkt för olägenheten.\\n\\nHur kan du hjälpa?\\nDet finns en fråga i en Google buggspårare om det. Du kan markera den med en stjärna, så den får en högre prioritet och kan fixas snabbare.\\n\\nEller så kan du använda Lightshot fristående applikation. Kopieringsfunktion fungerar perfekt där. Du kan ladda ner den från http://app.prntscr.com/\\n\\nKlicka \"Ok\" för att öppna Google Chrome frågespårare.\\nKlicka \"Avbryt\" för att stänga denna dialog."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Rensa val"
+   },
+   "screenshot_plugin_close": {
+      "message": "Stäng"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiera"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Felmeddelande: Firefox CTypes misslyckades att ladda Lightshot. Testa att uppdatera din webbläsare. Om du fortfarande ser detta fel efter uppdatering, vänligen kontakta oss på support@skilbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Pil"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Suddig"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Cirkel"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Färg"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linje"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Markör"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Penna"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rektangel"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Ångra"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Redigera en shreenshot online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Fel"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Välj fullskärm"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Vi ber om ursäkt för olägenheten, men Lightshot fungerar bara på Windows datorer. Om du vill använda Lightshot för Mac, vänligen ladda ner den från Mac App Store. Gå till App Store nu?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Felaktig JSON struktur som svar från bildens värdserver"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Fel storlek"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Vad hände med den fina gamla Lightshot?\u003C/h4>Som du kanske vet stoppade Google\u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">stoppa support för NPAPI plugins i september\u003C/a> så vi blev tvungna att anpassa oss till denna förändring.\u003Cbr>Flytten från NPAPI till Javascript var inte smärtfri. För nuvarande har vi ingen \"Kopiera\" funktion på grund av\u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">denna Google fråga\u003C/a>. Även en del andra funktioner påverkades också.\u003Cbr>Om du älskade den förra versionen och inte tycker om dessa förändringar, uppmanar vi dig att testa Lightshop skrivbords applikation. Den fungerar exakt som innan och påverkas inte av förndringar i Google chrome. Du kan ladda ner den här: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Du kan läsa mer om den nya versionen\u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">här\u003C/a>.\u003Cbr>Vi ber om ursäkt för olägenheten."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Felmeddelande: Lightshot NPAPI plugin hittades inte. Pröva uppdatera din webbläsare. Om du fortfarande ser detta fel efter uppdatering, vänligen kontakta oss på support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Öppna"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimera skärmdump"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Vi ber om ursäkt för olägenheten, men Lightshot fungerar bara på Windows och Mac datorer. Om du vill använda Lightshot till ditt operativsystem, vänligen kontakta oss på support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Skriv ut"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Försök igen"
+   },
+   "screenshot_plugin_save": {
+      "message": "Spara"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Din skärmdump har kopierats till klippbord"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Problem: Lightshot kunde inte ta en screenshot. Testa att uppdatera din webbläsare. Om du fortfarande ser detta fel efter uppdatering, vänligen kontakta support@skillbrains.com.\\n\\nExtenden error info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Skärmdump sparades till %filename%. Klicka här för att öppna den i mappen."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Screenshot nedladdad. Länk kopierad till ditt klippbord."
+   },
+   "screenshot_plugin_share": {
+      "message": "Dela på sociala nätverk"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Dela på Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Sök liknande bilder på Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Dela på Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Skicka via e-mejl"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Sök liknande bilder på Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Dela på Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Dela på VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Välj område"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Avbryt - avbryt nedladdning av skärmdump"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Kontrollera att konfigureringen är korrekt och att proxy inte blockerar Lightshot förfrågningar."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Fortsätt - öppna Lightshot proxy konfigurering"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Fortsätt - öppna system proxy konfigurering"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Nuvarande Lightshot är konfigurerad att använda denna proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot använder nuvarande system proxy inställningar: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Pröva igen - försök med nuvarande inställningar"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Ladda ner till prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Nedladdningsfel"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detaljerad information"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Nedladdning misslyckades"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Nedladdning misslyckades. Försök igen?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Laddar ner bild"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Ta en Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot verktyg)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Enkelt och bekvämt skärmdump verktyg. Välj ett område, redigera din screenshot och ladda ned till servern."
+   }
+}

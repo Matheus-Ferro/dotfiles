@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "关于"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% 版权所有。"
+   },
+   "screenshot_app_exit": {
+      "message": "退出"
+   },
+   "screenshot_app_help": {
+      "message": "帮助"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "无法注册热键:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "可能它正在被另一个程序使用。点击此消息，打开选项对话框。"
+   },
+   "screenshot_app_language_code": {
+      "message": "ZH-CN"
+   },
+   "screenshot_app_language_name": {
+      "message": "中文（简体）"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Chinese(Simplified)"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "我的相册 (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "登录..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "退出"
+   },
+   "screenshot_app_options": {
+      "message": "选项"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "自动关闭上传窗口"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "复制以下链接以自动上传文件"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "在截图上捕捉光标"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "配置"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "系统代理"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "选择了相同的快捷键，请更改其中之一。"
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "您的一个热键无效。如果你想完全禁用快捷键，请勾选删除它。"
+   },
+   "screenshot_app_options_formats": {
+      "message": "格式"
+   },
+   "screenshot_app_options_general": {
+      "message": "常规"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "常规热键"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "热键"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "立即保存截图"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "立即上传截图"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) 代理"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG 质量"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "保留所选区域的位置"
+   },
+   "screenshot_app_options_language": {
+      "message": "语言"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "手动配置代理"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "不使用代理"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "始终"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "从不"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "优化截图 (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "仅上传"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "代理"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "端口"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "显示有关复制和保存的通知"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "不设置 (直接连接)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "使用系统代理设置"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "上传图像格式"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "登录:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "登录"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot 错误"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot:注册错误。请重试。"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "截屏"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot 免责声明"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "按截屏键启动截屏 (%hotkey_main%)"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "不要再显示该信息"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "取消"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>D'oh!\u003C/h4>发生了！ Google Chrome\u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">相关的截图功能，\u003C/a> 在高分辨率显示器发生了一个可怕的错误。 浏览器向下扩展的整体图像，所以你会看到模糊不清的截图，而不是高品质的屏幕截图。虽然这个错误被标记为固定在错误跟踪系统的修补程序将只发布使用 Chrome 39 或 40 版。我们不能做任何事情。\u003Cbr>我们强烈建议您尝试 Lightshot 桌面应用程序。它的工作原理完全像从前那样，不影响谷歌 Chrome 浏览器。你可以从这里下载 \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>造成的不便我们深表歉意。"
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "不幸的是谷歌 Chrome 不提供复制图像到剪贴板 API 支持，所以我们不得不将其关闭。 我们深表歉意造成的不便。\\n\\n如何帮助你?\\n目前在谷歌 Chrome 浏览器的错误追踪系统有关的问题。您可以使用星标记它，所以它就会有更多的优先权，将更快地修复。\\n\\n或者你可以使用 Lightshot 独立的应用程序。复制功能完美使用。你可以从 http://app.prntscr.com/ 下载\\n\\n单击 \"确定\" 打开谷歌 Chrome 浏览器问题跟踪。\\n点击“取消”关闭这个对话框。"
+   },
+   "screenshot_plugin_clear": {
+      "message": "清除"
+   },
+   "screenshot_plugin_close": {
+      "message": "关闭"
+   },
+   "screenshot_plugin_copy": {
+      "message": "复制"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "错误：Firefox 的组件无法加载 Lightshot。请尝试重新启动浏览器。如果您重新启动浏览器后，依旧出现此错误，请发送详细错误信息到\\n support@skillbrains.com \\n。错误信息： "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "箭头"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "模糊"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "圆形"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "颜色"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "直线"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "标记"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "铅笔"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "矩形"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "文本"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "撤消"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "在线编辑截图"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "错误"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "选取全屏幕"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "很抱歉，Lightshot 扩展仅适用于 Windows 平台。要使用在 Mac 使用 Lightshot，请从 App Store 安装。转到 App Store 商店并下载 Lightshot 吗?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "从图片托管服务器响应不正确的 JSON 结构"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "错误大小"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Lightshot 发生了什么变化?\u003C/h4>正如你可能知道的谷歌 Chrome 浏览器\u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">将停止支持 NPAPI 插件 \u003C/a>。 因此，我们必须适应这种变化。\u003Cbr>从 NPAPI 移动到 JavaScript 不是无痛的。 因为谷歌 Chrome 浏览器的问题，目前我们失去了“复制”功能 \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">\u003C/a>。和其他一些功能也受到了影响。\u003Cbr>如果你喜欢以前的版本，不喜欢这些变化，我们鼓励您尝试 Lightshot 桌面应用程序。它的工作原理完全像从前那样，不影响谷歌 Chrome 浏览器。你可以从这里下载: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>你可以在这儿 \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">阅读更多关于新版本\u003C/a>。\u003Cbr>造成的不便我们深表歉意。"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "错误：Lightshot NPAPI 插件没有找到。重新启动浏览器。如果您重新启动浏览器后，依然出现此信息，请通过 support@skillbrains.com 与我们联系。"
+   },
+   "screenshot_plugin_open": {
+      "message": "打开"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "优化截图"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "很抱歉，Lightshot 扩展仅适用于 Windows 平台。如果你想你的操作系统上使用 Lightshot 请发送电子邮件到 support@skillbrains.com 与我们联系。"
+   },
+   "screenshot_plugin_print": {
+      "message": "打印"
+   },
+   "screenshot_plugin_retry": {
+      "message": "重试"
+   },
+   "screenshot_plugin_save": {
+      "message": "保存"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "复制到剪贴板"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "错误：Lightshot 不能获取屏幕截图。请尝试重新启动浏览器。如果您重新启动浏览器后依然出现此错误，请发送错误详细信息到\\n support@skillbrains.com \\n。错误信息： "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "在文件夹中打开 %filename% 截图"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "复制上传链接到剪贴板"
+   },
+   "screenshot_plugin_share": {
+      "message": "分享"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "通过 Facebook 分享"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "在 Google 搜索类似图片"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "在 Pinterest 分享"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "通过 email 发送"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "在 Tineye 搜索类似图片"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "通过 Twitter 分享"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "通过 VK 分享"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "选择区域"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "取消 - 取消上传截图"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "请确保配置正确和代理不会阻止 Lightshot 请求。"
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "继续 - 打开 Lightshot 代理配置"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "继续 - 打开系统代理配置"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot 当前使用配置代理: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot 使用当前的系统代理设置: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "再试一次 - 使用当前设置重试"
+   },
+   "screenshot_plugin_upload": {
+      "message": "上传到 prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "上传错误"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "详细信息"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "上传失败。"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "上传失败。是否重试?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "上传图像"
+   },
+   "screenshotplugin_default_title": {
+      "message": "截图"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (截图工具)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "轻松方便屏幕捕获工具。可以让你做出任何选择的区域，编辑截图并上传到服务器。"
+   }
+}

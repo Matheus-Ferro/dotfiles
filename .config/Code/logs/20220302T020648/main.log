@@ -1,0 +1,8 @@
+[2022-03-02 02:06:49.003] [main] [info] update#setState idle
+[2022-03-02 02:06:49.028] [main] [info] ExtensionHostStarterWorker created
+[2022-03-02 02:06:49.596] [main] [info] Starting extension host with pid 103264 (fork() took 7 ms).
+[2022-03-02 02:06:49.596] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-03-02 02:07:19.018] [main] [info] update#setState checking for updates
+[2022-03-02 02:07:19.263] [main] [info] update#setState idle
+[2022-03-02 02:09:00.047] [main] [info] Waiting for extension host with pid 103264 to exit.
+[2022-03-02 02:09:00.064] [main] [info] Extension host with pid 103264 exited with code: 0, signal: null.

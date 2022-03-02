@@ -1,0 +1,6 @@
+2022/02/26-22:50:57.118 1bc68 Creating DB /home/breakcore/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/02/26-22:50:57.128 1bc68 Reusing MANIFEST /home/breakcore/.config/opera/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/26-22:52:20.229 1be75 Level-0 table #5: started
+2022/02/26-22:52:20.231 1be75 Level-0 table #5: 2222 bytes OK
+2022/02/26-22:52:20.233 1be75 Delete type=0 #3
+2022/02/26-22:52:20.233 1be75 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

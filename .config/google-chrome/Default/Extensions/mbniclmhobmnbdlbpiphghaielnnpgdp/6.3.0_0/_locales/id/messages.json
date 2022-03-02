@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Tentang"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Hak Cipta Dilindungi."
+   },
+   "screenshot_app_exit": {
+      "message": "Keluar"
+   },
+   "screenshot_app_help": {
+      "message": "Bantuan"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Gagal untuk meregister hotkey"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Kemungkinan aplikasi lain sudah menggunakannya. Klik pesan ini untuk membuka kotak dialog pilihan."
+   },
+   "screenshot_app_language_code": {
+      "message": "ID"
+   },
+   "screenshot_app_language_name": {
+      "message": "Bahasa Indonesia"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Indonesian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Galeri saya (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Masuk..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Keluar"
+   },
+   "screenshot_app_options": {
+      "message": "Pilihan"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Menutup jendela pengunggahan otomatis"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Otomatis salin tautan setelah pengunggahan"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Ambil kursor di screenshot"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurasi"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sistem proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Anda tidak dapat mengatur hotkeys yang sama untuk fungsi yang berbeda. Silahkan ubah salah satu hotkeys."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Salah satu hotkeys Anda tidak valid. Jika Anda ingin menonaktifkan hotkey itu, silahkan hapus centang kotak centang yang sesuai."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Format"
+   },
+   "screenshot_app_options_general": {
+      "message": "General"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Tombol Pintasan Umum"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Tombol Pintas"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Simpan instan dengan layar penuh"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Unggah langsung dengan layar penuh"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "Proksi  HTTP(S)"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Kualitas JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Jaga posisi area yang dipilih"
+   },
+   "screenshot_app_options_language": {
+      "message": "Bahasa"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Pengaturan proksi manual"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Tidak ada proksi"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Selalu"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Tidak pernah"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimisasi screenshot (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Hanya saat mengunggah"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Munculkan pemberitahuan tentang menyalin dan menyimpan"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Tidak diatur (koneksi langsung)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Gunakan pengaturan sistem proksi"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Unggah menggunakan format"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Masuk sebagai"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Masuk"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot gagal masuk"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Ada kesalahan saat masuk. Silahkan coba lagi."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ambil screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Ketentuan Pelayanan Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Tekan tombol \"%hotkey_main%\" di Keyboard untuk mengambil screenshot"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Jangan  tampilkan pesan ini lagi"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Batalkan"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Aduh!\u003C/h4>Terjadi lagi! Google Chrome mempunyai\u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">bug yang parah\u003C/a>terkait dengan fungsi screenshot pada high-dpi monitor, Peramban tidak mencapai seluruh layar sehingga anda melihat hasil yang kabur dan tidak mendapatkan hasil maksimal meskipun bug itu hanya terjadi diversi Chrome 39 atau 40 Sayangnya, kita tidak bisa berbuat banyak. \u003Cbr>Kami sangat menyarankan agar Anda mencoba aplikasi desktop Lightshot, yang berfungsi persis sebagaimana anda gunakan sebelumnya dan tidak terpengaruh oleh perubahan Google Chrome. Anda dapat mengunduh di sini: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Kami mohon maaf atas ketidaknyamanan ini."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Sayangnya Google Chrome tidak menyediakan dukungan untuk menyalin gambar ke clipboard dengan API, jadi kami harus menonaktifkan pilihan ini. Kami mohon maaf atas ketidaknyamanan ini.\\n\\nBagaimana Anda dapat membantu?\\nAda pilihan pada bugtracker Google Chrome tentang hal itu. Anda dapat menandainya dengan bintang, sehingga akan memiliki prioritas yang lebih tinggi dan bisa diperbaiki lebih cepat.\\n\\nAtau Anda dapat menggunakan Lightshot sebagai aplikasi mandiri. Fitur Copy bekerja sempurna di sana. Anda dapat mendownload dari http://app.prntscr.com/\\n\\n Klik \"Ok\" untuk membuka pelacak isu Google Chrome.\\nKlik \"Batal\" untuk menutup dialog ini."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Bersihkan  Area"
+   },
+   "screenshot_plugin_close": {
+      "message": "Tutup"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Salin"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Kesalahan: Firefox CTypes gagal memuat Lightshot. Coba muat ulang peramban Anda. Jika Anda tetap melihat kesalahan ini setelah memuat ulang, harap kontak kami pada support@skillbrains.com.\\n\\nExtended info kesalahan: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Panah"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Buram"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Lingkaran"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Warna"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Garis"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Penanda"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pena"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Persegi"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Teks"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Urungkan"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Menyunting screenshot secara online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Kesalahan"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pilih Layar Penuh"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Kami mohon maaf atas ketidaknyamanan ini, sayangnya ekstensi Lightshot hanya berjalan pada komputer Windows. Jika Anda ingin menggunakan Lightshot untuk Mac, silahkan download dari Mac App Store. Pergi ke App Store sekarang?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Struktur JSON salah dalam respon dari server hosting gambar"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Ukuran Salah"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Apa yang terjadi dengan Lightshot sebelumnya?\u003C/h4>Seperti yang kita ketahui google chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">berhenti mendukung plugin NPAPI bulan september yang lalu  \u003C/a>  Jadi kami harus menyesuaikan diri dengan perubahan ini.\u003Cbr>Pindah dari NPAPI ke Javascript tidak sulit Sekarang kami kehilangan fitur \"Copy\" dikarenakan \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">Isu Google Chrome ini\u003C/a>Dan beberapa fitur lainnya juga terpengaruh. \u003Cbr> Jika Anda menyukai versi sebelumnya dan tidak suka perubahan ini, kami mendorong Anda untuk mencoba aplikasi desktop Lightshot. Ia bekerja persis seperti dulu sebelum dan tidak terpengaruh oleh perubahan Google Chrome. Anda dapat mengunduh di sini: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Anda dapat membaca lebih lanjut tentang versi baru \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">Disini\u003C/a>.\u003Cbr> Kami mohon maaf atas ketidaknyamanan ini."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Kesalahan: Plugin NPAPI Lightshot tidak ditemukan. Coba muat ulang browser anda. Jika anda masih melihat kesalahan ini setelah memuat ulang, silahkan hubungi kami di support@skillbrains.com"
+   },
+   "screenshot_plugin_open": {
+      "message": "Buka"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimisasi screenshot"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Kami mohon maaf atas ketidaknyamanan ini, tapi Lightshot hanya berjalan pada Windows dan Mac komputer. Jika Anda ingin Lightshot untuk sistem operasi Anda, silahkan hubungi kami di support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Cetak"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Coba lagi"
+   },
+   "screenshot_plugin_save": {
+      "message": "Simpan"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Screenshot anda telah dicopy ke clipboard"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Kesalahan: Lightshot gagal mengambil screenshot. Coba muat ulang peramban anda. Jika anda tetap melihat kesalahan ini setelah memuat ulang, harap hubungi support@skillbrains.com.\\n\\nExtended kesalahan info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Screenshot disimpan di %filename%. Klik di sini untuk membuka di folder."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Screenshot telah diunggah. Tautan telah disalin pada clipboard anda."
+   },
+   "screenshot_plugin_share": {
+      "message": "Bagikan di jejaring sosial"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Bagikan di Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Cari gambar yang mirip di Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Bagikan ke Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Kirim lewat email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Cari Gambar Serupa di Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Bagikan di Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Bagikan di VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Pilih area"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Batal - Batalkan unggahan screenshot"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Pastikan konfigurasi sudah benar dan proksi tidak memblokir permintaan Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Lanjutkan - buka konfigurasi sistem proksi"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Lanjutkan - buka konfigurasi sistem proxy"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Saat ini Lightshot dikonfigurasi untuk menggunakan proksi ini: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot menggunakan pengaturan sistem proksi terakhir: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Coba Lagi - coba menggunakan pengaturan saat ini"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Unggah ke prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Kesalahan mengunggah"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Lebih banyak informasi"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Gagal mengunggah."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Gagal mengunggah, Coba lagi ?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Mengunggah Gambar"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Ambil Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (alat screenshot)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Alat screenshot yang sederhana dan mudah. Pilih area, sunting screenshot anda dan mengunggahnya ke server."
+   }
+}

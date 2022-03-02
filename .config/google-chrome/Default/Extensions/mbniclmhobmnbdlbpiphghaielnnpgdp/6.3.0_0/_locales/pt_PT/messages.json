@@ -1,0 +1,260 @@
+{
+   "screenshot_app_about": {
+      "message": "Sobre"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Todos os direitos reservados."
+   },
+   "screenshot_app_exit": {
+      "message": "Sair"
+   },
+   "screenshot_app_help": {
+      "message": "Ajuda"
+   },
+   "screenshot_app_language_code": {
+      "message": "PT-PT"
+   },
+   "screenshot_app_language_name": {
+      "message": "Português"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Portuguese"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Minha galeria (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Entrando..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Sair"
+   },
+   "screenshot_app_options": {
+      "message": "Opções"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Fechar automaticamente a janela de envio"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Copiar automaticamente o link depois de enviar"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Configure"
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formatos"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Teclas de atalho"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Envio instantâneo do ecrã inteiro"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "Proxy HTTP(S)"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Qualidade JPEG"
+   },
+   "screenshot_app_options_language": {
+      "message": "Linguagem"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Configuração manual de proxy"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Sem proxy"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nunca"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Porta"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Mostrar notificações sobre copiar e guardar"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Não definido (conexão direta)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Usar as configurações de proxy do sistema"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Enviar usando o formato"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Logado como"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Entrar"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Erro ao entrar na Lightshot"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Ocorreu um erro ao entrar. Tente denovo."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Capturar ecrã"
+   },
+   "screenshot_app_terms": {
+      "message": "Termos de serviço do Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Pressione a tecla \"%hotkey_main%\" no seu teclado para capturar o ecrã"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Cancelar"
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Infelizmente o Google Chrome não permite copiar imagens para a área de transferência com a API e por isso tivemos que a desativar. Pedimos desculpa pelo inconveniente.\\n\\nComo pode ajudar?\\nHá um reporte de bug acerca disto no Google Chrome bugtracker. Pode sinalizar a página que reporta este bug para termos mais probabilidades de ver o problema resolvido em breve.\\n\\nOu pode usar a aplicação Lightshot onde a ferramenta de cópia funciona perfeitamente. Pode transferi-la aqui http://app.prntscr.com/\\n\\nClique em \"OK\" para abrir o Google Chrome bugtracker.\\nClique em \"Cancelar\" para fechar esta mensagem."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Limpar seleção"
+   },
+   "screenshot_plugin_close": {
+      "message": "Fechar"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Copiar"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Erro: Firefox CTypes falhou ao carregar Lightshot. tente reiniciar o seu navegador. Se o erro presistir, por favor contate o suporte support@skillbrains.com.\\n\\nInformação extendida do erro: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Seta"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Borrar"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Círculo"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Cor"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linha"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marcador"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Caneta"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Retângulo"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Texto"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Desfazer"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Editar captura de ecrã online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Erro"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Selecionar tela inteira"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Pedimos desculpas pela inconveniência, mas a extensão Lightshot só pode ser executada em computadores com Windows. Se você quiser Lightshot para Mac por favor instale pela Mac App Store. Deseja ir para a App Store agora?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Tamanho incorreto"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Erro: Plugin Lightshot NPAPI não encontrado. Tente reiniciar o seu navegador. Se você continuar a ver esse erro depois de recarregar, por favor entre em contato com support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Abrir"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Pedimos desculpas pela inconveniência, mas Lightshot apenas funciona em computadores com Windows e Mac. Se você quiser Lightshot para o seu sistema operacional, por favor entre em contato com support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Imprimir"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Tente de novo"
+   },
+   "screenshot_plugin_save": {
+      "message": "Guardar"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Erro: Lightshot não conseguiu tirar a captura de ecrã. Tente reiniciar o seu navegador. Se o erro presistir, por favor contate o suporte support@skillbrains.com.\\n\\nInformação extendida do erro: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "A captura de ecrã foi salva como %filename%. Clique aqui para abrir a pasta"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "A captura de ecrã foi enviada: O link foi copiado para a sua clipboard."
+   },
+   "screenshot_plugin_share": {
+      "message": "Partilhar nas redes sociais"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Partilhar no Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Pesquisar imagens semelhantes no Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Partilhar no Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Enviar por email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Pesquisar imagens semelhantes no Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Partilhar no Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Partilhar no VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Selecionar área"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Continuar - abrir configurações de proxy do sistema"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Atualmente Lightshot está configurado para usar este proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot usa as configurações atuais de proxy do sistema: %proxy%"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Enviar para prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Erro no envio"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Informação detalhada"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Falha no envio"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "O envio falhou. Tentar novamente?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Enviando imagem"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Capturar tela"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (Ferramenta de captura)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Captura de tela fácil e conveniente. Permite que você capture qualquer área selecionada, editar e enviar para o servidor."
+   }
+}

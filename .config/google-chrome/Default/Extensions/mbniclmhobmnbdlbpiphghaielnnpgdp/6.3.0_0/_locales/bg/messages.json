@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Относно"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Всички права запазени"
+   },
+   "screenshot_app_exit": {
+      "message": "Изход"
+   },
+   "screenshot_app_help": {
+      "message": "Помощ"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Не успя да регистрира бърза клавишна комбинация"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Вероятно друго приложение вече го използва. Натисни на това съобщение за да отвориш опции"
+   },
+   "screenshot_app_language_code": {
+      "message": "BG"
+   },
+   "screenshot_app_language_name": {
+      "message": "Български език"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Bulgarian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Моята галерия (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Впиши се..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Отпиши се"
+   },
+   "screenshot_app_options": {
+      "message": "Опции"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Автоматично затвори прозореца за качване"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Автоматично копирай линк след качване"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Заснеми курсора на скрииншот"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Конфигурирай"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Системно прокси"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Не може да използвате същата клавишна комбинация за различни функции. Моля променете една от комбинациите."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Една от вашите бързи клавишни комбинации е невалидна. Ако искате да деактивирате бързата клавишна комбинация, моля махнете отметката на съответното квадратче"
+   },
+   "screenshot_app_options_formats": {
+      "message": "Формати"
+   },
+   "screenshot_app_options_general": {
+      "message": "Общ"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Обща клавишна комбинация"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Комбинация от копчета"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Моментално запазване на целия екран"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Моментално качване на целия екран"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) прокси"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG качество"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Запазете селектираната позиция"
+   },
+   "screenshot_app_options_language": {
+      "message": "Език"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Ръчно конфигуриране на прокси"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Няма прокси"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Винаги"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Никога"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Оптимизирай скрииншотове (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Само когато се качва"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Прокси"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Порт"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Покажи известия за копиране и запазване"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Незададено (директна връзка)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Използвайте системните прокси настройки"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Качи използвайки формата"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Вписан като"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Впиши се"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Грешка при Lightshot вписване"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Възникна грешка докато се вписвахте. Моля опитайте отново."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Направи скрииншот"
+   },
+   "screenshot_app_terms": {
+      "message": "Условия за ползване на Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Натиснете бутона \"%hotkey_main%\" на вашата клавиатура, за да снимате"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Не показвай това съобщение отново"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Откажи"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>D'oh!\u003C/h4> Това се случи отново! Google Chrome има \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\"> ужасен бъг\u003C/a> принадлежащ към скрииншот функционалността на high-dpi монитори. Браузърът намалява цялата снимка, така Вие ще виждате замаглен, вместо висококачествен скрииншот. Въпреки, че бъга е маркиран като поправен в тракера за грешки, ъпдейт ще бъде наличен само за Chrome с версия 39 или 40. За съжаление, ние не можем да направим нищо по върпоса.\u003Cbr>Силно препоръчваме да пробвате Lightshot десктоп версията. Тя работи точно както би трябвало и не е засегната от промените в Google Chrome. Може да я свалите от: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Извиняваме се за неудобството."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "За съжаления Google Chrome не предоставя поддръжка за копиране на снимки от клипбоард с API, затова ние трябва да изключим тази опция. Извиняваме се за неудобството.\\n\\nКак може да помогнете?\\nИма проблем с Google Chrome следенето на буболечки.\\n\\nМожете да го маркирате като звезда, така ще има висок приоритет и може да бъде поправено по-скоро. Или може да използвате Lightshot десктоп версията. Там функцията за копиране работи прекрасно. Вие можете да я свалите от http://app.prntscr.com/\\n\\nНатиснете \"Добре\" за да отворите Google Chrome.\\nНатиснете \"Затвори\" за да затворите прозореца."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Изчистване"
+   },
+   "screenshot_plugin_close": {
+      "message": "Затвори"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Копиране"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Грешка: Firefox Ctypes не успя да зареди Lightshot. Опитайте се да презаредите браузъра. Ако продължавате да виждате тази грешка след презареждане, моля свържете се с support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Стрелка"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Замъгли"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Окръжност"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Цвят"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Линия"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Маркер"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Писалка"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Триъгълник"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Текст"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Премахване"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Онлайн редактиране"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Грешка"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Избиране на целия екран"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Извиняваме се за неудобството, но Lightshot разширението работи само на Windows компютри. Ако искате да използвате Lightshot за Mac, моля свалете го от Mac App Store. Отидете до магазина за приложения сега?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Неправилна JSON структура в отговор от снимков хостинг сървър"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Неправилен размер"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Какво се случи с добрия стар Lightshot?\u003C/h4>Както може би знаете Google Chrome спря \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">спира поддържането на NPAPI плъгини през септември\u003C/a>. Така ние трябва да се настроим към тези промени.\u003Cbr>Местенетоот NPAPI към Javascript не бе безболезнено. За момента загубихме нашата \"Copy\" заради \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">този Google Chrome проблем\u003C/a>. Също и някои други функции бяха засегнати.\u003Cbr>Ако харесваш миналата версия и не харесваш тези промени, ние те насърчаваме на опиташ Lightshot десктоп версията. Тя работи точно както работеше преди и не е засегната от промените на Google Chrome. Може да я свалите тук: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Може да прочетете повече за новата версия \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">тук\u003C/a>.\u003Cbr>Извиняваме се за неудобството."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Грешка: Lightshot NPAPI плъгина не е открит. Опитайте да презаредите браузъра. Ако продължавате да виждате тази грешка след презареждане, моля свържете се с support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Отвори"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Оптимизиране на скрииншот"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Извиняваме се за неудобството, но Lighshot работи само на Windows и Mac компютри. Ако искате Lightshot за вашата операционна система, моля свържете се с support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Принтиране"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Опитай отново"
+   },
+   "screenshot_plugin_save": {
+      "message": "Запазване"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Твоят скрииншот е копиран в клипбоард"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Грешка: Lightshot не бе в състояние да направи скрииншот. Опитайте се да презаредите вашия браузър. Ако продължавате да виждате тази грешка след презареждане, моля свържете се с support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Скрииншот е запазен в %filename%. Натиснете тук за да отворите папката"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Скрииншота е качен. Линкът е копиран в клипбоард."
+   },
+   "screenshot_plugin_share": {
+      "message": "Сподели в социални мрежи"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Сподели в Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Търсене на подобни изображения в Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Сподели в Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Изпрати чрез email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Търсене на подобни изображения в Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Сподели в Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Сподели в VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Избери област"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Откажи - откажи качването на скрииншот"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Моля уверете се, че конфигурацията е правилна и прокси настройките не блокират Lightshot рекуести."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Продължи - отвори Lightshot прокси конфигурация"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Продължи - отвори системните прокси конфигурации"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Понастоящем Lightshot е конфигуриран да използва това прокси: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot използва сегашните proxy настройки: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Опитай отново - опитай използвайки сегашните настройки"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Качване в prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Грешка при качване"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Детайлна информация"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Провалено качване"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Качването е прекъснато. Ще опитате ли отново?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Качване на изображението"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Направи скрииншот"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (скрииншот инструмент)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Névjegy"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Minden jog fenntartva."
+   },
+   "screenshot_app_exit": {
+      "message": "Kilépés"
+   },
+   "screenshot_app_help": {
+      "message": "Segítség"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Nem sikerült regisztrálni a gyorsbillentyűt:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Mintha egy másik alkalmazás használná már. Kattints erre az üzenetre a beállítások eléréséhez."
+   },
+   "screenshot_app_language_code": {
+      "message": "HU"
+   },
+   "screenshot_app_language_name": {
+      "message": "Magyar"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Hungarian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Galériám (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Bejelentkezés"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Kijelentkezés"
+   },
+   "screenshot_app_options": {
+      "message": "Beállítások"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Feltöltőablak automatikus bezárása"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automatikusan másolja ki a linket feltöltés után"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Kurzor rögzítése a képernyőmentésen"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Beállítás"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Rendszer proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Különböző funkciókra nem állíthatod be ugyanazokat a gyorsbillentyűket. Kérlek változtasd meg az egyik gyorsbillentyűt."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "A gyorsbillentyűid közül az egyik érvénytelen. Ha le szeretnéd tiltani a gyorsbillentyűt, kérlek vedd ki a pipát a megfelelő jelölőnégyzetből."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formátumok"
+   },
+   "screenshot_app_options_general": {
+      "message": "Általános"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Általános gyorsbillentyű"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Gyorsbillentyűk"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Azonnali teljesképernyős mentés"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Azonnali teljesképernyős feltöltés"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG minőség"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Kijelölt terület pozíciójának megtartása"
+   },
+   "screenshot_app_options_language": {
+      "message": "Nyelv"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Kézi proxy beállítás"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Nincs proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Mindig"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Soha"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Képernyőmentés optimalizálása (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Csak feltöltéskor"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Értesítések mutatása a másolásról és a mentésről"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nincs beállítva (közvetlen kapcsolat)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "A rendszer proxy beállítások használata"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Feltöltés más formátummal"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Bejelentkezve, mint"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Bejelentkezés"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot bejelentkezési hiba"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Hiba lépett fel bejelentkezés közben. Kérlek próbáld újra."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Képernyőmentés készítése"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Általános Szerződési Feltételek"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Nyomd le a(z) \"%hotkey_main%\" gombot a billentyűzeteden a képernyőmentés felvételéhez"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Ne mutasd újra ezt az üzenetet"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Mégsem"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Ajj!\u003C/h4>Újra megtörtént! A Google Chrome-nak van \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">egy borzasztó hibája\u003C/a> a nagy felbontású monitorokkal kapcsolódóan. A böngésző lekicsinyíti a teljes képet, így egy homályos képet fogsz látni a magasfelbontású kép helyett. Habár a hiba javítottnak van feltüntetve a hibakövető listán, a javítás csak a Chrome 39 vagy 40-es verzióban fog feltűnni. Sajnos, efelől mi semmit sem tehetünk.\u003Cbr>Erősen ajánljuk, hogy próbáld ki a Lightshot asztali alkalmazást. Pontosan úgy működik, ahogyan régen is, és nem érintett a Google Chrome által. Letöltheted itt: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Elnézést kérünk a kellemetlenségekért."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Sajnos a Google Chrome nem támogatja a képek másolását a vágólapra az API segítségével, így ezt ki kellett kapcsolnunk. Elnézést kérünk a kellemetlenségekért.\\n\\nHogyan segíthetsz?\\nVan egy probléma a Google Chrome hibakövetőjében. Ezt megjelölheted csillaggal, így nagyobb elsőbbséget fog élvezni és korábban javíthatóvá válik.\\n\\nVagy használhatod a különálló Lightshot alkalmazást. A Másolás funkció tökéletesen működik benne. Innen töltheted le: http://app.prntscr.com/\\n\\nKattints az \"Ok\"-ra, hogy megnyissa a Google Chrome hibakövetőjét.\\nKattints a \"Mégsem\" gombra a bezáráshoz."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Kijelölés törlése"
+   },
+   "screenshot_plugin_close": {
+      "message": "Bezárás"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Másolás"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Hiba: Firefox CTypes nem tudta betölteni a Lightshot-ot. Próbáld meg újratölteni a böngésződet. Ha az újratöltés után is látod ezt a hibát, kérlek vedd fel velünk a kapcsolatot: support@skillbrains.com.\\n\\nBővített hiba információk: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Nyíl"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Elmosódás"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Kör"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Szín"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Vonal"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Jelölő"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Toll"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Téglalap"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Szöveg"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Visszavonás"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Képernyőmentés szerkesztése online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Hiba!"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Teljes képernyő"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Elnézést kérünk a kellemetlenségekért, de a Lightshot alkalmazás csak Windows számítógépeken működik. Ha a Lightshot-ot Mac-en szeretnéd használni, kérlek töltsd le a Mac App Store-ból. Megnyissuk az App Store-t?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Hibás JSON szerkezet a válasz a képtárhely szervertől"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Hibás méret"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Mi történt a régi jó Lightshot-tal?\u003C/h4>Mint tudod, a  Google Chrome leállította \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">az NPAPI pluginok támogatását Szeptemberben.\u003C/a>. Szóval nekünk is igazodnunk kellett a változáshoz.\u003Cbr>NPAPI-ról Javascript-ra való átállás nem volt fájdalommentes. Jelenleg elvesztettük a \"Másolás\" funkciónkat e \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">Google Chrome hiba okán\u003C/a>. További néhány funkciónk érintett még ebben.\u003Cbr>Ha szereted a régi verziót és nem szereted a változtatásokat, javasoljuk, hogy kipróbáld a Lightshot asztali alkalmazást. Pontosan úgy működik, ahogyan régen is, és nem érintett a Google Chrome által. Letöltheted itt: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Többet is olvashatsz az új verzióról \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">itt\u003C/a>.\u003Cbr>Elnézést kérünk a kellemetlenségekért."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Hiba: A Lightshot NPAPI plugin nem található. Próbáld meg újratölteni a böngésződet. Ha továbbra is látod ezt a hibát újratöltéskor, kérlek vedd fel velünk a kapcsolatot: support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Megnyitás"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Képernyőmentés optimalizálása"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Elnézést kérünk a kellemetlenségekért, de a Lightshot kiterjesztés csak Windows és Mac számítógépeken működik. Ha szeretnéd a Lightshot-ot a te operációs rendszeredre, kérlek vedd fel velünk a kapcsolatot: support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Nyomtatás"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Újra"
+   },
+   "screenshot_plugin_save": {
+      "message": "Mentés"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "A képernyőmentésed a vágólapra lett másolva"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Hiba: Lightshot képtelen volt képernyőmentést készíteni. Próbáld meg újratölteni a böngésződet. Ha továbbra is ezt a hibát látod újratöltéskor, kérlek vedd fel velünk a kapcsolatot: support@skillbrains.com.\\n\\nTovábbi információk: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "A képernyőmentés elmentve %filename%-ként. Kattints ide a mappában való megnyitásra."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Képernyőmentés feltöltve. A link a vágólapra lett másolva."
+   },
+   "screenshot_plugin_share": {
+      "message": "Megosztás a közösségi portálokon"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Megosztás a Facebookon"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Hasonló képek keresése itt: Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Megosztás a Pinteresten"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Elküldése email által"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Hasonló képek keresése itt: Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Megosztás a Twitteren"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Megosztás a VK-n"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Terület kijelölése"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Mégsem - képernyőmentés feltöltésének megszakítása"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Kérlek győződj meg arról, hogy a beállítás helyes és a proxy nem tiltja le a Lightshot kéréseit."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Folytatás - a Lightshot proxy beállítások megnyitása"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Folytatás - a rendszer proxy beállítások megnyitása"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "A Lightshot jelenleg az alábbi proxy beállítást használja:: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "A Lightshot jelenleg az alábbi proxy beállítást használja: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Újra - újra, a jelenlegi beállításokkal"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Feltöltés a prntscr.com-ra"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Feltöltési hiba"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Részletes információk"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Feltöltés sikertelen."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Sikertelen feltöltés. Megpróbáljuk újra?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Kép feltöltése"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Képernyőmentés készítése"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (képernyőmentés alkalmazás)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Egyszerű és kényelmes képernyőmentő alkalmazás. Válassz ki egy területet, szerkeszd meg a képet, és töltsd fel a szerverre."
+   }
+}

@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "スクリーンショットの使い方の説明"
+   },
+   "screenshot_app_copyright": {
+      "message": "著作権は、'%company%' にあります。"
+   },
+   "screenshot_app_exit": {
+      "message": "終了"
+   },
+   "screenshot_app_language_code": {
+      "message": "JA"
+   },
+   "screenshot_app_language_name": {
+      "message": "日本語"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Japanese"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "スクリーンショットを取る"
+   },
+   "screenshot_app_terms": {
+      "message": "\"Lightshot\" のサービス項目"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "キーボードの \"%hotkey_main%\" キーを押すとスクリーンショットが始まります。"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "キャンセル"
+   },
+   "screenshot_plugin_clear": {
+      "message": "クリアー"
+   },
+   "screenshot_plugin_close": {
+      "message": "閉じる"
+   },
+   "screenshot_plugin_copy": {
+      "message": "コピー"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "スクリーンショットを編集"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "エラー"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "フルスクリーン"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "サイズが異なる"
+   },
+   "screenshot_plugin_open": {
+      "message": "開く"
+   },
+   "screenshot_plugin_print": {
+      "message": "印刷"
+   },
+   "screenshot_plugin_save": {
+      "message": "保存"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "\"Facebook\" で共有"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "\"Google\" で似た画像を探す"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "メールで送信"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "\"Tineye\" で似た画像を探す"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "\"Twitter\" で共有"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "範囲を選択"
+   },
+   "screenshot_plugin_upload": {
+      "message": "\"prntscr.com\" へアップロード"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "アップロード失敗。もう一度行いますか？"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "画像をアップロード"
+   },
+   "screenshotplugin_default_title": {
+      "message": "スクリーンショットを取る"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

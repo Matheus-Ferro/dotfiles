@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Despre"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Toate drepturile rezervate."
+   },
+   "screenshot_app_exit": {
+      "message": "Ieşire"
+   },
+   "screenshot_app_help": {
+      "message": "Ajutor"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Eşuare în a salva o tastă:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "O altă aplicație folosește această tastă. Click pe acest mesaj pentru a deschide opțiunile casetei de dialog."
+   },
+   "screenshot_app_language_code": {
+      "message": "RO"
+   },
+   "screenshot_app_language_name": {
+      "message": "Română"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Engleza"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Galeria mea (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Logati-va..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Deconectare"
+   },
+   "screenshot_app_options": {
+      "message": "Optiuni"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Inchide automat fereastra de încărcare"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Copiază un link automat după încărcare"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Capturaţi cursorul în captura de ecran"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Configurează"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sistemul proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Nu poti folosi aceeasi combinatie de taste pentru functii diferite. Te rugam sa schimbi una dintre taste."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Una dintre combinatiile tale este invalida. Daca doresti sa dezactivezi aceasta combinatie, te rugam debifeaza casuta corespondenta."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formate"
+   },
+   "screenshot_app_options_general": {
+      "message": "General"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Combinatii generale"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Combinaţii"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Salvare instantă a intregului ecran"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Încărcaţi instant când este pe tot ecranul."
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "Lightshot foloseşte setările proxy HTTP(S): %proxy%"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Calitate JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Pastreaza pozitia zonei selectate"
+   },
+   "screenshot_app_options_language": {
+      "message": "Limba"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Configurare manuala proxy"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Fără proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Mereu"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Niciodată"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimizeaza capturile de ecran (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Numai la incarcare"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Arată notificările pentru copiere si salvare"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nu este setat (conexiune directa)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Utilizati setarile proxy ale sistemului"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Încarcă folosind formatul"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Logat ca"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Conectează-te"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot Eroare la logare"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: O eroare a apărut când vă logaţi. Vă rugăm reîncercaţi."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Efectuează captura"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Termeni şi condiţii"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Apasă tasta \"%hotkey_main%\" de pe tastatură pentru a efectua captura de ecran"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Nu mai arăta acest mesaj iar"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Anulează"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>D'oh!\u003C/h4>Se intampla din nou! Google Chrome a \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">a terrible bug\u003C/a> legat functionalitatea capturii pe monitoare de inalta-dpi. Browser-ul a micsorat intreaga imagine, astfel încât veți vedea o captura neclară în loc de o captura de înaltă calitate. THough bug-ul este marcat ca fixat într-un tracker bug fix va fi deblocat numai cu versiunile Chrome 39 sau 40. Din pacate, nu putem face nimic in aceasta privinta.\u003Cbr>Noi va recomandam puterni sa folositi aplicatia Lightshot pentru desktop. Functioneaza exact ca inainte si nu este afectat de schimbarile in Google Cgrome. O poti descarca de aici: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Ne cerem scuze pentru inconveniente."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Din pacate Google Chrome nu ofera suport pentru copierea imaginilor in clipboard cu API, drept urmare aceasta optiune a fost oprita. Ne cere scuze pentru inconveniente.\\n\\nCum puteti ajuta?\\nExista o problema in arhiva Google Chrome despre asta. O puteti marca cu o stea, asa va fi marca cu prioritate si va fi putea fi rezolvata in curand.\\n\\nSau puteti folosi Lisghshot separat ca aplicatie individuala.funcția de copiere functioneaza perfect acolo. O puteti descarca de pe http://app.prntscr.com/\\n\\nClick \"Ok\" sa deschideti tracker-ul de probleme .\\nClick \"Anulează\" pentru a inchide acest dialog."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Curăţă sectiunea"
+   },
+   "screenshot_plugin_close": {
+      "message": "Închide"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Copiază"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Eroare: Firefox CTypes nu a reuşit să încarce Lightshot. Încearcă să reîncarci browserul. Dacă problema continuă să apară după reîncărcare,vă rugăm contactaţi-ne la support@skillbrains.com\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Sageata"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Blurează"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Cerc"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Culoare"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linie"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marker"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Stilou"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Dreptunghi"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Anula"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Editează captura de ecran online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Eroare"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pe tot ecranul"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Ne cerem scuze pentru neplăcerile create, dar Lightshot poate fi executat numai de către utilizatorii Windows. Dacă vrei să foloseşti Lightshot pentru Mac, vă rugăm descărcaţi-l de pe Mac App Store. Accesaţi Mac App Store acum?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Structura JSON incorecta in raspunsul de la serverul gazda al imaginii"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Dimensiune greşită"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Ce i se intampla vechiului Lightshot\u003C/h4>Asa cum poate stii Google Chrome l-a oprit \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">a incetat sa mai suporte plugin-urile NPAPI in Septembrie\u003C/a>. Asa ca noi a trebuit sa ajustam aceasta schimbare.\u003Cbr>Mutarea de la NPAPI pe Javascript a fost dureroasa. In prezent ne-am pierdut trasatura de \"Copiere\" din cauza \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">acestei probleme a Google Chrome\u003C/a>. Si alte trasaturi vor fi de asemenea afectate.\u003Cbr>Daca va place vechea versiune, va incurajam sa incercat Lightshot pentru desktop.Functioneaza exact ca inainte si nu este afectata de schimbarile in Google Chrome.O poti descarca de aici: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Poti citi mai multe despre noua versiune \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">aici\u003C/a>.\u003Cbr>Ne cerem scuze pentru inconveniente."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Eroare: Lightshot NPAPI plug-in nu a fost găsit. Încearcă să reîncarci browserul. Dacă problema persistă după reîncărcare vă rugăm contactaţi-ne la support@skillbrains.com"
+   },
+   "screenshot_plugin_open": {
+      "message": "Deschide"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Se optimizeaza captura de ecran"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Ne pare rău pentru acest inconvenient, dar Lightshot este valabil numai pentru utilizatorii Windows si Mac. Daca vrei Lightshot pentru sistemul tău de operare, vă rugăm contactaţi-ne la support@skillbrains.com"
+   },
+   "screenshot_plugin_print": {
+      "message": "Printează"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Reincercati"
+   },
+   "screenshot_plugin_save": {
+      "message": "Salvează"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Captura ta de ecran este copiata in clipboard"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Eroare: Lightshot nu a putut face captura de ecran.Reîncarcă browser-ul utilizat. Dacă eroarea mai apare după reîncărcare,vă rugăm trimite-ţi un e-mail la adresa: support@skillbrains.com\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Captura de ecran a fost salvată cu numele de %filename%. Apasă aici pentru a deschide dosarul în care se află captura de ecran."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Captura de ecran este încărcată.Link-ul este copiat."
+   },
+   "screenshot_plugin_share": {
+      "message": "Distribuiti pe retelele sociale."
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Distribuiţi pe Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Caută imagini similare pe Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Distribuie pe Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Trimite prin email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Caută imagini similare pe Google Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Distribuiţi pe Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Distribuie pe VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Selectează o zonă"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Anulează - anulează incarcarea capturii de ecran"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Va rugam asigurati-va ca este corecta configurarea iar proxy nu blocheaza cererile Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Continuă - deschideţi configurările proxy ale Lightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Continuati - deschideti configuratia proxy a sistemului"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot este configurat să folosească momentan acest proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot foloseşte setările proxy curente: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Incearca iar - reincearca folosind setarile actuale"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Încarcă pe prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Eroare la încărcare"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Informatii detaliate"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Încărcarea a eşuat."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Incărcare nereusită. Reîncercaţi?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Imaginea se incarcă"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Efectuează captura de ecran"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (instrumente pentru captura de ecran)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Instrument simplu şi la îndemână pentru capturi de ecran. Selectează zona dorită, editează captura de ecran si încarc-o pe server."
+   }
+}

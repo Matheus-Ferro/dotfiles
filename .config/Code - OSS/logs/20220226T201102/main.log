@@ -1,0 +1,7 @@
+[2022-02-26 20:11:02.679] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-02-26 20:11:02.701] [main] [info] ExtensionHostStarterWorker created
+[2022-02-26 20:11:03.898] [main] [info] Starting extension host with pid 27784 (fork() took 7 ms).
+[2022-02-26 20:11:03.898] [main] [info] ExtensionHostStarterWorker.start() took 12 ms.
+[2022-02-26 20:11:06.256] [main] [warning] Switching to using in-memory credential store instead because Keytar failed to load: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+[2022-02-26 20:11:13.246] [main] [info] Waiting for extension host with pid 27784 to exit.
+[2022-02-26 20:11:13.253] [main] [info] Extension host with pid 27784 exited with code: 0, signal: null.

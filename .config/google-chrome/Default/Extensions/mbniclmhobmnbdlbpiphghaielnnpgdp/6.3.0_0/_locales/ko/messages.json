@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "정보"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% All rights reserved."
+   },
+   "screenshot_app_exit": {
+      "message": "나가기"
+   },
+   "screenshot_app_help": {
+      "message": "도움말"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "단축키 등록 실패"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "다른 애플리케이션이 이미 사용하고 있는 것 같습니다. 다른 옵션을 보려면 이 대화상자를 클릭."
+   },
+   "screenshot_app_language_code": {
+      "message": "KO"
+   },
+   "screenshot_app_language_name": {
+      "message": "한국어"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Korean"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "내 갤러리(%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "로그인..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "로그아웃"
+   },
+   "screenshot_app_options": {
+      "message": "옵션"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "자동으로 업로드 창 닫기"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "업로드 한 다음 자동으로 링크 복사"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "스크린샷에서 커서 캡처"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "설정"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "시스템 프록시"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "중복 지정된 단축키가 있습니다. 단축키를 수정 해주세요."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "단축키중 하나가 유효하지 않습니다. 단축키를 해제하려면 다음 체크박스를 체크해제해 주세요."
+   },
+   "screenshot_app_options_formats": {
+      "message": "형식"
+   },
+   "screenshot_app_options_general": {
+      "message": "일반"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "일반 단축키"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "단축키"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "전체 화면 스크린 샷 빠른 저장"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "풀스크린 즉시 업로드"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) 프록시"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG 품질"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "지정된 영역 위치를 유지"
+   },
+   "screenshot_app_options_language": {
+      "message": "언어"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "수동 프록시 설정"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "프록시 없음"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "항상"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "안 함"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "스크린샷 최적화 (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "업로드 할 때만"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "프록시"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "포트"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "복사와 저장 알림"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "설정 없음(직접 연결)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "시스템 프록시 설정 사용"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "이 형식으로 업로드"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "로그인"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "로그인..."
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot 로그인 오류"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: 로그인 중 오류 발생. 다시 해보세요."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "스크린샷 찍기"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot 이용약관"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "스크린샷을 찍으려면 \"%hotkey_main%\" 키를 누르세요"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "이 메시지 다시 보지 않기"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "취소"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>뜨억!\u003C/h4> 또 다시 일어났군요! Google Chrome은 고해상도 모니터에서 스크린샷 기능과 관련된 \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">심각한 버그\u003C/a>를 갖고 있습니다. 브라우저가 전체 이미지 크기를 줄여서 흐릿한 스크린샷만 얻을 수 있습니다. 이 버그는 버그트래커에서 고쳐졌다고 하긴 했지만 픽스는 Chrome 39나 40에 풀릴 것입니다. 아쉽게도 이를 해결할 수 있는 방법은 없습니다.\u003Cbr>Lightshot 데스크탑 에디션을 다운 받는 것을 강하게 추천합니다. 과거와 정확히 같은 방식으로 움직이고 Google Chrome의 변화에 영향을 받지 않습니다.. \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>불편을 끼쳐드려 죄송합니다"
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Google Chrome은 API에서 클립보드로 이미지 복사를 지원하지 않습니다. 그래서 이 옵션을 꺼놓았습니다. 죄송합니다. \\n\\n어떻게 도와드릴까요?\\n Google Chrome 버그 트래커에 이에 관한 이슈가 있습니다. 이를 별점을 매겨서 더 빨리 고쳐지게 할 수 있습니다. \\n\\n혹은 복사 기능을 완벽히 지원하는 Lightshot 독립 소프트웨어를 쓸 수 있습니다. http://app.prntscr.com/\\n\\n에서 다운받을 수 있습니다. Google Chrome 이슈트래커를 열려면 \"Ok\"를 클릭\\n 이 대화창을 닫으려면  \"Cancel\"을 클릭"
+   },
+   "screenshot_plugin_clear": {
+      "message": "선택 취소"
+   },
+   "screenshot_plugin_close": {
+      "message": "닫기"
+   },
+   "screenshot_plugin_copy": {
+      "message": "복사"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "오류: Firefox CType이 Lightshot을 불러오는데 실패했습니다. 브라우저를 새로고침 해보세요. 계속 이러한 오류가 발생할 경우 support@skillbrains.com으로 연락해주세요. \\n\\n추가 오류 정보: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "화살표"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "흐리게"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "원"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "색"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "선"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "마커"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "펜"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "사각형"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "텍스트"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "되돌리기"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "온라인에서 스크린샷 편집"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "오류"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "전체 화면 선택"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "죄송하지만, Lightshot 확장기능은 Windows에서만 작동합니다. Mac에서 Lightshot을 사용하고 싶다면 Mac App Store에서 다운받아주세요. App Store로 바로 갈까요?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "이미지 호스팅 서버에서 잘못된 JSON 구조체를 답변"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "잘못된 크기"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>과거의 좋았던 Lightshot에서 무슨 일이 있었나요?\u003C/h4> 아시다시피 Google Chrome이 \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">9월에 NPAPI 플러그인을 더이상 지원하지 않을 거라고 발표했습니다.\u003C/a> 우리들은 이런 변화를 조정해야 합니다. \u003Cbr>NPAPI에서 자바스크립트로 옮겨가는 것은 쉽지 않습니다. 현재 우리는\u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">이 Google Chrome 이슈로 인해\u003C/a> \"복사\" 기능을 잃었습니다. 그리고 다른 기능들도 이에 영향을 받았습니다. \u003Cbr>과거 버전을 더 좋아하고 이러한 변화를 좋아하지 않는다면 Lightshot 데스크탑 애플리케이션을 권합니다. 이것은 과거와 똑같이 동작하고 Google Chrome의 변화에 영향을 받지 않습니다. 여기서 다운받을 수 있습니다: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>\u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">여기\u003C/a>에서 새로운 버전에 대해 더 자세히 알 수 있습니다.\u003Cbr>불편을 끼쳐드려 죄송합니다."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "오류: Lightshot NPAPI 플러그인을 발견할 수 없습니다. 브라우저를 새로고침해보세요. 다시 이런 문제가 발생할 경우 support@skillbrains.com으로 연락하세요."
+   },
+   "screenshot_plugin_open": {
+      "message": "열기"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "스크린샷 최적화"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "죄송하지만 Lightshot은 Windows와 Mac에서만 작동합니다. 다른 OS에서 작동시키고 싶다면 support@skillbrains.com으로 연락해주세요."
+   },
+   "screenshot_plugin_print": {
+      "message": "인쇄"
+   },
+   "screenshot_plugin_retry": {
+      "message": "재시도"
+   },
+   "screenshot_plugin_save": {
+      "message": "저장"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "스크린샷이 클립보드에 복사되었습니다."
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "오류: Lightshot이 스크린샷을 찍을 수 없습니다. 브라우저를 새로고침해보세요. 다시 이런 문제가 발생할 경우 support@skillbrains.com으로 연락하세요. 추가 오류 정보: \\n\\n "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "스크린샷이 %filename%으로 저장되었습니다. 폴더에서 열려면 여기를 클릭."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "스크린샷 업로드 성공. 링크가 클립보드에 복사되었습니다."
+   },
+   "screenshot_plugin_share": {
+      "message": "소셜 네트워크로 공유"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Facebook으로 공유"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Google에서 비슷한 이미지 찾기"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pinterest에 공유"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "이메일로 보내기"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Tineye에서 비슷한 이미지 검색"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Twitter로 공유"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "VK로 공유"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "영역 선택"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "취소 - 스크린샷 업로드 취소"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "프록시 설정을 올바르게 하여야 Lightshot 리퀘스트를 막지 않습니다."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "계속하기 - Lightshot 프록시 설정 열기"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "계속하기 - 시스템 프록시 설정 열기"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "현재 Lightshot이 사용하도록 설정된 프록시: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot이 현재 사용중인 시스템 프록시 설정: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "다시 시도 - 현재 설정으로 재시도"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Prntscr.com에 업로드"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "업로드 오류"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "자세히"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "업로드 실패,"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "업로드 실패. 재시도 하시겠습니까?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "이미지 업로드 중"
+   },
+   "screenshotplugin_default_title": {
+      "message": "스크린샷 찍기"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (스크린샷 도구)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "쉽고 간편한 스크린샷 도구. 영역을 선택하고, 스크린 샷을 편집하고, 서버에 업로드하세요."
+   }
+}

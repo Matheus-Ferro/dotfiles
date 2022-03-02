@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Over"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Alle rechten voorbehouden."
+   },
+   "screenshot_app_exit": {
+      "message": "Afsluiten"
+   },
+   "screenshot_app_help": {
+      "message": "Hulp"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Het is niet gelukt de sneltoets op te slaan:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Waarschijnlijk gebruikt een andere toepassing dit al. Klik op dit bericht om het dialoogvenster met opties te openen."
+   },
+   "screenshot_app_language_code": {
+      "message": "NL"
+   },
+   "screenshot_app_language_name": {
+      "message": "Nederlands"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Dutch"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mijn galerie (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Aanmelden..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Afmelden"
+   },
+   "screenshot_app_options": {
+      "message": "Instellingen"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Het verstuurvenster vanzelf sluiten"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "De koppeling na het versturen vanzelf kopiëren"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "De aanwijzer op een schermafbeelding vastleggen"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Instellen"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Systeemproxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "U kunt niet dezelfde sneltoetsen voor verschillende verrichtingen gebruiken. Gelieve één van de sneltoetsen te wijzigen."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Eén van de sneltoetsen is ongeldig. Indien u deze sneltoets wilt uitschakelen, vink dan het desbetreffende vinkje uit."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Indelingen"
+   },
+   "screenshot_app_options_general": {
+      "message": "Algemeen"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Algemene sneltoets"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Sneltoetsen"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "De schermafbeelding onmiddellijk opslaan"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Het volledig scherm ogenblikkelijk versturen"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S)-proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG-kwaliteit"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Stand van het gekozen gebied behouden"
+   },
+   "screenshot_app_options_language": {
+      "message": "Taal"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Handmatige proxy-instellingen"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Geen proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Altijd"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nooit"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Afbeelding perfect maken (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Alleen tijdens het versturen"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Poort"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Meldingen tonen over het kopiëren en opslaan"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Niet ingesteld (rechtstreekse verbinding)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Gebruik de proxy-instellingen van het systeem"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Versturen met behulp van deze indeling"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Aangemeld als"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Aanmelden"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot aanmeldingsfout"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Er is een fout opgetreden tijdens het aanmelden. Probeer het opnieuw."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Een schermafbeelding maken"
+   },
+   "screenshot_app_terms": {
+      "message": "De dienstvoorwaarden van Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Druk op de \"%hotkey_main%\" van uw toetsenbord om een schermafbeelding te maken"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Dit bericht niet meer laten zien"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Afbreken"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>D'oh!\u003C/h4>Dit is weer gebeurd! Google Chrome heeft last van\u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">een bug\u003C/a> gerelateerd met de screenshot functionaliteit op hoge dpi schermen. De browser schaalt de hele afbeelding neer, dus je zal een geblurde screenshot zien in plaats van een screenshot met hoge kwaliteit. Noch staat de bug gemarkeerd als \"gefixt\" in de bug tracker de fix zal alleen worden gereleased voor Chrome versies 39 of 40. Jammer genoeg kunnen wij daar niets aan doen.\u003Cbr>We raden je ten zeerste aan om deLightshot desktop applicatie te downloaden. Het werkt perfect zoals vroeger en deze is niet aangetast door de veranderingen van Google Chrome. Je kan deze hier downloaden: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>We verontschuldigen ons voor het eventueel ongemak."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Helaas biedt Google Chrome geen ondersteuning voor het kopiëren van beelden naar het klembord met de API, dus moesten we deze functie uitschakelen. Onze excuses voor het ongemak.\\n\\nHoe kunt u helpen?\\nEr is een melding in het Google Chrome foutenregister over deze kwestie. U kunt het markeren met een ster, dus het zal dan meer prioriteit hebben en het zal eerder opgelost worden.\\n\\nOf u kunt gebruik maken van de LightShot applicatie op zichzelf. De kopieer-functie werkt daar perfect. U kunt het downloaden van http://app.prntscr.com/\\n\\nKlik op \"Ok\" om de Google Chrome issue tracker te openen.\\nKlik \"Annuleren\" om het dialoogvenster te sluiten."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Keuze wissen"
+   },
+   "screenshot_plugin_close": {
+      "message": "Afsluiten"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiëren"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Fout: het laden van Lighshot door middel van de CTypes van Firefox is mislukt. Probeer je webverkenner opnieuw te laden. Als je deze fout na het opnieuw laden blijft zien, benader onze ondersteuning dan op het e-postadres support@skillbrains.com.\\n\\nUitgebreide inlichting over deze fout: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Pijl"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Vervaging"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Cirkel"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Kleur"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Lijn"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Markeerstift"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pen"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rechthoek"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekst"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Ongedaan maken"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Een afbeelding op het web bewerken"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Fout"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Het volledige scherm kiezen"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Wij verontschuldigen ons voor het ongemak, maar de LightShot-uitbreiding kan alleen op apparaten met Windows worden uitgevoerd. Indien u LightShot voor Mac wilt gebruiken, kunt u deze ophalen vanaf de Mac App Store. Wilt u nu naar de App Store?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Onjuiste JSON-structuur in antwoord van de afbeeldingshostingserver"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Onjuiste afmeting"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Wat is er gebeurd met de oude versie van Lightshot?\u003C/h4>Zoals u wellicht al weet zal Google Chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">in september stoppen met het ondersteunen van NPAPI plugins\u003C/a>. Wij moesten ons dus aanpassen aan deze verandering.\u003Cbr>Verhuizen van NPAPI Javascript is niet probleemloos. We verloren recent de \"Copy\"-functie door \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">dit Google Chrome probleem\u003C/a>. Een aantal andere functies werd ook getroffen.\u003Cbr>Als u de vorige versie prefereert en niet houdt van deze wijzigingen, raden wij u aan de LightShot desktop applicatie te proberen. Het werkt precies zoals het was en wordt niet beïnvloed door veranderingen in Google Chrome . U kan deze hier downloaden: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>U kunt meer informatie over de nieuwste versie lezen als u \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">hier\u003C/a> klikt.\u003Cbr>Onze excuses voor het ongemak."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Fout: De LightShot NPAPI-invoegtoepassing kon niet worden gevonden. Probeer je webverkenner opnieuw te laden. Als je deze fout na het opnieuw laden blijft zien, benader ons dan via het e-postadres support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Openen"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Een schermafbeelding vervolmaken"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Wij verontschuldigen ons voor het ongemak, maar Lightshot werkt alleen op pc's waar Windows of Mac op draait. Als je Lightshot voor jouw besturingssysteem wilt, benader ons dan op support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Afdrukken"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Opnieuw proberen"
+   },
+   "screenshot_plugin_save": {
+      "message": "Opslaan"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Uw schermafbeelding is naar het klembord gekopieerd"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Fout: Lightshot was niet in staat om een schermafbeelding te maken. Probeer uw webverkenner opnieuw te laden. Als u deze fout na het opnieuw laden blijft zien, benader dan onze ondersteuning via het e-postadres support@skillbrains.com.\\n\\nUitgebreide inlichting over deze fout: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "De afbeelding is in %filename% opgeslagen. Klik hier om de map te openen."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "De afbeelding is verstuurd. De koppeling is naar uw klembord gekopieerd."
+   },
+   "screenshot_plugin_share": {
+      "message": "Op maatschappelijke netwerken delen"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Via Facebook delen"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Soortgelijke afbeeldingen op Google zoeken"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Via Pinterest delen"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Via de e-post versturen"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Soortgelijke afbeeldingen op Tineye zoeken"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Via Twitter delen"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Via VK delen"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Kies een gebied"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Afbreken - het versturen van de schermafbeelding afbreken"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Zorg er zeker voor dat alle instellingen juist zijn en dat de proxy geen aanvragen van Lightshot weigert."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Voortzetten - open de proxy-instelling van Lightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Voortzetten - de proxy-instellingen van het systeem openen"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Op dit ogenblik is Lightshot voor deze proxy ingesteld: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot gebruikt het huidige systeem voor proxy-instellingen: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Opnieuw proberen - probeer het opnieuw met behulp van de huidige instellingen"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Naar prntscr.com versturen"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Verstuurfout"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Uitgebreide inlichting"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Het versturen is mislukt."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Het versturen is mislukt. Opnieuw proberen?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "De afbeelding wordt verstuurd"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Een afbeelding maken"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (afbeeldingshulpmiddel)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Eenvoudig en handig afbeeldingshulpmiddel. Kies een gebied, bewerk uw afbeelding en verstuur deze naar de server."
+   }
+}

@@ -1,0 +1,257 @@
+{
+    "screenshot_app_hotkey_failtoregister1": {
+        "message": "\u0540\u0576\u0561\u0580\u0561\u057e\u0578\u0580 \u0579\u0565\u0572\u0561\u057e \u0563\u0580\u0561\u0576\u0581\u0565\u056c \u056f\u0561\u0580\u0573\u0578\u0582\u0572\u056b\u0576."
+    }, 
+    "screenshot_plugin_share_facebook": {
+        "message": "\u054f\u0561\u0580\u0561\u056e\u0565\u056c Facebook-\u0578\u0582\u0574"
+    }, 
+    "screenshot_plugin_upload": {
+        "message": "\u054e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c prntscr.com"
+    }, 
+    "screenshot_plugin_uploading_window_capt": {
+        "message": "\u0546\u056f\u0561\u0580\u056b \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u0578\u0582\u0574"
+    }, 
+    "screenshot_app_hotkey_failtoregister2": {
+        "message": "\u053f\u0561\u0580\u056e\u0565\u057d \u0561\u0575\u056c \u056e\u0580\u0561\u0563\u056b\u0580 \u0567 \u0561\u0575\u0576 \u0585\u0563\u057f\u0561\u0563\u0578\u0580\u056e\u0578\u0582\u0574: \u054d\u0565\u0572\u0574\u0565\u0584\u055d \u0562\u0561\u0581\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580 \u0568\u0576\u057f\u0580\u0561\u0576\u0584\u0576\u0565\u0580\u056b \u057a\u0561\u057f\u0578\u0582\u0570\u0561\u0576\u0568:"
+    }, 
+    "screenshot_plugin_share_tineyesearch": {
+        "message": "\u0548\u0580\u0578\u0576\u0565\u056c \u0576\u0574\u0561\u0576 \u0576\u056f\u0561\u0580\u0576\u0565\u0580 Tineye-\u0578\u0582\u0574"
+    }, 
+    "screenshot_plugin_edit_arrow": {
+        "message": "\u054d\u056c\u0561\u0584"
+    }, 
+    "screenshot_plugin_edit_undo": {
+        "message": "\u0535\u057f\u0561\u0580\u056f\u0565\u056c"
+    }, 
+    "screenshot_app_options_proxy": {
+        "message": "\u054a\u0580\u0578\u0584\u057d\u056b"
+    }, 
+    "screenshot_plugin_open": {
+        "message": "\u0532\u0561\u0581\u0565\u056c"
+    }, 
+    "screenshot_plugin_close": {
+        "message": "\u0553\u0561\u056f\u0565\u056c"
+    }, 
+    "screenshot_plugin_edit_pencil": {
+        "message": "\u0533\u0580\u056b\u0579"
+    }, 
+    "screenshot_plugin_incorrect_size": {
+        "message": "\u0538\u0576\u057f\u0580\u0561\u056e \u0579\u0561\u0583\u0565\u0580\u0568 \u057d\u056d\u0561\u056c \u0565\u0576"
+    }, 
+    "screenshot_plugin_edit_blur": {
+        "message": "\u053c\u0572\u0578\u0566\u0565\u056c"
+    }, 
+    "screenshot_plugin_fullscreen": {
+        "message": "\u0546\u0577\u0565\u056c \u0531\u0574\u0562\u0578\u0572\u057b \u0567\u056f\u0580\u0561\u0576\u0568"
+    }, 
+    "screenshot_plugin_npapi_not_found": {
+        "message": "\u054d\u056d\u0561\u056c. Lightshot NPAPI \u0562\u0561\u0572\u0561\u0564\u0580\u056b\u0579\u0568 \u0579\u056b \u0563\u057f\u0576\u057e\u0565\u056c: \u054e\u0565\u0580\u0561\u0562\u0561\u0581\u0565\u0584 \u0564\u056b\u057f\u0561\u0580\u056f\u056b\u0579\u0568: \u0535\u0569\u0565 \u057d\u056d\u0561\u056c\u0568 \u056f\u0580\u056f\u0576\u057e\u056b, \u0561\u057a\u0561 \u0563\u0580\u0565\u0584 \u0574\u0565\u0566 support@skillbrains.com \u0570\u0561\u057d\u0581\u0565\u0578\u057e:"
+    }, 
+    "screenshot_app_options_hotkeygeneral": {
+        "message": "\u0533\u056c\u056d\u0561\u057e\u0578\u0580 \u056f\u0561\u0580\u0573\u0578\u0582\u0572\u056b\u0576"
+    }, 
+    "screenshot_app_help": {
+        "message": "\u0555\u0563\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    }, 
+    "screenshot_app_language_code": {
+        "message": "HY"
+    }, 
+    "screenshot_plugin_edit_rect": {
+        "message": "\u0548\u0582\u0572\u0572."
+    }, 
+    "screenshot_plugin_other_os": {
+        "message": "\u053f\u0576\u0565\u0580\u0565\u0584, \u0562\u0561\u0575\u0581 Lightshot-\u0568 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 \u0574\u056b\u0561\u0575\u0576 Windows \u0587 Mac \u0570\u0561\u0574\u0561\u056f\u0561\u0580\u0563\u056b\u0579\u0576\u0565\u0580\u0578\u0582\u0574: \u0535\u0569\u0565 Lightshot-\u0568 \u0571\u0565\u0566 \u0570\u0561\u0580\u056f\u0561\u057e\u0578\u0580 \u0567 \u0561\u0575\u056c \u0585\u057a\u0565\u0580\u0561\u0581\u056b\u0578\u0576 \u0570\u0561\u0574\u0561\u056f\u0561\u0580\u0563\u056b \u0570\u0561\u0574\u0561\u0580, \u0561\u057a\u0561 \u0563\u0580\u0565\u0584 \u0574\u0565\u0566 support@skillbrains.com \u0570\u0561\u057d\u0581\u0565\u0578\u057e:"
+    }, 
+    "screenshot_plugin_screenshot_copied_to_clipboard": {
+        "message": "\u0546\u056f\u0561\u0580\u0568 \u057a\u0561\u057f\u0573\u0565\u0576\u057e\u0565\u056c \u0567 \u0574\u0565\u056f\u0578\u0582\u057d\u0561\u0577\u0580\u057b\u0578\u0582\u0575\u0569"
+    }, 
+    "screenshot_plugin_editonline": {
+        "message": "\u053d\u0574\u0562\u0561\u0563\u0580\u0565\u056c \u0561\u057c\u0581\u0561\u0576\u0581"
+    }, 
+    "screenshot_app_menu_sign_out": {
+        "message": "\u0553\u0561\u056f\u0565\u056c"
+    }, 
+    "screenshot_plugin_share_pinterest": {
+        "message": "\u054f\u0561\u0580\u0561\u056e\u0565\u056c Pinterest-\u0578\u0582\u0574"
+    }, 
+    "screenshot_plugin_share": {
+        "message": "\u054f\u0561\u0580\u0561\u056e\u0565\u056c \u057d\u0578\u0581\u056b\u0561\u056c\u0561\u056f\u0561\u0576 \u0581\u0561\u0576\u0581\u0565\u0580\u0578\u0582\u0574"
+    }, 
+    "screenshot_app_options_httpsproxy": {
+        "message": "HTTP(S) \u057a\u0580\u0578\u0584\u057d\u056b"
+    }, 
+    "screenshot_app_about": {
+        "message": "\u0544\u0561\u057d\u056b\u0576"
+    }, 
+    "screenshot_app_options_noproxy": {
+        "message": "\u0549\u056f\u0561 \u057a\u0580\u0578\u0584\u057d\u056b"
+    }, 
+    "screenshot_plugin_share_googlesearch": {
+        "message": "\u0548\u0580\u0578\u0576\u0565\u056c \u0576\u0574\u0561\u0576 \u0576\u056f\u0561\u0580\u0576\u0565\u0580 Google-\u0578\u0582\u0574"
+    }, 
+    "screenshot_plugin_print": {
+        "message": "\u054f\u057a\u0565\u056c"
+    }, 
+    "screenshot_app_options_proxyport": {
+        "message": "\u054a\u0578\u0580\u057f"
+    }, 
+    "screenshot_plugin_screenshot_uploaded_link_copied": {
+        "message": "\u0543\u0565\u057a\u0561\u057a\u0561\u057f\u056f\u0565\u0580\u0568 \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u057e\u0565\u056c \u0567: \u0540\u0572\u0578\u0582\u0574\u0568 \u057a\u0561\u057f\u0573\u0565\u0576\u057e\u0565\u056c \u0567:"
+    }, 
+    "screenshot_app_signin_dialog_check_now": {
+        "message": "\u054d\u057f\u0578\u0582\u0563\u0565\u056c"
+    }, 
+    "screenshot_app_menu_sign_in": {
+        "message": "\u0544\u0578\u0582\u057f\u0584 \u0567 \u0563\u0578\u0580\u056e\u0578\u0582\u0574..."
+    }, 
+    "screenshot_plugin_screenshot_saved": {
+        "message": "\u0546\u056f\u0561\u0580\u0568 \u057a\u0561\u0570\u057a\u0561\u0576\u057e\u0565\u056c \u0567 %filename%-\u0578\u0582\u0574: \u054d\u0565\u0572\u0574\u0565\u0584\u055d \u0569\u0572\u0569\u0561\u057a\u0561\u0576\u0561\u056f\u0568 \u0562\u0561\u0581\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580:"
+    }, 
+    "screenshot_app_options_error_hotkeyinvalid": {
+        "message": "\u053f\u0561\u0580\u0573\u0578\u0582\u0572\u056b\u0576\u0565\u0580\u056b\u0581 \u0574\u0565\u056f\u0568 \u057e\u0576\u0561\u057d\u057e\u0561\u056e \u0567: \u0535\u0569\u0565 \u0581\u0561\u0576\u056f\u0561\u0576\u0578\u0582\u0574 \u0565\u0584 \u0561\u0575\u0576 \u0561\u0576\u057b\u0561\u057f\u0565\u056c\u055d \u0561\u057a\u0561\u0576\u0577\u0565\u0584:"
+    }, 
+    "screenshot_plugin_tooltip": {
+        "message": "\u0546\u0577\u0565\u0584 \u057f\u0561\u0580\u0561\u056e\u0584"
+    }, 
+    "screenshot_plugin_share_twitter": {
+        "message": "\u054f\u0561\u0580\u0561\u056e\u0565\u056c Twitter-\u0578\u0582\u0574"
+    }, 
+    "screenshot_plugin_edit_marker": {
+        "message": "\u0546\u0577\u056b\u0579"
+    }, 
+    "screenshot_app_exit": {
+        "message": "\u0549\u0565\u0572\u0561\u0580\u056f\u0565\u056c"
+    }, 
+    "screenshot_app_options_manualproxy": {
+        "message": "\u054a\u0580\u0578\u0584\u057d\u056b\u056b \u0571\u0565\u057c\u0584\u0578\u057e \u056f\u0561\u0580\u0563\u0561\u057e\u0578\u0580\u0578\u0582\u0574"
+    }, 
+    "screenshot_app_signin_dialog_caption": {
+        "message": "\u0544\u0578\u0582\u057f\u0584 \u0567 \u0563\u0578\u0580\u056e\u0578\u0582\u0574"
+    }, 
+    "screenshot_app_language_name": {
+        "message": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"
+    }, 
+    "screenshot_app_signin_dialog_wait_signin": {
+        "message": "\u0544\u0578\u0582\u057f\u0584 \u0567 \u0563\u0578\u0580\u056e\u0578\u0582\u0574..."
+    }, 
+    "screenshot_app_options_language": {
+        "message": "\u053c\u0565\u0566\u0578\u0582\u0576"
+    }, 
+    "screenshot_app_options": {
+        "message": "\u0538\u0576\u057f\u0580\u0561\u0576\u0584\u0576\u0565\u0580"
+    }, 
+    "screenshot_plugin_upload_failed_retry": {
+        "message": "\u0546\u056f\u0561\u0580\u056b \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u0574\u0561\u0576 \u057d\u056d\u0561\u056c: \u053f\u0580\u056f\u0576\u0565\u055e\u056c:"
+    }, 
+    "screenshot_app_signin_dialog_singin_link": {
+        "message": "\u0544\u0578\u0582\u057f\u0584 \u0563\u0578\u0580\u056e\u0565\u056c prntscr.com"
+    }, 
+    "screenshot_app_signin_dialog_first_line": {
+        "message": "1) \u0544\u0578\u0582\u057f\u0584 \u0563\u0578\u0580\u056e\u0565\u0584 prntscr.com \u0570\u0565\u057f\u0587\u0575\u0561\u056c \u0570\u0572\u0578\u0582\u0574\u0578\u057e\u055d"
+    }, 
+    "screenshot_plugin_edit_line": {
+        "message": "\u054f\u0578\u0572"
+    }, 
+    "screenshot_plugin_share_sendmail": {
+        "message": "\u0548\u0582\u0572\u0561\u0580\u056f\u0565\u056c \u0570\u0572\u0578\u0582\u0574\u0568 \u0567\u056c.\u0583\u0578\u057d\u057f\u0578\u057e"
+    }, 
+    "screenshot_plugin_copy": {
+        "message": "\u054a\u0561\u057f\u0573\u0565\u0576\u0565\u056c"
+    }, 
+    "screenshot_app_options_keepselection": {
+        "message": "\u054a\u0561\u0570\u0565\u056c \u0576\u0577\u057e\u0561\u056e \u057f\u0561\u0580\u0561\u056e\u0584\u056b \u0564\u056b\u0580\u0584\u0568"
+    }, 
+    "screenshot_app_options_error_hotkeyequal": {
+        "message": "\u0549\u0565\u0584 \u056f\u0561\u0580\u0578\u0572 \u0563\u0580\u0561\u0576\u0581\u0565\u056c \u0576\u0578\u0582\u0575\u0576 \u057d\u057f\u0565\u0572\u056e\u0568 \u0574\u056b \u0584\u0561\u0576\u056b \u0563\u0578\u0580\u056e\u0561\u057c\u0578\u0582\u0575\u0569\u0576\u0565\u0580\u056b \u0570\u0561\u0574\u0561\u0580: \u0553\u0578\u056d\u0565\u0584 \u0561\u0575\u0576:"
+    }, 
+    "screenshot_plugin_save": {
+        "message": "\u054a\u0561\u0570\u057a\u0561\u0576\u0565\u056c"
+    }, 
+    "screenshotplugin_default_title": {
+        "message": "\u0546\u056f\u0561\u0580\u0565\u056c \u0567\u056f\u0580\u0561\u0576\u0568"
+    }, 
+    "screenshot_plugin_cancel": {
+        "message": "\u0549\u0565\u0572\u0561\u0580\u056f\u0565\u056c"
+    }, 
+    "screenshot_app_options_formats": {
+        "message": "\u0541\u0587\u0561\u0579\u0561\u0583\u0565\u0580"
+    }, 
+    "screenshot_app_options_autocopy": {
+        "message": "\u054e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c\u0578\u0582\u0581 \u0570\u0565\u057f\u0578 \u057a\u0561\u057f\u0573\u0565\u0576\u0565\u056c \u0570\u0572\u0578\u0582\u0574\u0568"
+    }, 
+    "screenshot_app_take_screenshot": {
+        "message": "\u0546\u056f\u0561\u0580\u0565\u056c \u0567\u056f\u0580\u0561\u0576\u0568"
+    }, 
+    "screenshotplugin_name": {
+        "message": "Lightshot (\u0567\u056f\u0580\u0561\u0576\u0568 \u0576\u056f\u0561\u0580\u0565\u056c\u0578\u0582 \u0563\u0578\u0580\u056e\u056b\u0584)"
+    }, 
+    "screenshot_app_options_autoclose": {
+        "message": "\u0544\u056b\u0561\u0576\u0563\u0561\u0574\u056b\u0581 \u0583\u0561\u056f\u0565\u056c \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c\u0578\u0582 \u057a\u0561\u057f\u0578\u0582\u0570\u0561\u0576\u0568"
+    }, 
+    "screenshot_plugin_edit_text": {
+        "message": "\u054f\u0565\u0584\u057d\u057f"
+    }, 
+    "screenshot_app_options_hotkeys": {
+        "message": "\u053f\u0561\u0580\u0573\u0578\u0582\u0572\u056b\u0576\u0565\u0580"
+    }, 
+    "screenshot_app_options_jpegquality": {
+        "message": "JPEG-\u056b \u0578\u0580\u0561\u056f\u0568"
+    }, 
+    "screenshot_app_options_hotkeyuploadfullscreen": {
+        "message": "\u0531\u056f\u0576\u0569\u0561\u0580\u0569\u0578\u0580\u0565\u0576 \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c \u0561\u0574\u0562\u0578\u0572\u057b \u0567\u056f\u0580\u0561\u0576\u0568"
+    }, 
+    "screenshot_app_options_hotkeysavefullscreen": {
+        "message": "\u0531\u056f\u0576\u0569\u0561\u0580\u0569\u0578\u0580\u0565\u0576 \u057a\u0561\u0570\u057a\u0561\u0576\u0565\u056c \u0561\u0574\u0562\u0578\u0572\u057b \u0567\u056f\u0580\u0561\u0576\u0568"
+    }, 
+    "screenshot_plugin_go_to_mac_store": {
+        "message": "\u053f\u0576\u0565\u0580\u0565\u0584, \u0562\u0561\u0575\u0581 Lightshot \u0570\u0561\u057e\u0565\u056c\u0578\u0582\u0574\u0568 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 \u0574\u056b\u0561\u0575\u0576 Windows-\u0578\u0582\u0574: \u0535\u0569\u0565 \u0571\u0565\u0566 \u0570\u0561\u0580\u056f\u0561\u057e\u0578\u0580 \u0567 Lightshot-\u0568 Mac-\u056b \u0570\u0561\u0574\u0561\u0580, \u057a\u0561\u0561 \u0562\u0565\u057c\u0576\u0565\u0584 \u0561\u0575\u0576 Mac App Store-\u056b\u0581: \u0532\u0561\u0581\u0565\u055e\u056c App Store-\u0568:"
+    }, 
+    "screenshot_app_options_showbubbles": {
+        "message": "\u0551\u0578\u0582\u0581\u0561\u0564\u0580\u0565\u056c \u056e\u0561\u0576\u0578\u0582\u0581\u0578\u0582\u0574\u055d \u057a\u0561\u057f\u0573\u0565\u0576\u0565\u056c\u056b\u057d \u0587 \u057a\u0561\u0570\u057a\u0561\u0576\u0565\u056c\u056b\u057d"
+    }, 
+    "screenshot_app_tray_tooltip": {
+        "message": "\u054d\u0565\u0572\u0574\u0565\u0584 \u057d\u057f\u0565\u0572\u0576\u0561\u0577\u0561\u0580\u056b PrtScr \u057d\u057f\u0565\u0572\u0576\u0568\u055d \u0567\u056f\u0580\u0561\u0576\u0568 Lightshot-\u0578\u057e \u0576\u056f\u0561\u0580\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580"
+    }, 
+    "screenshot_app_options_systemproxy": {
+        "message": "\u0555\u0563\u057f. \u0570\u0561\u0574\u0561\u056f\u0561\u0580\u0563\u056b \u057a\u0580\u0578\u0584\u057d\u056b\u0576"
+    }, 
+    "screenshot_plugin_error_capt": {
+        "message": "\u054d\u056d\u0561\u056c"
+    }, 
+    "screenshot_app_menu_gallery": {
+        "message": "\u053b\u0574 \u057a\u0561\u057f\u056f\u0565\u0580\u0561\u057d\u0580\u0561\u0570\u0568"
+    }, 
+    "screenshot_app_language_name_eng": {
+        "message": "Armenian"
+    }, 
+    "screenshot_app_options_uploadformat": {
+        "message": "\u054e\u0565\u0580\u0562\u0565\u057c\u0576\u057e\u0578\u0572 \u0576\u056f\u0561\u0580\u0576\u0565\u0580\u056b \u0571\u0587\u0561\u0579\u0561\u0583\u0568"
+    }, 
+    "screenshot_app_terms": {
+        "message": "Lightshot-\u056b \u056e\u0561\u057c\u0561\u0575\u0578\u0582\u0569\u0575\u0561\u0576 \u057a\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580\u0568"
+    }, 
+    "screenshot_plugin_share_vk": {
+        "message": "\u054f\u0561\u0580\u0561\u056e\u0565\u056c VK-\u0578\u0582\u0574"
+    }, 
+    "screenshotplugin_short_description": {
+        "message": "\u0537\u056f\u0580\u0561\u0576\u0568 \u0576\u056f\u0561\u0580\u0565\u056c\u0578\u0582 \u0564\u0575\u0578\u0582\u0580\u056b\u0576 \u0587 \u0570\u0561\u0580\u0574\u0561\u0580 \u0563\u0578\u0580\u056e\u056b\u0584: \u0540\u0576\u0561\u0580\u0561\u057e\u0578\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576 \u0567 \u057f\u0561\u056c\u056b\u057d \u0576\u056f\u0561\u0580\u0565\u056c \u0567\u056f\u0580\u0561\u0576\u056b \u0581\u0561\u0576\u056f\u0561\u0581\u0561\u056e \u057f\u0561\u0580\u0561\u056e\u0584\u0568 (\u0576\u0561\u0587 \u057f\u0565\u057d\u0561\u0576\u0575\u0578\u0582\u0569\u0565\u0580\u0568 \u0587 flash-\u0568), \u056d\u0574\u0562\u0561\u0563\u0580\u0565\u056c \u0587 \u057e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c \u0576\u056f\u0561\u0580\u0576\u0565\u0580\u0568:"
+    }, 
+    "screenshot_plugin_edit_circle": {
+        "message": "\u0547\u0580\u057b\u0561\u0576"
+    }, 
+    "screenshot_app_options_capturecursor": {
+        "message": "\u0546\u056f\u0561\u0580\u0565\u056c \u056f\u0578\u0582\u0580\u057d\u0578\u0580\u0568"
+    }, 
+    "screenshot_plugin_edit_color": {
+        "message": "\u0533\u0578\u0582\u0575\u0576"
+    }, 
+    "screenshot_app_options_general": {
+        "message": "\u0533\u056c\u056d\u0561\u057e\u0578\u0580"
+    }, 
+    "screenshot_app_copyright": {
+        "message": "%company% \u0532\u0578\u056c\u0578\u0580 \u056b\u0580\u0561\u057e\u0578\u0582\u0576\u0584\u0576\u0565\u0580\u0568 \u057a\u0561\u0577\u057f\u057a\u0561\u0576\u057e\u0561\u056e \u0565\u0576:"
+    }, 
+    "screenshot_plugin_clear": {
+        "message": "\u0544\u0561\u0584\u0580\u0565\u056c"
+    }
+}

@@ -1,0 +1,326 @@
+{
+   "screenshot_app_about": {
+      "message": "حول البرنامج"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% جميع الحقوق محفوظة"
+   },
+   "screenshot_app_exit": {
+      "message": "خروج"
+   },
+   "screenshot_app_help": {
+      "message": "مساعدة"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "فشل في تسجيل مفتاح الإختيار:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "من المرجح أن هذا المفتاح جاري استخدامه من طرف تطبيق آخر. انقر على هذه الرسالة لاظهار نافذة الخيارات."
+   },
+   "screenshot_app_language_code": {
+      "message": "AR"
+   },
+   "screenshot_app_language_name": {
+      "message": "عربي"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Arabic"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "(%username%) معرضي الخاص"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "تسجيل الدخول..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "تسجيل الخروج"
+   },
+   "screenshot_app_options": {
+      "message": "الإعدادات"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "إغلاق نافذة الرفع تلقائياً"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "نسخ الرابط تلقائياً بعد الرفع"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "إلتقاط موشر الفأرة في الصورة"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "تعديل"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "نظام بروكسي"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "لا يمكنك تعيين نفس مفاتيح الاختصار لوظائف مختلفة. الرجاء تغيير واحد من مفاتيح الاختصار."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "واحد من مفاتيح الاختصار الذي اخترته غير صالح. إذا كنت ترغب في تعطيل هذا المفتاح، يرجى إلغاء تحديد خانة الاختيار المقابلة"
+   },
+   "screenshot_app_options_formats": {
+      "message": "الصيغ"
+   },
+   "screenshot_app_options_general": {
+      "message": "عام"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "مفتاح الاختصار العام"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "إختصارات لوحة المفاتيح"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "حفظ فوري للشاشة كاملة"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "إلتقاط ورفع فوري للشاشة كاملة"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) وكيل"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "جودة JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "حفظ المنطقة المحددة سابقاً"
+   },
+   "screenshot_app_options_language": {
+      "message": "اللغة"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "تعديل يدوي للوكيل"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "لا تستخدم وكيل"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "دائما"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "مطلقا"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "تحسين الصور الملتقطة (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "فقط عند الرفع"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "الوكيل"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "المنفذ"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "إظهار رسائل بلونية عند النسخ والحفظ"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "غير محدد (إتصال مباشر)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "استخدام إعدادات النظام للوكيل"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "رفع باستعمال الصيغة"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "مسجل الدخول كـ"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "تسجيل الدخول"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "حدث خطأ عند تسجيل الدخول"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "حدث خطأ اثناء محاولة تسجيل الدخول، من فضلك حاول مرة اخرى"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "إلتقاط صورة"
+   },
+   "screenshot_app_terms": {
+      "message": "شروط إستخدام Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "لإلتقاط صورة إضغط على مفتاح \"%hotkey_main%\""
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "لا تظهر هذه الرسالة مجددا"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "إلغاء"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>للاسف\u003C/h4>لقد حدث مجدداً لدى متصفح جوجل كروم \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">خطأ\u003C/a> متعلق بخاصية التقاط صورة للشاشات ذات الدقة العالية ، يقوم بتخفيض جودة الصورة لذلك سوف ترى نقاط غير واضحة بدلاً من صورة عالية الجودة.بالرغم من ان الخطأ تم حله الا انه سيصدر فقط مع نسخة كروم 39 او 40. وللاسف,لا نستطيع ان نفعل اى شئ.‪ \u003Cbr>نحن نوصى بشدة أن تستعمل تطبيق Lightshot لسطح المكتب. البرنامج لا يتأثر بخطأ المتصفح، يمكنك تحميله من هنا : ‪\u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">‪http://app.prntscr.com/\u003C/a>\u003Cbr>نحن نعتذر بشده على هذا الإزعاج"
+   },
+   "screenshot_plugin_clear": {
+      "message": "إزالة الإختيار"
+   },
+   "screenshot_plugin_close": {
+      "message": "إغلاق"
+   },
+   "screenshot_plugin_copy": {
+      "message": "نسخ"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "خطأ: الـCTypes الخاصة بـFirefox فشلت في تشغيل Lightshot. حاول إعادة تشغيل المتصفح الخاص بك. إذا ظهرت الرسالة مرة أخرى بعد إعادة التشغيل، الرجاء الإتصال بنا على  support@skillbrains.com.\\n\\nمعلومات الخطأ كاملة: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "سـهم"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "ضبابية"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "دائـرة"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "لون"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "خـط"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "عـلامة"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "قـلم"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "مصحح"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "نـص"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "تـراجع"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "تعديل الصورة في الموقع"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "خطأ"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "تحديد الشاشة كاملة"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "نعتذر عن هذا الازعاج ولكن هذا الإمتداد من Lightshot يعمل فقط علي نظام التشغيل ويندوز فقط. إذا كنت تريد هذا البرنامج لنظام التشغيل ماك قم بتحميله من المتجر الخاص بالماك. الذهاب الي متجر الماك الآن؟"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "خطأ في بنية JSON المستقبلة من الصورة الموجودة في السيرفر"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "حجم خاطئ"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "اضافة Lightshot NPAPI غير موجودة. قم بإعادة تنشيط المتصفح.. إذا استمر هذا الخطأ الرجاء مراسلتنا على  Support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "فتح"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "جار تحسين الصورة ملتقطة"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "نعتذر عن الإزعاج ولكنLighshot يعمل فقط علي انظمه التشغيل الماك والويندوز فقط. اذا كنت تريد ان يعمل هذا البرنامج علي نظام التشغيل الخاص بك من فضلك راسل  support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "طباعة"
+   },
+   "screenshot_plugin_retry": {
+      "message": "أعد المحاولة"
+   },
+   "screenshot_plugin_save": {
+      "message": "حفظ"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "تم نسخ الصورة إلى الحافظة"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "خطأ: Lightshot غير قادر على التقاط صورة للشاشة. حاول إعادة تشغيل المتصفح الخاص بك. إذا ظهرت الرسالة مرة أخرى بعد إعادة التشغيل، الرجاء الإتصال بنا على  support@skillbrains.com.\\n\\nمعلومات الخطأ كاملة: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "اضغط هنا لعرض المجلد .%filename% تم حفظ الصورة بإسم"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "تم رفع الصورة. تم نسخ الرابط الي الحافظة"
+   },
+   "screenshot_plugin_share": {
+      "message": "مشاركة علي الشبكات الإجتماعية"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "مشاركة على الفيسبوك"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "البحث عن صورة مشابة في جوجل"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "مشاركة على بينتريست"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "إرسال عبر الإيميل"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "البحث عن صورة مشابهة في Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "نشر على تويتر"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "المشاركة على VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "حدد المنطقة"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "إالغاء - إلغاء رفع صورة ملتقطة"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "من فضلك تأكد ان الاعدادات صحيحة و الخادم لا يحظر طلبات Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "واصل - إفتح اعدادت البروكسي الخاصة بـLightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "واصل - إفتح اعدادت نظام البروكسي"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot معدل حاليا لإستعمال هذا البروكسي: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot يستعمل اعدادت نظام البروكسي الحالية: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "أعد المحاولة - حاول مجدد مستعملا الإعدادت الحالية"
+   },
+   "screenshot_plugin_upload": {
+      "message": "رفع الصورة إلى Prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "خطأ في الرفع"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "معلومة مفصلة"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "فشل في الرفع"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "فشل رفع الصورة، محاولة اخرى؟"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "جار رفع الصورة"
+   },
+   "screenshotplugin_default_title": {
+      "message": "إلتقاط صورة"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (أداة لقطة شاشة)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "اداة إلتقاط الشاشة سهلة ومريحة. تسمح لك لإختيار اي جزء من الشاشة لاخذ لقطة منه، ورفع الصورة على الانترنت"
+   }
+}

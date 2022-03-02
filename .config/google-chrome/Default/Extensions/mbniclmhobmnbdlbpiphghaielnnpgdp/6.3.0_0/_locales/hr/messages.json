@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "O"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Sva prava zadržana."
+   },
+   "screenshot_app_exit": {
+      "message": "Izađi"
+   },
+   "screenshot_app_help": {
+      "message": "Pomoć"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Neuspješna registracija tipkovnom kraticom:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Moguće da neka druga aplikacija već koristi. Kliknite na ovu poruku da otvorite izbore dijaloškog okvira."
+   },
+   "screenshot_app_language_code": {
+      "message": "HR"
+   },
+   "screenshot_app_language_name": {
+      "message": "Hrvatski"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Croatian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Moja galerija (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prijava..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Odjava"
+   },
+   "screenshot_app_options": {
+      "message": "Postavke"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Automatski zatvori prozor prijenosa"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automatski kopiraj poveznicu nakon prijenosa"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Snimi pokazivač na snimci zaslona"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Podesi"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sustav proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Ne možete postaviti istu tipkovnu kraticu za različite funkcije. Molimo promijenite jednu od tipkovnih kratica."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Jedna od tvojih kratica ne radi. Ako želite onemogućiti tu kraticu, molimo isključite odgovarajuću kućicu."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formati"
+   },
+   "screenshot_app_options_general": {
+      "message": "Općenito"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Glavna kratica"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Kratice"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Brzo spremi cijeli zaslon"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Brzi prijenos čitavog zaslona"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvaliteta"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Zadrži izabrano mjesto"
+   },
+   "screenshot_app_options_language": {
+      "message": "Jezik"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Ručne proxy postavke"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Bez proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Uvijek"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nikad"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Uredi snimke zaslona (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Samo kod prijenosa"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Ulaz"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Prikaži obavijesti o kopiranju i spremanju"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nije postavljeno (izravno povezivanje)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Koristi sustav proxy postavki"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Prenesite koristeći format"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Prijavljen kao"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prijavi se"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Greška kod prijave na Lightshot"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Pojavila se greška kod prijave. Molimo pokušajte ponovno."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Snimi zaslon"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Uvjeti korištenja"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Pritisni \"%hotkey_main%\" na svojoj tipkovnici da snimiš zaslon"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Ne pokazuj više ovu poruku"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Poništi"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Oh!\u003C/h4>Dogodilo se opet! Google Chrome ima \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">strašnu grešku\u003C/a>povezanu sa funkcionalnošću snimke zaslona na monitorima visoke razlučivosti. Preglednik smanjuje cijelu sliku, zato ćete vidjeti mutne snimke zaslona umjesto visoko kvalitetnih. Iako je greška označena kao popravljena na bug pretraživaču, popravak će biti izdan samo za Chrome verzije 39 ili 40. Nažalost, ne možemo učini ništa u vezi toga.\u003Cbr>Stoga snažno preporučamo da isprobate Lightshot aplikaciju za radnu površinu. Radi točno onako kao što je i prije radila i nije pogođena promjenama u Google Chrome. Možete ju preuzeti ovdje: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Ispričavamo se zbog neugodnosti."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Nažalost Google Chrome ne pruža podršku za kopiranje slike u međuspremnik s API, stoga smo morali isključiti ovu opciju. Ispričavamo se zbog neugodnosti.\\n\\nKako ti možeš pomoći?\\nU vezi toga postoji problem u Google Chrome bug pretraživaču. Možete ga označiti zvjezdicom i imati će veću važnost i može zato biti popravljen brže.\\n\\nIli možete koristiti Lightshot zasebnu aplikaciju. Značajka kopiranja tamo radi savršeno. Možete je preuzeti na http://app.prntscr.com/\\n\\nPritisnite \"U redu\" da bi otvorili Google Chrome pretraživač problema.\\nKliknite na \"Poništi\" da zatvorite ovaj proces."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Izbriši odabrano"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zatvori"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiraj"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Greška: Firefox CTypes nije uspio učitati Lightshot. Pokušajte ponovno učitati svoj preglednik. Ako se ova greška pojavljuje i poslije ponovnog učitavanja, molimo kontaktirajte nas na support@skillbrains.com.\\n\\nDodatne informacije o grešci: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Strelica"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Zatamnjeno"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Krug"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Boja"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linija"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Flomaster"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Olovka"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Pravokutnik"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekst"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Vrati"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Uredi snimku zaslona na mreži"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Greška"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Odaberi puni zaslon"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Ispričavamo se zbog neugodnosti, ali Lightshot dodatak radi samo na Windows računalima. Ako želite koristiti Lightshot za Mac, molimo Vas preuzmite ga sa Mac App Store. Ići na App Store sad?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Neispravna JSON konstrukcija u odazivu poslužitelja za slike"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Pogrešna veličina"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Što se dogodilo dobrom starom Lightshot?\u003C/h4>Kao što znate Google Chrome je prestao \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">podržavati NPAPI dodatak u rujnu\u003C/a>. Zato smo se morali prilagoditi toj promjeni.\u003Cbr>Prebacivanje s NPAPI na Javascript nije bilo bolno. Trenutno smo izgubili \"Kopiraj\" značajku zbog \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">ovog Google Chrome problema\u003C/a>. I neke druge značajke su također bilo pogođene.\u003Cbr>Ako volite prethodnu verziju i ne sviđaju Vam se ove promjene, preporučamo Vam da isprobate Lightshot aplikaciju za radnu površinu. Radi točno onako kao što je i prije radila i nije pod utjecajem promjena u Google Chrome. Možete ju preuzeti ovdje: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Više o novoj verziji možete pročitati \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">ovdje\u003C/a>.\u003Cbr>Ispričavamo se zbog neugodnosti."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Greška: Lightshot NPAPI dodatak nije pronađen. Pokušajte ponovno učitati Vaš preglednik. Ako se greška nastavi pojavljivati i nakon ponovnog učitavnja, molimo kontaktirajte nas na support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Otvori"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Uredi snimku zaslona"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Ispričavamo se zbog neugodnosti, ali Lightshot radi samo za Windows i Mac računala. Ako želite Lightshot za Vaš operativni sustav, molimo kontaktirajte nas na support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Ispis"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Ponovi"
+   },
+   "screenshot_plugin_save": {
+      "message": "Spremi"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Vaša snimka zaslona je kopirana u međuspremnik"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Greška: Lightshot ne može slikati zaslon. Pokušajte ponovno učitati svoj preglednik. Ako se ova greška pokazuje i nakon ponovnog učitavanja zaslona, molimo vas javite to na support@skillbrains.com.\\n\\nDodatne informacije o grešci: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Snimka zaslona je spremljena u %filename%. Pritisnite ovdje da otvorite mapu."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Snimka zaslona je prenesena. Poveznica je kopirana u međuspremnik."
+   },
+   "screenshot_plugin_share": {
+      "message": "Podijeli na društvenim mrežama"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Podijeli na Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Traži slične slike na Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Dijeli na Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Pošalji e-poštom"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Traži slične slike na Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Podijeli na Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Podijeli na VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Odaberi područje"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Poništi - poništi prijenos snimke zaslona"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Molimo, provjerite da je konfiguracija ispravna i da proxy ne blokira Lightshot zahtjeve."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Nastavi - otvori Lightshot proxy konfiguraciju"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Nastavi - otvori proxy sistemsku konfiguraciju"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Trenutno Lightshot je podešen da koristi ovaj proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot koristi trenutne proxy postavke: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Pokušajte ponovno - ponovi koristeći trenutne postavke"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Prenesi na prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Greška u prijenosu"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detaljne informacije"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Prijenos neuspješan."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Prijenos neuspješan. Ponoviti?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Prijenos slike"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Snimi zaslon"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (alat za slikanje zaslona)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Jednostavan i praktičan alat za snimanje zaslona. Odaberi mjesto, uredi snimku zaslona i prenesi ju na poslužitelj."
+   }
+}

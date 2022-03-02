@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Σχετικά"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Με επιφύλαξη παντός δικαιώματος."
+   },
+   "screenshot_app_exit": {
+      "message": "Έξοδος"
+   },
+   "screenshot_app_help": {
+      "message": "Βοήθεια"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Απέτυχε η καταχώρηση του πλήκτρου συντόμευσης:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Πιθανόν κάποια άλλη εφαρμογή να το χρησιμοποιεί ήδη. Κάντε κλικ σε αυτό το μήνυμα για να ανοίξετε το παράθυρο επιλογών."
+   },
+   "screenshot_app_language_code": {
+      "message": "EL"
+   },
+   "screenshot_app_language_name": {
+      "message": "Ελληνικά"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Greek"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Η συλλογή μου (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Σύνδεση..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Αποσύνδεση"
+   },
+   "screenshot_app_options": {
+      "message": "Επιλογές"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Αυτόματο κλείσιμο του παράθυρου μεταφόρτωσης"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Αυτόματη αντιγραφή του συνδέσμου μετά τη μεταφόρτωση"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Καταγραφή του δρομέα στο στιγμιότυπο"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Διαμόρφωση"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Μεσολαβητής συστήματος"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Δεν μπορείτε να ορίσετε τα ίδια πλήκτρα συντόμευσης για διαφορετικές λειτουργίες. Αλλάξτε ένα από τα πλήκτρα."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Ένα από τα πλήκτρα συντόμευσης σας δεν είναι έγκυρο. Εάν θέλετε να απενεργοποιήσετε αυτό το πλήκτρο, παρακαλούμε καταργήστε την επιλογή στο αντίστοιχο πλαίσιο ελέγχου."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Τύποι"
+   },
+   "screenshot_app_options_general": {
+      "message": "Γενικά"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Γενικό πλήκτρο συντόμευσης"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Πλήκτρα συντόμευσης"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Άμεση αποθήκευση πλήρους οθόνης"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Άμεση μεταφόρτωση πλήρους οθόνης"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "Μεσολαβητής HTTP(S)"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Ποιότητα JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Διατήρηση θέσης επιλεγμένης περιοχής"
+   },
+   "screenshot_app_options_language": {
+      "message": "Γλώσσα"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Χειροκίνητη διαμόρφωση μεσολαβητή"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Χωρίς μεσολαβητή"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Πάντα"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Ποτέ"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Βελτιστοποίηση στιγμιοτύπων (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Μόνο κατά την μεταφόρτωση"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Μεσολαβητής"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Θύρα"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Εμφάνιση ειδοποιήσεων όταν γίνεται αντιγραφή και αποθήκευση"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Δεν έχει οριστεί (άμεση σύνδεση)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Χρήση ρυθμίσεων του συστήματος για τον μεσολαβητή"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Μεταφόρτωση με χρήση του τύπου"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Συνδεδεμένος ως"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Σύνδεση"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Σφάλμα σύνδεσης του Lightshot"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Παρουσιάστηκε σφάλμα κατά τη σύνδεση. Παρακαλούμε δοκιμάστε ξανά."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Λήψη στιγμιοτύπου"
+   },
+   "screenshot_app_terms": {
+      "message": "Όροι χρήσης του Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Πατήστε το πλήκτρο \"%hotkey_main%\" στο πληκτρολόγιό σας, για να γίνει λήψη του στιγμιοτύπου"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Μην εμφανιστεί ξανά αυτό το μήνυμα"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Άκυρο"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Ωχ!\u003C/h4>Αυτό συνέβη ξανά! Το Google Chrome έχει \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">ένα τρομερό σφάλμα\u003C/a> που σχετίζεται με τη λειτουργικότητα των στιγμιοτύπων σε οθόνες με υψηλό DPI. Το πρόγραμμα περιήγησης υποβιβάζει ολόκληρη την εικόνα κι έτσι βλέπετε θολά στιγμιότυπα αντί για στιγμιότυπα υψηλής ποιότητας. Αν και το σφάλμα έχει επισημανθεί ως διορθωμένο στο bug tracker, η επιδιόρθωση θα κυκλοφορήσει μόνο με την έκδοση Chrome 39 ή 40. Δεν μπορούμε να κάνουμε τίποτα για αυτό.\u003Cbr>Σας συνιστούμε ανεπιφύλακτα να δοκιμάσετε την εφαρμογή Lightshot για υπολογιστή. Λειτουργεί ακριβώς όπως ήταν πριν και δεν επηρεάζεται από αλλαγές στο Google Chrome. Μπορείτε να την κατεβάσετε από εδώ: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Ζητούμε συγγνώμη για την αναστάτωση που προκλήθηκε."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Δυστυχώς το Google Chrome δεν παρέχει υποστήριξη για αντιγραφή εικόνων στο πρόχειρο με API, και έτσι έπρεπε να απενεργοποιήσουμε αυτήν την επιλογή. Ζητούμε συγγνώμη για την αναστάτωση που προκλήθηκε.\\n\\nΠώς μπορείτε να βοηθήσετε;\\nΥπάρχει ένα θέμα στη διαχείριση αναφορών σφαλμάτων του Google Chrome σχετικά με αυτό. Μπορείτε να το επισημάνετε με αστέρι, οπότε θα έχει μεγαλύτερη προτεραιότητα και θα διορθωθεί νωρίτερα.\\n\\nΉ μπορείτε να χρησιμοποιήσετε την αυτόνομη εφαρμογή Lightshot. Η δυνατότητα αντιγραφής λειτουργεί τέλεια εκεί. Μπορείτε να το κατεβάσετε από http://app.prntscr.com/\\n\\nΚάντε κλικ στο \"OΚ\" για άνοιγμα της διαχείρισης ζητημάτων του Google Chrome.\\nΚάντε κλικ στο \"Άκυρο\" για να κλείσει αυτό το παράθηρο."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Απαλοιφή επιλογής"
+   },
+   "screenshot_plugin_close": {
+      "message": "Κλείσιμο"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Αντιγραφή"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Σφάλμα: Το Firefox CTypes απέτυχε να φορτώσει το Lightshot. Προσπαθήστε να επαναφορτώσετε τον περιηγητή. Εάν συνεχίζετε να βλέπετε αυτό το σφάλμα μετά την επαναφόρτωση, παρακαλούμε επικοινωνήστε στο support@skillbrains.com.\\n\\nΑναλυτικές πληροφορίες σφάλματος: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Βέλος"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Θόλωμα"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Κύκλος"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Χρώμα"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Γραμμή"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Υπογραμμιστής"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Μολύβι"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Ορθογώνιο"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Κείμενο"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Αναίρεση"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Επεξεργασία ενός στιγμιότυπου online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Σφάλμα"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Επιλογή πλήρους οθόνης"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Ζητούμε συγγνώμη για την αναστάτωση, αλλά η επέκταση Lightshot τρέχει μόνο σε υπολογιστές με Windows. Εάν θέλετε να χρησιμοποιήσετε το Lightshot σε Mac, παρακαλούμε κατεβάστε το από το Mac App Store. Μετάβαση στο Mac App Store τώρα;"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Εσφαλμένη δομή JSON στην απάντηση από τον διακομιστή φιλοξενίας εικόνων"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Λάθος μέγεθος"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Τι συνέβη με το παλιό καλό Lightshot;\u003C/h4>Όπως ίσως γνωρίζετε το Google Chrome σταμάτησε \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">την υποστήριξη των πρόσθετων NPAPI τον Σεπτέμβριο\u003C/a>. Γι αυτό έπρεπε να προσαρμοστούμε σε αυτή την αλλαγή.\u003Cbr>Η μετάβαση από NPAPI σε Javascript δεν ήταν ανώδυνη. Προς το παρόν χάσαμε τη δυνατότητα «Αντιγραφής» λόγω \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">αυτού του θέματος του Google Chrome\u003C/a>. Και κάποια άλλα χαρακτηριστικά επηρεάστηκαν επίσης.\u003Cbr>Εάν αγαπάτε την προηγούμενη έκδοση και δεν σας αρέσουν αυτές οι αλλαγές, σας συνιστούμε να δοκιμάσετε την εφαρμογή Lightshot για υπολογιστή. Λειτουργεί ακριβώς όπως ήταν πριν και δεν επηρεάστηκε από τις αλλαγές στο Google Chrome. Μπορείτε να το κατεβάσετε από εδώ: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Μπορείτε να διαβάσετε περισσότερα σχετικά με τη νέα έκδοση \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">εδώ\u003C/a>.\u003Cbr>Ζητούμε συγγνώμη για την αναστάτωση που προκλήθηκε."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Σφάλμα: Το πρόσθετο Lightshot NPAPI δεν βρέθηκε. Προσπαθήστε να επαναφορτώσετε τον περιηγητή σας. Εάν ακόμα συνεχίζετε να βλέπετε αυτό το σφάλμα μετά την επαναφόρτωση, παρακαλούμε επικοινωνήστε στο support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Άνοιγμα"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Βελτιστοποίηση στιγμιοτύπου"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Ζητούμε συγγνώμη για την αναστάτωση, αλλά το Lightshot τρέχει μόνο σε υπολογιστές Windows και Mac. Εάν θέλετε το Lightshot για το δικό σας λειτουργικό σύστημα, παρακαλούμε επικοινωνήστε στο support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Εκτύπωση"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Επανάληψη"
+   },
+   "screenshot_plugin_save": {
+      "message": "Αποθήκευση"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Το στιγμιότυπο αντιγράφηκε στο πρόχειρο."
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Σφάλμα: Το Lightshot δεν μπόρεσε να κάνει λήψη στιγμιότυπου. Προσπαθήστε να επαναφορτώσετε τον περιηγητή σας. Εάν συνεχίζετε να βλέπετε αυτό το σφάλμα μετά την επαναφόρτωση, παρακαλούμε επικοινωνήστε στο support@skillbrains.com.\\n\\nΑναλυτικές πληροφορίες σφάλματος: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Το στιγμιότυπο αποθηκεύτηκε στο %filename%. Κάντε κλικ εδώ για να ανοίξετε τον φάκελο"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Το στιγμιότυπο μεταφορτώθηκε. Ο σύνδεσμος αντιγράφηκε στο πρόχειρο."
+   },
+   "screenshot_plugin_share": {
+      "message": "Μοιραστείτε το στα κοινωνικά δίκτυα"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Μοιραστείτε το στο Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Αναζήτηση παρόμοιων εικόνων στο Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Μοιραστείτε το στο Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Αποστολή μέσω email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Αναζήτηση παρόμοιων εικόνων στο Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Μοιραστείτε το στο Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Μοιραστείτε το στο VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Επιλέξτε περιοχή"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Άκυρο - ακύρωση της μεταφόρτωσης του στιγμιοτύπου"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Παρακαλούμε βεβαιωθείτε ότι είναι σωστές οι ρυθμίσεις και ο μεσολαβητής δεν αποκλείει τα αιτήματα του Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Συνέχεια - άνοιγμα της διαμόρφωσης μεσολαβητή του Lightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Συνέχεια - άνοιγμα της διαμόρφωσης μεσολαβητή του συστήματος"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Αυτή τη στιγμή το Lightshot έχει ρυθμιστεί να χρησιμοποιεί τον μεσολαβητή: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Το Lightshot χρησιμοποιεί τις τρέχουσες ρυθμίσεις μεσολαβητή του συστήματος σας: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Δοκιμή ξανά - επανάληψη με τις τρέχουσες ρυθμίσεις"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Μεταφόρτωση στο prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Σφάλμα μεταφόρτωσης"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Αναλυτικές πληροφορίες"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Η μεταφόρτωση απέτυχε."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Η μεταφόρτωση απέτυχε. Επανάληψη;"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Μεταφόρτωση εικόνας"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Λήψη στιγμιότυπου"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (εργαλείο λήψης στιγμιότυπων)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Εύχρηστο και πρακτικό εργαλείο λήψης στιγμιότυπων. Επιλέξτε μια περιοχή, επεξεργαστείτε το στιγμιότυπο σας και ανεβάστε το στον διακομιστή."
+   }
+}

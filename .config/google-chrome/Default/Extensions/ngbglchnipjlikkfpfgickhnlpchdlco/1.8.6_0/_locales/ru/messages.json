@@ -1,0 +1,20 @@
+{
+   "color_pick_btn": {
+      "message": "Pick color"
+   },
+   "description": {
+      "message": "Grab colors from any website. Fast and reliable color picker tool "
+   },
+   "dominant_color": {
+      "message": "\u003Cstrong>Dominant\u003C/strong> color"
+   },
+   "name": {
+      "message": "Colorgrab"
+   },
+   "select_color": {
+      "message": "Select color"
+   },
+   "selected_color": {
+      "message": "\u003Cstrong>Selected\u003C/strong> color"
+   }
+}

@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "О программе"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% все права защищены."
+   },
+   "screenshot_app_exit": {
+      "message": "Выход"
+   },
+   "screenshot_app_help": {
+      "message": "Помощь"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Не удалось зарегистрировать горячую клавишу:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Скорее всего она уже используется другой программой. Кликните на это сообщение, чтобы открыть окно настроек."
+   },
+   "screenshot_app_language_code": {
+      "message": "RU"
+   },
+   "screenshot_app_language_name": {
+      "message": "Русский"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Russian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Моя галерея (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Войти..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Выйти"
+   },
+   "screenshot_app_options": {
+      "message": "Настройки"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Автоматически закрывать окно загрузки на сервер"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Автоматически копировать ссылку после загрузки на сервер"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Сохранять курсор на скриншоте"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Настроить"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Cистемный прокси"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Выбраны одинаковые горячие клавиши, измените одну из них."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Одна из ваших горячих клавиш недействительна. Если вы хотите полностью отключить горячую клавишу, уберите соответствующую ей галочку."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Форматы"
+   },
+   "screenshot_app_options_general": {
+      "message": "Основные"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Основная горячая клавиша"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Горячие клавиши"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Быстрое сохранение всего экрана"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Быстрая загрузка всего экрана на сервер"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) прокси"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Качество JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Сохранять позицию выделенной области"
+   },
+   "screenshot_app_options_language": {
+      "message": "Язык"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Ручная настройка прокси"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Без прокси"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Всегда"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Никогда"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Оптимизировать скриншоты (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Только при загрузке на сервер"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Прокси"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Порт"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Показывать уведомления о копировании и сохранении"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Без прокси (прямое соединение)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Использовать системные настройки прокси"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Загружать на сервер в формате"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Вы вошли как:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Войти"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot: ошибка"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: При входе в аккаунт произошла ошибка. Повторите попытку."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Сделать скриншот"
+   },
+   "screenshot_app_terms": {
+      "message": "Условия использования Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Нажмите \"%hotkey_main%\" на клавиатуре для того, чтобы сделать скриншот"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Больше не показывать это сообщение"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Отменить"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Что на этот раз?!\u003C/h4>У браузера Google Chrome снова проблемы! В версии 38 Google Chrome появилась \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">серьезная проблема\u003C/a>, связанная с функциональностью скриншота на мониторах с высоким разрешением. Браузер просто уменьшает изображение до обычного, и поэтому все скриншоты будут размытыми. Хотя проблема помечена в трекере как исправленная, ее решение будет выпущено только в версии Google Chrome 39 или 40. Мы ничего не можем поделать с данной проблемой.\u003Cbr>Настоятельно рекомендуем вам использовать самостоятельную программу Lightshot. Она работает независимо от браузера и в ней нет проблем, связанных с ошибками Google Chrome. Вы можете скачать ее отсюда: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Приносим свои извинения за неудобства."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "К сожалению, Google Chrome не позволяет копировать изображение в буфер обмена из расширения. Мы приносим свои извинения за неудобства.\\n\\nКак вы можете помочь?\\nВ трекере ошибок Google Chrome есть задача по добавлению этого функционала. Вы можете пометить эту задачу звездочкой для того, чтобы повысить ее приоритет и тем самым ускорить решение этой проблемы.\\n\\nИли же вы можете просто использовать Lightshot в качестве самостоятельного приложения. В нем функция копирования работает превосходно. Скачать его можно с сайта http://app.prntscr.com/\\n\\nНажмите \"Ok\", чтобы открыть трекер задач Google Chrome.\\nНажмите \"Отмена\", чтобы закрыть этот диалог."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Очистить"
+   },
+   "screenshot_plugin_close": {
+      "message": "Закрыть"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Копировать"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Ошибка: компонент Firefox CTypes не смог загрузить Lightshot. Попробуйте перезагрузить браузер. Если данная ошибка появляется после перезагрузки браузера, пожалуйста, обратитесь за помощью по адресу support@skillbrains.com.\\n\\nПодробная информация об ошибке: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Стрелка"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Размытие"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Окружность"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Цвет"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Линия"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Маркер"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Карандаш"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Прямоугольник"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Текст"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Отменить"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Редактировать"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Ошибка"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Выделить весь экран"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Извините, но расширение Lightshot доступно только на Windows-платформе. Для использования приложения Lightshot на Mac, пожалуйста, установите его из App Store. Перейти на страницу Lightshot в App Store?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Неверный ответ от хостинга изображений"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Неверный размер"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Что случилось с Lightshot?\u003C/h4>С сентября Google Chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">перестал поддерживать технологию NPAPI\u003C/a>, поэтому нам пришлось подстроиться под это изменение и полностью переписать наше расширение.\u003Cbr>Переезд на новую технологию не прошел безболезненно. В данный момент полностью не работает функция копирования скриншота в буфер обмена, это связано с тем, что Google Chrome пока \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">не позволяет\u003C/a> это делать расширениям. Мы надеемся, что разработчики Chrome в скором времени исправят эту проблему. Также произошли небольшие изменения и в других функциях программы.\u003Cbr>Если вы привыкли к старой версии и вам не нравится поведение новой версии, то мы можем вас обрадовать: самостоятельное приложение Lightshot продолжает работать точно так же, как и раньше. Скачать его можно с нашего сайта: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Более подробно о новой версии \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">тут\u003C/a>.\u003Cbr>Приносим свои извинения за неудобства."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Ошибка: плагин Lightshot NPAPI не найден. Перезапустите браузер. Если это сообщение появится после перезапуска браузера, свяжитесь с нами по адресу support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Открыть"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Оптимизация скриншотов"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Извините, но расширение Lightshot доступно только для платформы Windows. Если вы хотите использовать Lightshot на своей ОС, свяжитесь с нами по адресу support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Печать"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Повторить"
+   },
+   "screenshot_plugin_save": {
+      "message": "Сохранить"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Скриншот скопирован в буфер обмена"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Ошибка: Lightshot не смог сделать скриншот. Попробуйте перезагрузить браузер. Если данная ошибка появляется после перезагрузки браузера, пожалуйста, обратитесь за помощью по адресу support@skillbrains.com.\\n\\nПодробная информация об ошибке: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Скриншот сохранён в %filename%. Кликните для открытия папки со скриншотом."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Скриншот загружен на сервер. Ссылка скопирована в буфер обмена."
+   },
+   "screenshot_plugin_share": {
+      "message": "Поделиться в социальных сетях"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Поделиться на Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Искать похожие изображения на Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Поделиться на Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Отправить по email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Искать похожие изображения на Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Поделиться в Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Поделиться ВКонтакте"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Выберите область"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Отмена - отменить загрузку скриншота"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Пожалуйста, убедитесь, что настройки прокси верны и он не блокирует запросы от Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Продолжить - открыть настройки прокси Lightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Продолжить - открыть системные настройки прокси"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot настроен на использование прокси: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot использует системные настройки прокси: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Повторить - повторить загрузку с текущими настройками"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Загрузить на prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Ошибка загрузки на сервер"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Подробная информация"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Не удалось загрузить скриншот."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Ошибка загрузки на сервер. Повторить?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Загрузка изображения на сервер"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Сделать скриншот"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Простая и удобная скриншот-утилита. Позволяет делать скриншоты произвольной области экрана, редактировать их и загружать на сервер"
+   }
+}

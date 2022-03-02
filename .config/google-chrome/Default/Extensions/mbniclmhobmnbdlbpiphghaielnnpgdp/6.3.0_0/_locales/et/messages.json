@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Programmist"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Kõik õigused kaitstud."
+   },
+   "screenshot_app_exit": {
+      "message": "Välju"
+   },
+   "screenshot_app_help": {
+      "message": "Abi"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Viga kiirklahvi registreerimisel:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Tundub, et seda kasutab juba mõni teine programm. Vajutage sellele sõnumile, et avada valikute aken."
+   },
+   "screenshot_app_language_code": {
+      "message": "ET"
+   },
+   "screenshot_app_language_name": {
+      "message": "Eesti"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Estonian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Minu galerii (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Logi sisse..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Logi välja"
+   },
+   "screenshot_app_options": {
+      "message": "Valikud"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Sule automaatselt üleslaadimise aken"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Kopeeri link automaatselt pärast ülesse laadimist"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Jäädvusta kursor kuvatõmmisele"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Seadista"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Süsteemi proksi"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Te ei saa valida sama kiirklahvi erinevate funktsioonide jaoks. Palun muutke mõnda kiirklahvi."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Üks kiirklahvidest on vigane. Kui te tahate keelata kiirlahve, palun eemaldaga vastav linnuke."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formaadid"
+   },
+   "screenshot_app_options_general": {
+      "message": "Üldine"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Üldised kiirklahvid"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Kiirklahvid"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Kiire täisekraani salvestamine"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Kiire täisekraani üleslaadimine"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proksi"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvaliteet"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Salvesta valitud ala positsioon"
+   },
+   "screenshot_app_options_language": {
+      "message": "Keel"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Manuaalne proksi seadistamine"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Proksita"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Alati"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Mitte kunagi"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimiseeri kuvatõmmist (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Ainult ülesselaadimisel"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proksi"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Näita teateid kopeerimise ja salvestamise kohta"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Pole seadistatud (otsene ühendus)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Kasuta süsteemi proksi seadeid"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Üleslaadimise formaat"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Olete sisse logitud kui"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Logi sisse"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshoti sisselogimise viga"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Sisselogimisel tekkis viga. Palun proovige uuesti."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Loo kuvatõmmis"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshoti kasutustingimused"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Vajutage \"%hotkey_main%\" oma klaviatuuril, et teha kuvatõmmis"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Ära näita seda sõnumit enam"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Loobu"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Tohohh!\u003C/h4>See juhtus uuesti! Google Chrome avastas \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">kohutava vea\u003C/a> seoses kuvatõmmise funktsionaalsusega suure eraldusvõimega monitoridega. Brauser muudab kogu kuvatõmmist, niiet te näete ainult hägust pilti, kõrgkvaliteetse asemel. Kuna viga on märgitud \"Parandatud\" tuleb parandus alles Chrome 39 või 40 versioonis. Kahjuks ei saa me midagi parata.\u003Cbr>Me soovitame kasutada Lightshot täisversiooni. See töötab nii nagu on alati töötanud ja ei sõltu Google Chrome muudatustest. Saate selle allalaadida siit: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Vabandame ebamugavuste pärast."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Kahjuks ei toeta Google Chrome kopeerimist vahetuspuhvrisse läbi API, niisiis pidime eemaldama selle valiku. Vabandame ebameeldivuste pärast.\\n\\nKuidas saate te aidata?\\nGoogle Chrome veateadetes on see viga mainitud. Võiksite sinna linnukese lisada, et suurendada vea prioriteeti, siis tehakse see kiiremini korda.\\n\\nVõi võite kasutada Lightshoti täisversiooni. Kopeerimise valik töötab seal laitmatult. Saate selle allalaadida siit http://app.prntscr.com/\\n\\nVajutake \"Ok\", et avada Google Chrome veateated.\\n\u003CVajutage \"Loobu\", et sulgeda see dialoog."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Puhasta valitud"
+   },
+   "screenshot_plugin_close": {
+      "message": "Sule"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopeeri"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Viga: Firefox CTypes ei suutnud laadida Lightshoti. Palun taaskäivitage oma brauser. Kui viga ei kao, võtke meiega ühendust support@skillbrains.com.\\n\\nLaiendatud vea info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Nool"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Hägusus"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Ring"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Värv"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Joon"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marker"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pliiats"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Ristkülik"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekst"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Tühista"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Redigeeri kuvatõmmist võrgus"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Viga"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Vali täisekraan"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Vabandame ebamugavuste pärast, kuid Lightshoti laiendus töötab ainult Windowsi peal. Kui te soovite kasutada Lightshoti Mac arvutitel, palun laadige see alla Mac App Store-st. Kas soovite kohe App Store-sse minna?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Vale JSON struktuur, pildi hostimis serveri vastuses"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Vale suurus"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Mis juhtus vana hea Lightshotiga?\u003C/h4>Nagu te teade, lõpetas Google Chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">NPAPI pluginate toetamise Septembris\u003C/a>. Niisiis pidime tegema sellise muutuse.\u003Cbr>Liikumine NPAPI-st Javascripti ei olnud valulik. Praguseks oleme kaotanud oma \"Kopeerimise\" valiku, sest \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">see on Google Chrome viga\u003C/a>. Ka mõned teised valikud on saanud kannatada.\u003Cbr>Kui teile meeldisid eelmised versioonid ja teile ei meeldi need muudatused, palume teil kasutada täisversiooni. See töötab täpselt nii nagu ka vanasti ja ei sõltu Google Chromest. Saate selle alla laadida siit: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Uuest versioonist saate rohkem lugeda \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">siit\u003C/a>.\u003Cbr>Vabandame ebamugavuste pärast."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Viga: Lightshoti NPAPI pluginat ei leitud. Proovige taaskäivitada oma brauser. Kui viga ei kao, võtke meiega ühendust support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Ava"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimiseerin kuvatõmmist"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Vabandame ebamugevuste pärast, kuid Lightshot töötab ainult Windowsi ja Mac arvutitel. Kui te soovite Lightshoti kasutada oma operatsiooni süsteemil, siis palun võtke meiega ühendust support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Prindi"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Proovi uuesti"
+   },
+   "screenshot_plugin_save": {
+      "message": "Salvesta"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Teie kuvatõmmis on kopeeritud vahetuspuhvrisse"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Viga: Lightshot ei saanud teha kuvatõmmist. Palun taaskäivitage oma brauser. Kui viga ei kao, võtke meiega ühendust support@skillbrains.com.\\n\\nLaiendatud vea info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Teie kuvatõmmis on salvestatud kui %filename%. Vajutage, et avada kaustas."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Kuvatõmmis on ülesse laetud. Link on kopeeritud vahetuspuhvrisse."
+   },
+   "screenshot_plugin_share": {
+      "message": "Jaga sotsiaalvõrgustikes"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Jaga Facebookis"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Otsi sarnaseid pilte Google-st"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Jaga Pinterest-is"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Saada E-mailga"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Otsi sarnaseid pilte Tineye-st"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Jaga Twitteris"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Jaga VKs"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Vali ala"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Loobu - loobu kuvatõmmise üleslaadimisest"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Palun kontrollige, et seadistus on õige ja et proksi ei blokeeriks Lightshoti taotlusi."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Jätka - ava Lightshoti proksi seaded"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Jätka - ava süsteemi proksi seaded"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Praegu on Lightshot seadistatud kasutama seda proksit: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot kasutab praeguseid süsteemi proksi seadeid: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Proovi uuesti - proovi uuesti kasutades praeguseid seadeid"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Lae ülesse prntscr.com lehele"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Üleslaadimise viga"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detailne informatsioon"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Üleslaadimine ebaõnnestus."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Üleslaadimine ebaõnnestus. Uuesti?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Pildi üleslaadimine"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Loo kuvatõmmis"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (kuvatõmmise tööriist)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Lihtne ja mugav kuvatõmmise loomise programm. Vali ala, redigeeri oma kuvatõmmist ja lae see serverisse ülesse."
+   }
+}

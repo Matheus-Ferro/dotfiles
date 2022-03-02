@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Om"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Alle rettigheter reservert."
+   },
+   "screenshot_app_exit": {
+      "message": "Avslutt"
+   },
+   "screenshot_app_help": {
+      "message": "Hjelp"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Hurtigtastkombinasjon ikke registrert:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Den er sannsynligvis allerede i bruk. Klikk her for å åpne Valg."
+   },
+   "screenshot_app_language_code": {
+      "message": "NB-NO"
+   },
+   "screenshot_app_language_name": {
+      "message": "Norsk bokmål"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Norwegian (Bokmål)"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mine skjermbilder (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Logg inn"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Logg ut"
+   },
+   "screenshot_app_options": {
+      "message": "Valg"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Lukk opplastingsvinduet automatisk"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Kopier lenke automatisk etter opplasting"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Vis markøren/pekeren i skjermbilder"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurer"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Systemets proxyinnstillinger"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Du kan ikke bruke samme hurtigtastkombinasjon for flere funksjoner. Vennligst velg en annen hurtigtastkombinasjon."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "En av dine hurtigtastkombinasjoner er ugyldige. Hvis du vil deaktivere denne, vennligst fjern markeringen ved dette valget i korresponderende markeringsboks."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Filformater"
+   },
+   "screenshot_app_options_general": {
+      "message": "Generelt"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Generell hurtigtastkombinasjon"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Hurtigtaster"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Direkte lagring av fullskjermbilder"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Last opp fullskjermbilder direkte"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG-kvalitet"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Behold det valgte utsnittets posisjon"
+   },
+   "screenshot_app_options_language": {
+      "message": "Språk"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Sett proxyinnstillinger manuelt"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Ingen proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Alltid"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Aldri"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimalisér skjermbilder (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Bare ved opplasting"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxyinnstillinger"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Vis varslinger om kopiering og lagring"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Proxy er ikke satt opp (direkte kobling)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Bruk systemets proxyinnstillinger"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Last opp med gjeldende format"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Logget inn som:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Logg inn"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot innloggingsfeil"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Feil oppstod ved innlogging. Vennligst forsøk igjen."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ta et skjermbilde"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot betingelser for bruk (ToS)"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Bruk hurtigtastkombinasjonen \"%hotkey_main%\" for å ta et skjermbilde"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Ikke vis denne meldingen igjen"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Avbryt"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Æsj!\u003C/h4>Nå skjedde det igjen! Google Chrome har \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">en forferdelig bug\u003C/a> knyttet til skjermbildefunksjonen på høyoppløste skjermer. Nettleseren nedskalerer hele bildet slik at du ser et uskarpt (i stedet for et høyoppløst) bilde. Selv om feilen er markert som «løst» i Google Chromes bugtracker vil ikke dette bli sluppet før versjon 39 eller 40 av Google Chrome. Dessverre er det ikke noe vi kan gjøre med dette.\u003Cbr>Vi anbefaler på det sterkeste at du benytter vårt frittstående Lightshot-program. Dette fungerer akkurat som før og berøres ikke av endringene i Google Chrome. Du kan laste det ned her: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Vi beklager eventuelle ulemper dette måtte medføre for deg."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Google Chrome støtter dessverre ikke kopiering av skjermbilder til utklippstavlen via API, så denne funksjonen er avslått.\\n\\nHvordan kan du hjelpe?\\nDet finnes en oppføring i Google Chrome bugtracker om dette. Du kan markere denne med en stjerne slik at den får høyere prioritet og kan bli oppdatert raskere.\\n\\nDu kan også bruke Lightshot som frittstående program. Kopieringsfunksjonen (til utklippstavlen) fungerer som den skal der. Du kan laste ned programmet fra http://app.prntscr.com/\\n\\nKlikk «OK» for å åpne Google Chromes bugtracker.\\nKlikk «Avbryt» for å lukke dette vinduet."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Fjern utsnitt"
+   },
+   "screenshot_plugin_close": {
+      "message": "Lukk"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiér"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Feil: Firefox CTypes kunne ikke starte Lightshot. Forsøk å laste inn siden på nytt i nettleseren. Hvis du ser denne feilmeldingen på nytt, vennligst kontakt support@skillbrains.com.\\n\\nUtfyllende informasjon: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Pil"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Gjør uskarpt"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Sirkel"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Farge"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linje"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Markér"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Penn"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rektangel"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekst"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Angre"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Redigér skjermbildet i nettleseren"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Feil"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Velg fullskjermsvisning"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Vi beklager, men Lightshot-utvidelsen fungerer bare på datamaskiner med Microsoft Windows operativsystem. Hvis du ønsker Lightshot for Apple Macintosh OS X, vennligst last den ned fra Mac AppStore. Vil du gå til AppStore nå?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Feilaktig JSON-struktur ved respons fra bildets vertsserver"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Feil størrelse"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Hva skjedde med gode gamle Lightshot?\u003C/h4>Som du kanskje har fått med deg sluttet Google Chrome \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">å støtte NPAPI-innstikk i september\u003C/a>. Vi måtte tilpasse oss denne endringen.\u003Cbr>Å gå fra NPAPI til Javascript var på ingen måte smertefritt. Nylig mistet vi vår «Kopiér til utklippstavle»-funksjon (i Google Chrome) på grunn av \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">denne endringen i Google Chrome\u003C/a>. I tillegg ble enkelte andre funksjoner også berørt.\u003Cbr>Hvis du likte funksjonene slik de var før endringene anbefaler vi deg på det sterkeste å prøve vårt frittstående Lightshot-program. Det fungerer akkurat slik som før og er ikke berørt av endringene i Google Chrome. Du kan laste det ned her: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Les mer om den nye HTML5-versjonen for Google Chrome \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">her\u003C/a>.\u003Cbr>Vi beklager eventuelle ulemper dette måtte medføre for deg."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Feil: Lightshot NPAPI-innstikket er ikke installert. Prøv å laste inn siden på nytt i nettleseren og/eller starte nettleseren på nytt. Hvis du får denne feilmeldingen på nytt, vennligst kontakt support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Åpne"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimalisér skjermbildet"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Vi beklager, men Lightshot-utvidelsen fungerer bare på datamaskiner som benytter Microsoft Windows eller Apple Macintosh OS X operativsystemer. Hvis du ønsker Lightshot for ditt operativsystem, vennligst kontakt support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Skriv ut"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Prøv igjen"
+   },
+   "screenshot_plugin_save": {
+      "message": "Lagre"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Skjermbildet ble kopiert til utklippstavlen"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Feil: Lightshot kunne ikke ta skjermbilde. Forsøk å laste inn siden på nytt i nettleseren. Hvis du får denne feilmeldingen på nytt, vennligst kontakt support@skillbrains.com.\\n\\nUtfyllende informasjon: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Skjermbildet lagret på %filename%. Klikk her for å åpne filen."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Skjermbildet er lastet opp. En lenke til bildet er kopiert til utklippstavlen."
+   },
+   "screenshot_plugin_share": {
+      "message": "Del på sosiale nettverk"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Del på Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Søk etter lignende bilder på Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Del på Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Send via e-post"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Søk etter lignende bilder på Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Del på Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Del på VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Velg utsnitt"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Avbryt opplastning av skjermbilde"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Vennligst verifisér konfigurasjonen og at proxyinnstillingene ikke blokkerer forepørsler fra Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Fortsett - åpne Lightshots proxykonfigurasjon"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Fortsett - åpne systemets proxyinnstillinger"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot er konfigurert til å bruke denne proxyen: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot bruker systemets gjeldende proxyinnstillinger: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Forsøk igjen med gjeldende innstillinger"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Last opp til prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Feil ved opplasting"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detaljert informasjon"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Feil ved opplastning"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Opplastingen var mislykket. Vil du prøve igjen?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Laster opp bildet"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Ta et skjermbilde"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (skjermbildeverktøy)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Enkelt og praktisk skjermbildeverktøy. Ta skjermbilder av et utvalgt område av skjermen, redigér/legg til merknader og last opp til vår eksterne server."
+   }
+}

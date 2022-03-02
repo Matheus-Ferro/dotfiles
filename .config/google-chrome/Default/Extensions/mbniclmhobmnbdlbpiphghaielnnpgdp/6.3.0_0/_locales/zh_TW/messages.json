@@ -1,0 +1,254 @@
+{
+   "screenshot_app_about": {
+      "message": "關於"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% 版權所有。"
+   },
+   "screenshot_app_exit": {
+      "message": "離開"
+   },
+   "screenshot_app_help": {
+      "message": "求助"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "無法指定熱鍵給："
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "其他應用程式使用此熱鍵。點擊此訊息開啟設定畫面以重設熱鍵。"
+   },
+   "screenshot_app_language_code": {
+      "message": "ZH-TW"
+   },
+   "screenshot_app_language_name": {
+      "message": "中文（正體）"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Chinese(Traditional)"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "我的圖庫 (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "登入"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "登出"
+   },
+   "screenshot_app_options": {
+      "message": "選項"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "擷圖上傳後自動關閉提示"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "擷圖上傳後自動複製連結至剪貼簿"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "一併擷取滑鼠指標"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "不能以相同熱鍵指派多種功能。請重新設定熱鍵。"
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "選用熱鍵無效。若想取消熱鍵指定，請取消對應熱鍵的勾選框。"
+   },
+   "screenshot_app_options_formats": {
+      "message": "格式"
+   },
+   "screenshot_app_options_general": {
+      "message": "一般"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "一般熱鍵"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "熱鍵"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "立刻儲存全畫面"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "立刻上傳全畫面"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S)代理伺服器"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG畫質"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "維持選擇範圍（適用於固定範圍連續擷圖）"
+   },
+   "screenshot_app_options_language": {
+      "message": "語言"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "手動設定代理伺服器"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "無代理伺服器"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "代理伺服器"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "埠號"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "複製與儲存後顯示通知"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "使用系統代理伺服器設定"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "上傳圖片格式"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "登入為"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "登入"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot登入錯誤"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: 登入錯誤，再次嘗試登入。"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "擷取畫面"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot免責聲明"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "按下畫面擷取鍵啟動擷取畫面 (%hotkey_main%)"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "取消"
+   },
+   "screenshot_plugin_clear": {
+      "message": "清除"
+   },
+   "screenshot_plugin_close": {
+      "message": "關閉"
+   },
+   "screenshot_plugin_copy": {
+      "message": "複製"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "錯誤：Firefox CTypes無法載入Lightshot。請嘗試重新啟動瀏覽器。重啟瀏覽器後若仍出現此訊息，請聯繫 support@skillbrains.com（以英語）。 \\n\\n其他錯誤資訊："
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "箭號"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "模糊效果"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "環狀圈取"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "顏色"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "直線"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "標記"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "畫筆"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "方形框取"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "文字"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "復原"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "擷圖線上編輯"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "錯誤"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "選取全螢幕"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "很抱歉，Lightshot只能於Microsoft Windows運作。若想於Mac系統運作Lightshot，請由Mac應用商店下載。開啟商店？"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "錯誤的尺寸"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "錯誤: Lightshot NPAPI外掛元件不存在。請嘗試重新啟動瀏覽器。重啟瀏覽器後若仍出現此訊息，請聯繫 support@skillbrains.com（以英語）。"
+   },
+   "screenshot_plugin_open": {
+      "message": "開啟"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "很抱歉，Lightshotˋ只能於Microsoft Windows與Mac電腦運作。若想於您的作業系統運作Lightshot，請聯繫 support@skillbrains.com（以英語）。"
+   },
+   "screenshot_plugin_print": {
+      "message": "列印"
+   },
+   "screenshot_plugin_save": {
+      "message": "保存"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "擷取畫面至剪貼簿。"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "錯誤：Lightshot無法擷取畫面。請嘗試重新啟動瀏覽器。重啟瀏覽器後若仍出現此訊息，請聯繫 support@skillbrains.com（以英語）。 \\n\\n其他錯誤資訊："
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "擷圖保存為檔案%filename%。點擊此處開啟該文件夾。"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "擷圖上傳。複製連結至剪貼簿中。"
+   },
+   "screenshot_plugin_share": {
+      "message": "透過社交網路分享"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "透過Facebook分享"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "在Google搜尋類似圖片"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "透過電子郵件發送"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "在Tineye搜尋類似圖片"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "透過Twitter分享"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "選擇範圍"
+   },
+   "screenshot_plugin_upload": {
+      "message": "上傳到 prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "上傳失敗。是否重試？"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "上傳圖片"
+   },
+   "screenshotplugin_default_title": {
+      "message": "擷取畫面"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (畫面擷取工具)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "簡便的擷圖工具。能夠擷取任何選取範圍、編輯並上傳至伺服器。"
+   }
+}

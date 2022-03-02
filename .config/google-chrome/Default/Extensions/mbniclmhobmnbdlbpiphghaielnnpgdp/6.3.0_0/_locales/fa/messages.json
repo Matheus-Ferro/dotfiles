@@ -1,0 +1,323 @@
+{
+   "screenshot_app_about": {
+      "message": "درباره"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% تمامی حقوق محفوظ است."
+   },
+   "screenshot_app_exit": {
+      "message": "خروج"
+   },
+   "screenshot_app_help": {
+      "message": "کمک"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "ثبت کلید میانبر شکست خورد:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "به احتمال زیاد برنامه دیگری در حال استفاده است. برروی پیغام کلیک کنید برای بازکردن جعبه گفتگو."
+   },
+   "screenshot_app_language_code": {
+      "message": "FA"
+   },
+   "screenshot_app_language_name": {
+      "message": "فارسی"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Persian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "گالری من (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "ورود"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "خروج"
+   },
+   "screenshot_app_options": {
+      "message": "گزینه ها"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "بستن پنجره آپلود بصورت خودکار"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "کپی برداری خودکار لینک پس از بارگزاری"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "ضبط مکان نمای موس در روی یک تصویر"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "پیکربندی"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "پروکسی سیستم"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "شما نمی توانید در کلیدهای میانبر از دستورات همسان استفاده کنید. لطفا یکی از کلیدهای میانبر را تغییر دهید."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "یکی از کلیدهای میانبر نامعتبر است. اگر میخواهید که غیر فعال کنید، لطفا تیک مربوطه را بردارید."
+   },
+   "screenshot_app_options_formats": {
+      "message": "فرمت ها"
+   },
+   "screenshot_app_options_general": {
+      "message": "عمومی"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "ساخت میانبر"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "کلیدهای میانبر"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "ذخیره فوری از اسکرین شات تمام صفحه"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "آپلود فوری تصویر از تمام صفحه نمایش"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "پروکسی HTTP(S)"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "کیفیت JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "حفظ موقعیت منطقه انتخاب شده"
+   },
+   "screenshot_app_options_language": {
+      "message": "زبان"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "پیکربندی دستی پروکسی"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "بدون پروکسی"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "همیشه"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "هرگز"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "بهینه سازی تصاویر (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "تنها زمان بارگزاری"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "پروکسی"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "درگاه"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "نمایش آگهی دهنده درباره کپی برداری و ذخیره سازی"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "تنظیم نشده (ارتباط مستقیم)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "استفاده از تنظیمات پروکسی سیستم"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "بارگزاری با استفاده از فرمت"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "وارد شده به عنوان"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "ورود"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "خطای ورود به لایت شات"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "لایت شات: خطایی در هنگام ورود رخ داده است. لطفا مجددا سعی نمایید."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "گرفتن اسکرین شات"
+   },
+   "screenshot_app_terms": {
+      "message": "شرایط خدمات لایت شات"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "برای گرفتن اسکرین شات کلید میانبر \"%hotkey_main%\" را بر صفحه کلید خود بفشارید"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "دیگر این پیغام را نشان نده"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "لغو کردن"
+   },
+   "screenshot_plugin_clear": {
+      "message": "پاک کردن انتخاب"
+   },
+   "screenshot_plugin_close": {
+      "message": "بستن"
+   },
+   "screenshot_plugin_copy": {
+      "message": "کپی"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "خطا: فایرفاکس CTypes شکست خورده برای بارگذاری لایت شات. سعی کنید به بارگزاری مجدد مرورگر. اگر پس از بارگزاری مجدد همچنان خطا را شاهده می کنید، لطفا با ما تماس بگیرید در support@skillbrains.com در Extended\\n\\n اطلاعات خطا: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "پیکان"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "مات"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "دایره"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "رنگ"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "خط"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "نشانگر"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "خودکار"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "مربع مستطیل"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "متن"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "برگشت"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "ویرایش آنلاین اسکیرین شات"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "خطا"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "نمایش تمام صفحه"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "ما برای این مشکل عذرخواهی می کنیم، اما توزیع لایت شات تنها بر روی دستگاههای ویندوزی قابل اجراست. اگر لایت شات را برای مک بوک میخواهید، لطفا آنرا از فروشگاه نرم افزار مک دریافت کنید. مایلید الان به فروشگاه نرم افزار بروید؟"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "ساختار JSON نادرست است در پاسخ از سرور میزبانی تصویر"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "اندازه اشتباه"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "خطا:  پلاگین NPAPI لایت شات یافت نشد. سعی کنید به بارگزاری مجدد مرورگر خود. اگر همچنان این خطا را مشاهده کردید، لطفا با ما تماس بگیرید در support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "بازکردن"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "بهینه سازی یک تصویر"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "ما برای این مشکل عذرخواهی می کنیم، نرم افزار Lightshot برای سیستم عامل ویندوز و مک طراحی شده. اگر لایت شات را برای سیستم خود میخواهید، لطفا با ما تماس بگیرید پشتیبانی : support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "پرینت"
+   },
+   "screenshot_plugin_retry": {
+      "message": "سعی مجدد"
+   },
+   "screenshot_plugin_save": {
+      "message": "ذخیره"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "اسکرین شات شما در حافظه موقت کپی شد"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "خطا: لایت شات قادر به بارگزاری اسکرین شات نیست. سعی به بارگزاری مجدد مرورگر خود نمایید. اگر همچنان پس از بارگزاری این خطا را مشاهده می کنید، لطفا تماس بگیرید با پشتیبانی: support@skillbrains.com\\n\\nExtended  "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "اسکرین شات در %filename% ذخیره شده. برای باز کردن پوشه کلیک کنید ."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "اسکرین شات بارگزاری شد. کپی برداری لینک به حافظه موقت."
+   },
+   "screenshot_plugin_share": {
+      "message": "اشتراک گذاری در شبکه های اجتماعی"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "اشتراک گذاری در فیسبوک"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "جستجوی تصاویر مشابه در گوگل"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "اشتراک گذاری در پینترست"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "ارسال با ایمیل"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "جستجوی تصاویر مشابه در Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "اشتراک گذاری در توییتر"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "اشتراک گذاری در VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "انتخاب محیط"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "لغو - لغو آپلود تصویر"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "لطفا مطمئن شوید که تنظیمات صحیح است و پروکسی لایت شات را مسدود نکرده است."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "ادامه - باز کردن پیکربندی پروکسی لایت شات"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "ادامه - باز کردن پیکربندی پروکسی سیستم"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "لایت شات با پیکربندی پروکسی فعلی تنظیم شده است: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "لایت شات از تنظیمات فعلی پروکسی استفاده میکند : %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "سعی مجدد - سعی مجدد با استفاده از تنظیمات فعلی"
+   },
+   "screenshot_plugin_upload": {
+      "message": "بارگزاری در prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "خطا در انجام آپلود"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "اطلاعات دقیق"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "بارگزاری شکست خورد."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "بارگزاری ناموفق. سعی مجدد؟"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "آپلود تصویر"
+   },
+   "screenshotplugin_default_title": {
+      "message": "گرفتن اسکرین شات"
+   },
+   "screenshotplugin_name": {
+      "message": "لایت شات (ابزار تصویر)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "ابزار ساده و راحت تصویر. منطقه را انتخاب کنید، تصویر خود را ویرایش کنید و آنرا در سرور بارگزاری کنید."
+   }
+}

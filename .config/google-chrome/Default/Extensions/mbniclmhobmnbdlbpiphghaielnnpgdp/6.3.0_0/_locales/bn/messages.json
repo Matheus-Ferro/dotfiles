@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "সম্পর্কে"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% সর্বস্বত্ব সংরক্ষিত"
+   },
+   "screenshot_app_exit": {
+      "message": "প্রস্থান করুন"
+   },
+   "screenshot_app_help": {
+      "message": "সাহায্য"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "হট কি রেজিস্টার করতে ব্যর্থ হয়েছে"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "সম্ভবত অন্য কোনো অ্যাপ্লিকেশন এটা ব্যবহার করছে । অপশন ডায়ালগ বক্স খুলতে এই মেসেজে ক্লিক করুন।"
+   },
+   "screenshot_app_language_code": {
+      "message": "BN-BD"
+   },
+   "screenshot_app_language_name": {
+      "message": "বাংলা"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Bengali"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "আমার গ্যালারি (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "সাইন ইন..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "সাইন আউট"
+   },
+   "screenshot_app_options": {
+      "message": "অপশন"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "স্বয়ংক্রিয়ভাবে আপলোড উইন্ডো বন্ধ করুন"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "আপলোড করার পর স্বয়ংক্রিয়ভাবে লিঙ্কটি কপি করুন"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "স্ক্রীনশটে মাউস কার্সর ধারণ করুন"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "কনফিগার করুন"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "সিস্টেম প্রক্সি"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "আপনি একাধিক কাজের জন্য একটা হট-কী সেট করতে পারবেন না। অনুগ্রহ করে যেকোনো একটা পরিবর্তন করুন।"
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "আপনার হট-কীগুলোর মাঝে একটি অকার্যকর। যদি আপনি হট-কী টি নিস্ক্রিয় করতে চান তবে অনুরুপ চেকবক্সে টিক তুলে দিন।"
+   },
+   "screenshot_app_options_formats": {
+      "message": "ফরম্যাট"
+   },
+   "screenshot_app_options_general": {
+      "message": "সাধারণ"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "সাধারণ হট কী"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "হট কী"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "তাৎক্ষণিক ফুলস্ক্রীন সেভ"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "তাৎক্ষণিক ফুলস্ক্রীন আপলোড"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) প্রক্সি"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG এর মান"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "সিলেক্ট করা অংশের অবস্থান সংরক্ষণ করুন"
+   },
+   "screenshot_app_options_language": {
+      "message": "ভাষা"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "ম্যানুয়াল প্রক্সি কনফিগারেশন"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "প্রক্সিবিহীন রাখুন"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "সবসময়"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "কখনোই না"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "স্ক্রীনশট অপটিমাইজ (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "শুধুমাত্র যখন আপলোড হয়"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "প্রক্সি"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "পোর্ট"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "কপি এবং সেভ করা সম্পর্কিত নোটিফিকেশন দেখান"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "সেট করা হয়নি(সরাসরি সংযোগ)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "সিস্টেম প্রক্সি সেটিংস ব্যবহার করুন"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "যে ফরম্যাটের ছবি আপলোড হবে"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "যার হয়ে সাইন ইন হয়েছেঃ"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "সাইন ইন"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "লাইটশট সাইন ইন করতে ত্রুটি"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "লাইটশটঃ সাইন ইন করতে গিয়ে ত্রুটি হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "স্ক্রীনশট নিন"
+   },
+   "screenshot_app_terms": {
+      "message": "লাইটশট পরিসেবার শর্তাবলি"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "স্ক্রীনশট নিতে কী-বোর্ডে \"%hotkey_main%\" চাপুন"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "এই বার্তাটি পুনরায় দেখাবেন না"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "বাতিল করুন"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>ওহ !\u003C/h4> আবার এটা ঘটছে ! গুগল ক্রোমে হাই-ডিপিআই স্ক্রীনের স্ক্রীনশট ফাংশনালিটির ক্ষেত্রে \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">একটা ভয়াবহ ত্রুটি\u003C/a> হয়েছে।ব্রাউজার পুরো ছবির মান কমিয়ে দিচ্ছে, তাই আপনি ভালো মানের স্ক্রীনশট এর বদলে একটি ঝাপসা স্ক্রীনশট দেখছেন।যদিও বাগট্র্যাকারে এই ত্রুটিকে সমাধান হয়েছে বলে চিহ্নিত করা হয়েছে, ক্রোম ৩৯ অথবা ৪০ ভার্সনে এর সমাধাধান পাওয়া যাবে। দুর্ভাগ্যবশত আমাদের কিছুই করার নেই।\u003Cbr>আমরা আপনাকে গুরুত্ব সহকারে লাইটশট ডেস্কটপ অ্যাপ্লিকেশন ব্যবহার করতে বলছি। এটা আগের মতই কাজ করে এবং গুগল ক্রোমের পরিবর্তন দ্বারা প্রভাবিত হয় না।আপনি এখান থেকে এটা ডাউনলোড করতে পারেনঃ \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>অসুবিধাটির জন্য আমরা দুঃখিত।"
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "দুর্ভাগ্যবশত গুগল ক্রোম এপিআই এর মাধ্যমে ছবিকে ক্লিপবোর্ডে কপি করার সমর্থন দেয় না, তাই আমাদের এই সুবিধা বন্ধ রাখতে হয়েছে। এই অসুবিধার জন্য আমরা দুঃখিত। \\n\\nআপনি কিভাবে সাহায্য করতে পারেন?\\nগুগল ক্রোম বাগট্র্যাকারে একটা ইস্যু আছে। আপনি তা স্টার দিয়ে চিহ্নিত করতে পারেন, তাহলে এটা বেশি গুরুত্ব পাবে এবং তাড়াতাড়ি সমাধান হতে পারে।\\n\\nঅথবা স্বতন্ত্র লাইটশট অ্যাপ্লিকেশন ব্যবহার করতে পারেন।কপি করার ফিচারটি এতে সুন্দরভাবে কাজ করে। আপনি এটা http://app.prntscr.com/ থেকে ডাউনলোড করতে পারেন।\\n\\n গুগল ক্রোম ইস্যু ট্র্যাকার খুলতে \"Ok\" তে ক্লিক করুন।\\nএই ডায়ালগ বন্ধ করতে \"Cancel\" এ ক্লিক করুন"
+   },
+   "screenshot_plugin_clear": {
+      "message": "সিলেকশন বাতিল করুন"
+   },
+   "screenshot_plugin_close": {
+      "message": "বন্ধ করুন"
+   },
+   "screenshot_plugin_copy": {
+      "message": "কপি করুন"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "ত্রুটিঃ ফায়ারফক্স CTypes লাইটশট চালু করতে ব্যর্থ হয়েছে। আপনার ব্রাউজার রিলোড করুন। যদি রিলোড করার পরেও সমস্যা হতে থাকে , অনুগ্রহ করে আমাদের ইমেইল করুন support@skillbrains.com \\n\\nত্রুটির আরো তথ্যঃ "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "তীর"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "ঝাপসা"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "বৃত্ত"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "রঙ"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "রেখা"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "মার্কার"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "কলম"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "চতুর্ভুজ"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "টেক্সট"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "আনডু"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "অনলাইনে একটি স্ক্রীনশট এডিট করুন"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "ত্রুটি হয়েছে"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "সম্পুর্ণ স্ক্রীন সিলেক্ট করুন"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "অসুবিধাটির জন্য আমরা দুঃখিত, কিন্তু লাইটশট এক্সটেনশনটি শুধুমাত্র উইন্ডোজ কম্পিউটারে চলে। যদি আপনি ম্যাক এর জন্য লাইটশট ব্যবহার করতে চান, অনুগ্রহ করে ম্যাক অ্যাপ স্টোর থেকে ডাউনলোড করুন। এখন অ্যাপ স্টোরে যেতে চান ?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "ছবি হোস্টিং সার্ভারের সাড়ায় JSON স্ট্রাকচারের ভুল ধরা পড়েছে"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "ভুল আকার"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>ভালো পুরাতন লাইটশটের কি হলো?\u003C/h4>আপনি হয়ত জানেন গুগল ক্রোম \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">সেপ্টেম্বরে NPAPI প্লাগিন সাপোর্ট বন্ধ \u003C/a>করে দিয়েছে।তাই আমাদের এই পরিবর্তনের সাথে সমন্বয় করতে হয়েছে।\u003Cbr> NPAPI থেকে জাভাস্ক্রিপ্টে যাওয়া যন্ত্রনাবিহীন ছিলো না। বর্তমানে আমরা আমাদের \"কপি\" ফিচারটি হারিয়েছি \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">এই গুগল ক্রোম ইস্যুর\u003C/a>কারণে।\u003Cbr>যদি আপনি পুরাতন ভার্সন পছন্দ করে থাকেন এবং এই পরিবর্তনগুলো ভালো না লাগে তবে আমরা আপনাকে লাইটশট ডেস্কটপ অ্যাপ্লিকেশন ব্যবহারে উৎসাহিত করি। এটা ঠিক আগের মতই কাজ করে এবং গুগল ক্রোমের পরিবর্তন দ্বারা প্রভাবিত হয় না। এপনি এখান থেকে এটা ডাউনলোড করতে পারেনঃ\u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com\u003C/a>\u003Cbr>আপনি \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">এখানে\u003C/a>নতুন ভার্সন সম্পর্কে জানতে পারেন।\u003Cbr>অসুবিধাটির জন্য আমরা দুঃখিত।"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "ত্রুটিঃ The Lightshot NPAPI প্লাগিন খুঁজে পাওয়া যায়নি। আপনার ব্রাউজার রিলোড করুন। যদি রিলোড করার পরেও সমস্যা হতে থাকে , অনুগ্রহ করে আমাদের ইমেইল করুন support@skillbrains.com"
+   },
+   "screenshot_plugin_open": {
+      "message": "খুলুন"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "স্ক্রীনশট অপ্টিমাইজ করা হচ্ছে"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "অসুবিধাটির জন্য আমরা দুঃখিত, কিন্তু লাইটশট এক্সটেনশনটি শুধুমাত্র উইন্ডোজ এবং ম্যাক কম্পিউটারে চলে। আপনি যদি আপনার অপারেটিং সিস্টেমে লাইটশট ব্যবহার করতে চান, অনুগ্রহ করে support@skillbrains.com এ ইমেইল করুন।"
+   },
+   "screenshot_plugin_print": {
+      "message": "প্রিন্ট করুন"
+   },
+   "screenshot_plugin_retry": {
+      "message": "পুনরায় চেষ্টা করুন"
+   },
+   "screenshot_plugin_save": {
+      "message": "সেভ করুন"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "আপনার স্ক্রীনশট ক্লিপবোর্ডে কপি হয়েছে"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "ত্রুটিঃ লাইটশট স্ক্রীনশট নিতে ব্যর্থ হয়েছে। আপনার ব্রাউজার রিলোড করুন। যদি রিলোড করার পরেও সমস্যা হতে থাকে , অনুগ্রহ করে আমাদের ইমেইল করুন support@skillbrains.com \\n\\nত্রুটির আরো তথ্যঃ "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "স্ক্রীনশটটি %filename% নামে সেভ হয়েছে। ফোল্ডারটি ওপেন করতে এখানে ক্লিক করুন।"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "স্ক্রীনশট আপলোড হয়েছে । লিঙ্ক আপনার ক্লিপবোর্ডে কপি হয়েছে ।"
+   },
+   "screenshot_plugin_share": {
+      "message": "সামাজিক যোগাযোগের সাইটে শেয়ার করুন"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "ফেসবুকে শেয়ার করুন"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "গুগলে একই ধরনের ছবি খুঁজুন"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pinterest এ শেয়ার করুন"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "ইমেইলে পাঠান"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Tineye তে অনুরুপ ছবি খুঁজুন"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "টুইটারে শেয়ার করুন"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "VK তে শেয়ার করুন"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "অংশ নির্বাচন করুন"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "বাতিল - স্ক্রীনশট আপলোড বাতিল করুন"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "অনুগ্রহ করে নিশ্চিত হয়ে নিন যে প্রক্সি কনফিগারেশন সঠিক এবং প্রক্সি লাইটশট রিকুয়েস্ট বাঁধা দিচ্ছে না"
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "অবিরত রাখুন - লাইটশট প্রক্সি কনফিগারেশন খুলুন"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "অবিরত রাখুন - সিস্টেম প্রক্সি সেটিং ওপেন করুন"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "লাইটশটে এখন এই প্রক্সি ব্যবহারের জন্য কনফিগার করা হয়েছেঃ %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "লাইটশট বর্তমান সিস্টেম প্রক্সি সেটিং ব্যবহার করছেঃ %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "পুনরায় চেষ্টা করুন - বর্তমান সেটিং ব্যবহার করে পুনরায় চেষ্টা করুন"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Prntscr.com এ আপলোড করুন"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "আপলোডে ত্রুটি হয়েছে"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "বিস্তারিত তথ্য"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "আপলোডে ব্যর্থ।"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "আপলোড করতে ব্যর্থ হয়েছে। পুনরায় চেষ্টা করবেন?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "ছবি আপলোড হচ্ছে"
+   },
+   "screenshotplugin_default_title": {
+      "message": "স্ক্রীনশট নিন"
+   },
+   "screenshotplugin_name": {
+      "message": "লাইটশট (স্ক্রীনশট নেওয়ার টুল)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "স্ক্রীনশট নেওয়ার সহজ এবং সুবিধাজনক টুল। একটা অংশ সিলেক্ট করুন, স্ক্রীনশট এডিট করুন এবং সার্ভারে আপলোড করুন।"
+   }
+}

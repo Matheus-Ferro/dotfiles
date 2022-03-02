@@ -1,0 +1,34 @@
+{
+   "author": "dragonwocky \u003Cthedragonring.bod@gmail.com> (https://dragonwocky.me/)",
+   "background": {
+      "scripts": [ "worker.js" ]
+   },
+   "browser_action": {
+
+   },
+   "content_scripts": [ {
+      "js": [ "init.js" ],
+      "matches": [ "https://*.notion.so/*", "https://*.notion.site/*" ]
+   } ],
+   "description": "an enhancer/customiser for the all-in-one productivity workspace notion.so",
+   "homepage_url": "https://notion-enhancer.github.io",
+   "icons": {
+      "128": "media/colour-x128.png",
+      "16": "media/colour-x16.png",
+      "256": "media/colour-x256.png",
+      "32": "media/colour-x32.png",
+      "48": "media/colour-x48.png",
+      "512": "media/colour-x512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo6GD4VuabOe6OxKVBPUXbUyFIlHUZh1X2qxorWzPsdWpcQXMonENRZdlwh5bzQc6A5f5ic9Oq98j4QzPX/aDnpBWXH+XWA5TQqpeccRSSHrXvnCSkBy3ynAfrC5R3suucLI8OhmYa/crZIpl3bZ4Q1m+T5KjPvGzzJLENLdB6vJ2ynk9IDW+jVcEG1M88MJ0/n9hO9ayhQYr6jOXbSDkdMcgRcE1VQPTVKJoGCyguW13ezywEHsZRnZo8IkC5RysbCJaHUnYVnJmsBiOO4rwHx5d2iCaD8krfoy9EFL0RmqZ2znX1MX1dYN2lPhU8IFU3WrGzz+Q4GcaMmU2CXPkfwIDAQAB",
+   "manifest_version": 2,
+   "name": "notion-enhancer",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "repo/menu/menu.html"
+   },
+   "permissions": [ "tabs", "storage", "clipboardRead", "clipboardWrite", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.11.0.1",
+   "web_accessible_resources": [ "env/*", "api/*", "dep/*", "media/*", "repo/*" ]
+}

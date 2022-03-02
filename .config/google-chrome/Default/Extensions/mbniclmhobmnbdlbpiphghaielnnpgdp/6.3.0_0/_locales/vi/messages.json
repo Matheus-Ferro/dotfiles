@@ -1,0 +1,329 @@
+{
+   "screenshot_app_about": {
+      "message": "Thông tin"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Mọi quyền được bảo lưu."
+   },
+   "screenshot_app_exit": {
+      "message": "Thoát"
+   },
+   "screenshot_app_help": {
+      "message": "Trợ giúp"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Thiết lập phím tắt không thành công"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Có khả năng ứng dụng khác đang sử dụng nó. Nhấn vào thông điệp này để mở hộp thoại tùy chọn."
+   },
+   "screenshot_app_language_code": {
+      "message": "VI"
+   },
+   "screenshot_app_language_name": {
+      "message": "Tiếng Việtnam"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Vietnamese"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Bộ sưu tập của tôi (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Đăng nhập..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Đăng xuất"
+   },
+   "screenshot_app_options": {
+      "message": "Tùy chọn"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Tự động đóng cửa sổ tải lên"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Tự động sao chép đường dẫn sau khi tải lên"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Bao gồm con trỏ chuột vào ảnh chụp màn hình"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Cấu hình"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Proxy hệ thống"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Bạn không thể cài đặt các hotkey giống nhau cho các chức năng khác nhau. Hãy thay đổi một trong số các hotkey."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Một trong những phím tắt của bạn  không đáp ứng. Nếu bạn muốn vô hiệu hóa phím tắt này, xin vui lòng bỏ check ở mục tương ứng"
+   },
+   "screenshot_app_options_formats": {
+      "message": "Định dạng:"
+   },
+   "screenshot_app_options_general": {
+      "message": "Thông thường"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Phím tắt thông dụng"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Phím tắt"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Lưu ảnh (toàn màn hình)"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Tải lên nhanh (toàn màn hình)"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Chất lượng ảnh JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Giữ vị trí vùng đã chọn"
+   },
+   "screenshot_app_options_language": {
+      "message": "Ngôn ngữ"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Cấu hình proxy bằng tay"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Không sử dụng proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Luôn luôn"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Không thiết lập"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Tối ưu hóa ảnh chụp màn hình (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Chỉ khi tải lên"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Cổng"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Hiện các thông báo lưu và sao chép"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Không thiết lập (kết nối trực tiếp)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Sử dụng cài đặt proxy hệ thống"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Tải ảnh sử dụng định dạng"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Đã đăng nhập như"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Đăng nhập"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Đăng nhập Lightshot lỗi"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Có lỗi xảy ra trong quá trình đăng nhập. Hãy thử lại."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Chụp màn hình"
+   },
+   "screenshot_app_terms": {
+      "message": "Chính sách của chúng tôi"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Nhấp \"%hotkey_main%\" trên bàn phím để chụp màn hình"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Không hiển thị thông điệp này nữa"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Hủy bỏ"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Ồ!\u003C/h4>Chuyện đó lại xảy ra rồi! Google Chrome có \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">một lỗi tệ hại\u003C/a> liên quan đến tính năng chụp màn hình trên thiết bị hiển thị có độ phân giản cao. Trình duyệt sẽ giảm kích cỡ hình ảnh, vậy nên bạn sẽ thấy một ảnh chụp màn hình mờ hơn thay vì chất lượng cao. Dù lỗi đã được đánh dấu là đã khắc phụ trong máy theo dõi lỗi, bản khắc phục chỉ được phát hành với phiên bản Chrome 39 hoặc 40. Thật không may, chúng tôi không thể làm gì hơn được.\u003Cbr>Chúng tôi khuyến cáo bạn nên thử ứng dụng desktop của Lightshot. Nó hoạt động hoàn toàn giống với trước đây và không bị ảnh hưởng bởi những thay đổi của Google Chrome. Bạn có thể tải xuống tại đây: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Chúng tôi rất tiếc vì bất tiện này."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Xóa vùng chọn"
+   },
+   "screenshot_plugin_close": {
+      "message": "Đóng"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Sao chép"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Firefox Ctypes đã không thể tìm được Lightshot. Hãy khởi động lại trình duyệt. Nếu tiếp tục xảy ra lỗi này, hãy gửi lỗi này cho chúng tôi theo địa chỉ support@skillbrains.com.\\n\\nMô tả thông tin lỗi:"
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Mũi tên"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Hiệu ứng mờ"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Hình tròn"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Màu"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Đường thẳng"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Đánh dấu"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Bút vẽ"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Hình chữ nhật"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Undo"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Chỉnh sửa ảnh chụp màn hình trực tuyến"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Lỗi"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Chọn toàn màn hình"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Lightshot chỉ chạy trên Hệ điều hành Windows. Nếu bạn sử dụng Lightshot trên Hệ điều hành Mac, hãy tải về từ Mac App Store. Bạn có muốn đến trang App Store bây giờ không?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Cấu trúc hồi đạp JSON từ máy chủ lưu ảnh không chính xác"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Sai kích thước"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Có chuyện gì đã xảy ra với Lightshot cũ?\u003C/h4>Như bạn đã biết, Google Chrome đang ngừng \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">hỗ trợ các phần bổ trợ NPAPI vào tháng 9\u003C/a>. Vậy nên chúng tôi phải có điều chỉnh với thay đổi này.\u003Cbr>Chuyển từ NPAPI sang Javascript không hề đơn giản. Hiện tại, chúng tôi đã mất tính năng \"Sao chép\" vì \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">vấn đề này của Google Chrome\u003C/a>. Và một vài tính năng khác cũng bị ảnh hưởng.\u003Cbr>Nếu bạn thích phiên bản cũ và không thích những thay đổi này, chúng tôi khuyến khích bạn nên thử ứng dụng desktop của Lightshot. Nó hoạt động hoàn toàn giống với trước đây và không bị ảnh hưởng bởi những thay đổi của Google Chrome. Bạn có thể tải xuống tại đây: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Bạn có thể đọc thêm về phiên bản mới \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">tại đây\u003C/a>.\u003Cbr>Chúng tôi rất tiếc vì bất tiện này."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Lỗi: Không tìm thấy trình cắm NPAPI Lightshot. Thử tải lại trình duyệt. Nếu bạn vẫn thấy lỗi này sau khi tải lại, hãy liên hệ với chúng tôi qua support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Mở"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Tối ưu hóa ảnh chụp màn hình"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Lightshot chỉ chạy trên Hệ điều hành Windows và MAC. Nếu bạn muốn dùng Lightshot trên các Hệ điều hành khác, hãy liên hệ với chúng tôi tại địa chỉ email: support@skillbrains.com"
+   },
+   "screenshot_plugin_print": {
+      "message": "In"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Thử lại"
+   },
+   "screenshot_plugin_save": {
+      "message": "Lưu"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Ảnh chụp màn hình của bạn đã được sao chép vào clipboard"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Lỗi: Lightshot không thể chụp ảnh màn hình. Thử tải lại trình duyệt của bạn. Nếu bạn vẫn bị lỗi này sau khi tải lại, vui lòng liên hệ support@skillbrains.com.\\n\\nMô tả cụ thể thông tin lỗi: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Screenshot đã được lưu tại %filename%. Nhấn vào đây để mở."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Ảnh chụp màn hình đã được tải lên. Đường dẫn đã được copy vào clipboard."
+   },
+   "screenshot_plugin_share": {
+      "message": "Chia sẻ lên mạng xã hội"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Chia sẻ lên Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Tìm kiếm ảnh tượng tự trên Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Chia sẻ lên mạng xã hội Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Gửi qua email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Tìm kiếm ảnh tương tự trên Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Chia sẻ lên Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Chia sẻ lên VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Chọn vùng"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Hủy - hủy việc tải lên ảnh chụp màn hình"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Hãy đảm bảo rằng cấu hình chính xác và proxy không chặn các yêu cầu của Lightshot."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Tiếp tục - mở cấu hình proxy Lightshot"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Tiếp tục - mở cấu hình proxy hệ thống"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Lightshot đang sử dụng proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot sử dụng cài đặt proxy hệ thống hiện tại: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Thử lại - thử lại sử dụng các cài đặt hiện tại"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Tải lên prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Có lỗi trong quá trình tải lên"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Chi tiết"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Upload thất bại."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Upload thất bại. Thử lại?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Tải ảnh lên"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Chụp màn hình"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (công cụ chụp màn hình)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Công cụ screenshot (chụp ảnh màn hình) nhỏ gọn và hiệu quả. Chọn một vùng, chỉnh sửa screenshot của bạn và tải lên."
+   }
+}

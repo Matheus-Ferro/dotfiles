@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "O lightshote"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Všetky práva vyhradené."
+   },
+   "screenshot_app_exit": {
+      "message": "Ukončiť"
+   },
+   "screenshot_app_help": {
+      "message": "Pomoc"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Nie je možné zaznamenať klávesovú skratku:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Pravedpodobne inšia aplikácia používa Lightshot. Kliknite na správu k otvoreniu dialógového okna."
+   },
+   "screenshot_app_language_code": {
+      "message": "SK"
+   },
+   "screenshot_app_language_name": {
+      "message": "Slovenčina"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Slovak"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Moja galéria (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prihlásenie..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Odhlásiť sa"
+   },
+   "screenshot_app_options": {
+      "message": "Možnosti"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Automaticky zatvoriť nahrávacie okno"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automaticky kopírovať odkaz po nahraní obrázka"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Zachytiť kurzor na screenshote"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurovať"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Systémové proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Nemôžete nastaviť rovnaké klávesové skratky pre odlišné funkcie. Prosím zmeňte jeden z klávesovách skratiek."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Jedna z vašich klávesových skratiek je neplatná. Ak chcete zakázať danú klávesovú skratku, prosím odškrtnite korešpondujúce zaškrtávacie políčko."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formáty"
+   },
+   "screenshot_app_options_general": {
+      "message": "Základné"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Základné klávesové skratky"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Klávesové skratky"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Okamžite uložiť na celú obrazovku"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Okamžite nahrať na celú obrazovku"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvalita"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Nechať pozície označenej oblasti"
+   },
+   "screenshot_app_options_language": {
+      "message": "Jazyk"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Manuálne nastavenia proxy"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Bez proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Vždy"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nikdy"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimalizovať screenshoty (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Iba počas nahrávania"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Ukázať upozornenia o kopírovaní a ukladaní screenshotu"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nebolo nastavené (priame pripojenie)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Použiť základné proxy nastavenia"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Načítať pomocou formátu"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Prihlásený ako"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prihlásiť sa"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Prihlásenie do Lightshotu sa nepodarilo"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Pri prihlasovaní nastala chyba. Skúste proces opakovať."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Vytvoriť screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Podmienky Služieb"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Stlačte \"%hotkey_main%\" na vašej klávesnici, aby ste vytvorili screenshot"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Neukazovať túto správu znovu"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Zrušiť"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Ajaj!\u003C/h4>Opäť sa to stalo! Google Chrome má \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">hrôzostrašnú chybu\u003C/a> príbuznú fungovaniu screenshotov na high-dpi monitoroch. Prehliadač zníži celý obrázok, takže budete môcť vidieť rozmazaný screenshot namiesto screenshotu s vysokou kvalitou. Aj keď chyba bola označená a opravená v bug trackeri, oprava bude uskutočený iba v Chrome 39 alebo Chrome 40. Nanešťastie s tým nič nevieme urobiť.\u003Cbr>Dôrazne vám odporúčame, aby ste si vyskúšali Lightshot desktop aplikáciu. Funguje presne tak, ako bola na to určená predtým a nie je afektovaná zmenami v prehliadači Google Chrome in Google Chrome. Môzete si ju stiahnuť tu: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Ospravedlňujeme sa za vám za nepríjemnosti."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Nanešťastie Google Chrome nepodporuje kopírovanie obrázkov do schránky s API, takže sme museli túto možnosť vypnúť. Ospravedlňujeme sa za nepríjemnosti.\\n\\nAko môžete pomôcť?\\nJe tu o tom probém v Google Chrome bugtrackeri. Môžete to ohodnotiť hviezdičkou, takže to bude mať väčšiu prioritu a chyba bude môcť byť vyriešená skôr.\\n\\nAlebo môžete použiť Lightshot  samostatne. Funkcia kopírovania tu funguje perfektne. Môžete si ju stiahnuť z http://app.prntscr.com/\\n\\nStlačte \"Ok\" pre otvorenie Google Chrome issue trackeru.\\nKliknite na \"Zrušiť\" na zatvorenie tohto dialógu."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Zrušiť označenie"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zatvoriť"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopírovať"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Chyba: Firefox CTypes nedokáže načítať Lightshot. Skúste obnoviť váš prehliadač. Ak stále vidíte túto chybu po opakovanom načítavaní, prosím kontaktujte nás na support@skillbrains.com.\\n\\nPodrobnejšie informácie o chybe: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Šípka"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Rozmazať"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Kruh"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Farba"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Čiara"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Značkovač"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pero"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Obdĺžnik"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Krok späť"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Upraviť screenshot online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Chyba"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Označiť celú obrazovku"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Ospravedlňujeme sa vám za nepríjemnosti, ale rozšírenie aplikácie Lightshot funguje iba na počítačoch s operačnám systémom Windows. Ak chcete používať Lightshot s Mac, prosím, stiahnite si ho z Mac App Store. Ísť na App Store hneď?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Nesprávna JSON štruktúra v odozve z obrázku na hostujúcom serveri"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Nesprávna veľkosť"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Čo sa stalo dobrému starému Lightshotu?\u003C/h4>Pravdepodobne by ste mali vedieť, že Google Chrome zastavil \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">podporovanie NPAPI pluginov v Septembri\u003C/a>. Takže sme museli prispôsobiť Lightshot tejto zmene.\u003Cbr>Precházdanie z NPAPI do Javascriptu nebolo bolestivé. Momentálne sme stratili našu vlastnosť \"Kopírovať\" kvôli \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">tomuto dôsledku prehliadača Google Chrome\u003C/a> .A niektoré inšie funkcie boli tiež afektované.\u003Cbr>Ak máte radi staršiu verziu a nemáte radie tieto zmeny, orporúčame vám, aby ste si vyskúšali Lightshot desktop applikáciu. Funguje práve tak, ako zvykla predtým a nie je afektovaná zmenami v prehliadači Google Chrome. Môžete si ju stiahnuť tu: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Môžete si prečítať viac o novej verzii \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">tu\u003C/a>.\u003Cbr>Ospravedlňujeme sa za vám za nepríjemnosti."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Chyba: Lightshot NPAPI plugin nebol nájdený. Skúste obnoviť váš prehliadač. Ak stále vidíte túto chybu po opakovanom načítavaní, prosím kontaktujte nás na support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Otvoriť"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimalizuje sa screenshot"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Ospravedlňujeme sa vám za nepríjemnosti, ale rozšírenie aplikácie Lightshot funguje iba na počítačoch s operačnám systémami Windows alebo Mac. Ak chcete Lightshot pre váš operačný systém, prosím kontaktujte nás na support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Vytlačiť"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Skúsiť znovu"
+   },
+   "screenshot_plugin_save": {
+      "message": "Uložiť"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Váš screenshot je skopírovaný do schránky."
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Chyba: Lightshot nie je schopný vytvoriť screenshot. Skúste obnoviť váš prehliadač. Ak stále vidíte túto chybu po opakovanom načítavaní, prosím kontaktujte nás na support@skillbrains.com.\\n\\nPodrobnejšie informácie o chybe: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Screenshot je uložený ako %filename%. Kliknite tu pre otvorenie zložky."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Screenshot je načítaný. Odkaz je skopírovaný do schránky."
+   },
+   "screenshot_plugin_share": {
+      "message": "Zdieľať na sociálnych sieťach"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Zdieľať na Facebooku"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Hľadať podobné obrázky na Googli"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Zdieľať na Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Poslať pomocou emailu"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Hľadať podobné obrázky na Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Zdieľať na Twittri"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Zdieľať na VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Označte oblasť"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Zrušiť - zrušiť nahrávanie screenshotu"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Ubezpečte sa, či sú konfigurácie správne a či proxy neblokuje požiadavky Lightshotu."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Pokračovať - otvoriť konfigurácie proxy Lightshotu"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Pokračovať - otvoriť systémové nastavenia proxy"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Momentálne je Lightshot nakonfigurovaný používať túto proxy: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot používa momentálné nastavenia proxy systému: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Skúsiť znovu - opakovať pomocou momentálnych nastavení"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Nahrať do prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Chyba v nahrávaní"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detailnejšie informácie"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Nahrávanie bolo neúspešné."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Nahrávanie zlyhalo. Opakovať?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Nahrávam obrázok"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Vytvoriť Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (nástroj na tvorbu screenshotov)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Jednoduchý a vyhovujúci nástroj na tvorbu screenshotov. Označte oblasť, upravte váš screenshot a nahrajte ho na server."
+   }
+}

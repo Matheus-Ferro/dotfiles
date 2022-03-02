@@ -1,0 +1,305 @@
+{
+   "screenshot_app_about": {
+      "message": "O nas"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Vse pravice pridržane."
+   },
+   "screenshot_app_exit": {
+      "message": "Izhod"
+   },
+   "screenshot_app_help": {
+      "message": "Pomoč"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Shranjevanje bližnjice je neuspešno:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Videti je, da že neka druga aplikacija uporablja program. Kliknite za pogovorno okno."
+   },
+   "screenshot_app_language_code": {
+      "message": "SL"
+   },
+   "screenshot_app_language_name": {
+      "message": "Slovenščina"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Slovene"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Moja galerija (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prijavi se..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Odjava"
+   },
+   "screenshot_app_options": {
+      "message": "Možnosti"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Avtomatsko zapri okno za nalaganje"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Avtomatično kopiraj povezavo po nalaganju"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Zajemi kazalec na posnetku zaslona."
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfiguriraj"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Sistemski proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Ne morete nastaviti enakih bližnjic za različne funkcije. Prosimo, izberite druge bližnjične tipke."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formati"
+   },
+   "screenshot_app_options_general": {
+      "message": "Splošno"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Glavne bližnjice"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Bližnjice"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Takojšnje shranjevanje celozaslonske slike"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Takojšen prenos celozaslonske slike"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvaliteta"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Obdrži izbrano območje."
+   },
+   "screenshot_app_options_language": {
+      "message": "Jezik"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Ročna nastavitev proxy-ja"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Ni proxy-ja"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Vedno"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nikoli"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimiziraj posnetke zaslona (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Samo med nalaganjem"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Vrata"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Pokaži obvestila o kopiranju in shranjevanju"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Uporabi sistemske proxy nastavitve"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Naloži z uporabo formata"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Prijavljeni kot"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prijava"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot napaka pri prijavi"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Napaka pri prijavi. Prosimo poskusite ponovno."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Zajemi posnetek zaslona"
+   },
+   "screenshot_app_terms": {
+      "message": "Pogoji poslovanja"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Pritisnite tipko \"%hotkey_main%\" na Vaši tipkovnici za zajem zaslonske slike"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Tega obvestila ne pokaži več"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Prekliči"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Počisti selekcijo"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zapri"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiraj"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Napaka: Firefox CTypes ni uspel naložiti Lightshot-a. Poskusite osvežiti brskalnik. Če za tem še vedno vidite to napako, kontaktirajte support@skillbrains.com.\\n\\nVeč informacij o napaki: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Puščica"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Zameglitev"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Krog"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Barva"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Črta"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Nalivno pero"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Pravokotnik"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Besedilo"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Korak nazaj"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Uredite posnetek zaslona na spletu"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Napaka"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Izberi celoten zaslon"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Napačna JSON struktura v odgovoru s strani strežnika za gostovanje slik"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Napačna velikost"
+   },
+   "screenshot_plugin_open": {
+      "message": "Odpri"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimiziranje posnetka zaslona"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Opravičujemo se zaradi nevšečnosti, vendar Lightshot deluje samo v okolju Windows in Mac. V kolikor želite Lightshot za Vaš operacijski sistem, se prosim obrnite na podporo; support@skillbrains.com"
+   },
+   "screenshot_plugin_print": {
+      "message": "Tiskaj"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Poskusite ponovno"
+   },
+   "screenshot_plugin_save": {
+      "message": "Shrani"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Zaslonska slika je kopirana v odložišče"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Napaka: Lightshot ni mogel zajeti zaslona. Poskusite osvežiti brskalnik. Če za tem še vedno vidite to napako, kontaktirajte support@skillbrains.com.\\n\\nVeč informacij o napaki: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Posnetek zaslona je bil shranjen v %filename%. Kliknite, da odprete v mapi."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Posnetek zaslona je naložen. Povezava je bila kopirana v vašo podložno mapo."
+   },
+   "screenshot_plugin_share": {
+      "message": "Deli na družbenih omrežjih"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Deli na Facebook-u"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Išči podobne slike na Google-u"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Deli na Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Pošlji preko elektronske pošte"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Išči podobne slike na Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Deli na Twitter-ju"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Deli na VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Označi območje"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Preklic - prekliči nalaganje posnetka zaslona"
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Nadaljuj - odpri Lightshot proxy konfiguracijo"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Nadaljuj - odpri sistemsko proxy konfiguracijo"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Trenutnjo je Lightshot konfiguriran za uporabo tega proxy-ja: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot uporablja trenutne sistemske proxy nastavitve: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Poskusite ponovno z uporabo trenutnih nastavitev"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Naloži na prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Napaka pri nalaganju"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Podrobne informacije"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Nalaganje ni uspelo."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Nalaganje ni uspelo. Poskusite ponovno?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Nalaganje slike"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Zajemi zaslon"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (orodje za zajemanje zaslona)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Preprosto in priročno orodje za zajemanje posnetkov zaslona. Izberi območje, uredi posnetek zaslona in ga naloži na strežnik."
+   }
+}

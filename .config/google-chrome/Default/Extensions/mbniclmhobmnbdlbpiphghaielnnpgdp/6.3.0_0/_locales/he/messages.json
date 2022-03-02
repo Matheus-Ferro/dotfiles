@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "אודות"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% כל הזכויות שמורות."
+   },
+   "screenshot_app_exit": {
+      "message": "יציאה"
+   },
+   "screenshot_app_help": {
+      "message": "עזרה"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "שגיאה ברישום המקש:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "ככל הנראה יישון אחר משתמש במקש זה. הקלק על הודעה זו לפתוח תפריט אפשרויות."
+   },
+   "screenshot_app_language_code": {
+      "message": "HE"
+   },
+   "screenshot_app_language_name": {
+      "message": "עברית"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Hebrew"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "הגלריה שלי (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "התחבר..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "התנתק"
+   },
+   "screenshot_app_options": {
+      "message": "אפשרויות"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "סגור חלון העלאה באופן אוטומטי"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "העתק קישור אוטומטית לאחר העלאה"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "צלם את הסמן בצילום המסך"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "הגדרה"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "מערכת פרוקסי"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "אינך יכול לבחור מקש אחד לשני פונקציות שונות. אנא שנה את בחירתך."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "אחד ממקשיך אינו חוקי. אם ברצונך לתקן בעיה זו, אנא הסר הסימון מתיבת הסימון שלו ."
+   },
+   "screenshot_app_options_formats": {
+      "message": "פורמטים"
+   },
+   "screenshot_app_options_general": {
+      "message": "כללי"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "מקשי קיצור כלליים"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "מקשי קיצור"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "שמירת צילומסך מלא, אוטומטית"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "העלאת צילומסך מלא, אוטומטית"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "איכות ה- JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "שמור על מיקום האיזור המסומן"
+   },
+   "screenshot_app_options_language": {
+      "message": "שפה"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "כיוון פרוקסי ידני"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "ללא פרוקסי"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "תמיד"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "לעולם לא"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "ממטב צילומסך (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "רק בעת העלאה"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "פרוקסי"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "פורט"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "הראה חלון הודעה לגבי העתקה ושמירה"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "לא הוגדר (חיבור ישיר)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "השתמש בהנחיות הפרוקסי של המערכת"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "פורמט העלאת תמונות"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "מחובר כ:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "התחבר"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "שגיאת התחברות"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: אירעה שגיאה במהלך ההתחברות. אנא נסה שוב."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "צלם מסך"
+   },
+   "screenshot_app_terms": {
+      "message": "תנאי השימוש בלייט שוט"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "לחץ על מקש \"%hotkey_main%\" כדי להשתמש בלייט שוט"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "אל תראה את ההודעה הזאת שוב"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "בטל"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>D'oh!\u003C/h4>זה קרה שוב! לגוגל כרום יש \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">באגים נוראים\u003C/a> הקשורים לצילום המסך פונקציונלי על הצגים גבוהים dpi. דפדפן downscales התמונה כולה, כך תוכל לראות מסך מטושטש במקום צילום מסך באיכות גבוהה. למרות שבאג מסומן כקבוע במעקב באגים התיקון ישוחרר רק עם Chrome 39 או 40 גרסה. למרבה הצער, אנחנו לא יכולים לעשות שום דבר על זה. \u003Cbr> אנו ממליצים לך לנסות את יישום שולחן העבודה Lightshot. זה עובד בדיוק כפי שנהג בעבר ואינו מושפע מהשינויים ב- Google Chrome. אתה יכול להוריד אותו כאן: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>We apologize for the inconvenience."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "למרבה הצער גוגל כרום אינו מספק תמיכה להעתקת תמונות ללוח עם API, אז היינו צריך לבטל אפשרות זו. אנו מתנצלים על אי הנוחות. \\n\\nאיך אנחנו יכול לעזור לך?\\nזהו הנושא בbugtracker גוגל כרום על זה. אתה יכול לסמן אותו עם כוכב, כך יהיה לה עדיפות גבוהה יותר ויכול להיות קבוע מוקדם. \\n\\n ולא תוכל להשתמש בלייט שוט לעמוד לבד יישום. תכונת ההעתקה עובדת בצורה מושלמת שם. אתה יכול להוריד אותו מhttp://app.prntscr.com/\\n\\nClick \"אוקיי\" כדי לפתוח את גשש הנושא של Google Chrome. \\n לחץ \"ביטול\" כדי לסגור הדו-שיח זה."
+   },
+   "screenshot_plugin_clear": {
+      "message": "נקה בחירה"
+   },
+   "screenshot_plugin_close": {
+      "message": "סגור"
+   },
+   "screenshot_plugin_copy": {
+      "message": "העתק"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "שגיאה: לייט שוט לא הצליחה לצלם את המסך. נסה לרענן את הדפדפן. אם הבעיה לא נפתרה לאחר רענון הדף, אנא צור קשר עם המידע על הבעיה לתמיכה שלנו:support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "חץ"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "טשטוש"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "עיגול"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "צבע"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "קו"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "מרקר"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "עט"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "מסגרת"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "טקסט"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "בטל"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "ערוך צילום מסך אונליין"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "שגיאה"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "בחר מסך מלא"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "אנו מצטערים על אי הנוחות, אך הרחבת לייט שוט רצה רק על מחשבים מבוססי חלונות אם ברצונכם להשתמש בתוכנתנו על על מחשב מאק, אנא הורידו אותה מחנות האפליקציות הייעודית. לגשת לשם עכשיו?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "מבנה ה- JSON שגוי בתגובה של השרת המארח בתמונה"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "גודל לא נכון"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>What happened to the good old Lightshot?\u003C/h4>As you may know Google Chrome stopped \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">stop supporting NPAPI plugins in September\u003C/a>. So we had to adjust to this change.\u003Cbr>Moving from NPAPI to Javascript was not painless. Currently we lost our \"Copy\" feature because of \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">this Google Chrome issue\u003C/a>. And some other features were also affected.\u003Cbr>If you love the previous version and don't like these changes, we encourage you to try the Lightshot desktop application. It works exactly as it used to before and is not affected by the changes in Google Chrome. You can download it here: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>You can read more about the new version \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">here\u003C/a>.\u003Cbr>We apologize for the inconvenience."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Error: Lightshot NPAPI plugin not found. Try to reload browser. If you keep seeing this error after reloading, please contact support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "פתח"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "ממטב צילומסך"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "אנו מצטערים על אי הנוחות, אך לייט שוט עובדת רק על חלונות ומק.אם אתם מעוניינים בלייט שוט למערכת ההפעלה שלכם, אנא פנו לתמיכה : support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "הדפס"
+   },
+   "screenshot_plugin_retry": {
+      "message": "נסה שוב"
+   },
+   "screenshot_plugin_save": {
+      "message": "שמור"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "צילומסך הועתק ללוח"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "שגיאה: לייט שוט לא הצליחה לצלם את המסך. נסה לרענן את הדפדפן. אם הבעיה לא נפתרה לאחר רענון הדף, אנא צור קשר עם המידע על הבעיה לתמיכה שלנו: support@skillbrains.com\\n\\n"
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "צילומסך נשמר אל %filename%. לחץ כאן לפתיחת התיקיה."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "צילום מסך הועלה, קישור הועתק ללוח."
+   },
+   "screenshot_plugin_share": {
+      "message": "שתף ברשתות חברתיות"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "שתף בפייסבוק"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "חפש תמונות דומות בגוגל"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "שתף ב: Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "שלח דרך דואר אלקטרוני"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "חפש תמונות דומות בטינאיי"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "שתף בטוויטר"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "שתף ב: VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "בחר איזור"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "בטל - בטל העלאת תצלום מסך"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "אנא ודא כי התצורה נכונה ופרוקסי לא יחסום שוב בקשות לייט שוט."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "המשך - פתח את הגדרות הProxy של לייט שוט"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "המשך - פתח את הגדרות הProxy של המערכת"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "כרגע לייט שוט מוגדרת להשתמש בפרוקסי הזה: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "לייט שוט משתמשת בהגדרות הפרוקסי עבור המערכת הנוכחית: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "נסה שוב - לנסות שוב תוך שימוש בהגדרות הנוכחיות"
+   },
+   "screenshot_plugin_upload": {
+      "message": "העלה צילומסך ל prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "העלאה נכשלה!"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "מידע מפורט"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "ההעלאה נכשלה!"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "ההעלאה נכשלה. נסה שוב?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "מעלה תמונה"
+   },
+   "screenshotplugin_default_title": {
+      "message": "צלם את המסך"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (כלי לצילומי מסך)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "כלי קל ונוח ליצירת צילומי מסך. מאפשר ליצור צילום מסך של כל איזור נבחר, לערוך אותו ולהעלותו לשרת."
+   }
+}

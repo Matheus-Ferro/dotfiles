@@ -1,0 +1,275 @@
+{
+   "screenshot_app_about": {
+      "message": "Par mums"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Visas tiesības aizsargātas."
+   },
+   "screenshot_app_exit": {
+      "message": "Iziet"
+   },
+   "screenshot_app_help": {
+      "message": "Palīdzība"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Kļūda reģistrējot ātro taustiņu:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Iespējams, ka cita programma izmanto šādu ātro taustiņu. Nospiediet uz šo ziņojumu, lai atvērtu iestatījumus."
+   },
+   "screenshot_app_language_code": {
+      "message": "LV"
+   },
+   "screenshot_app_language_name": {
+      "message": "Latviski"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Latvian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mana galerija (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Pierakstīties..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Izrakstīties"
+   },
+   "screenshot_app_options": {
+      "message": "Iestatījumi"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Automātiski aizvērt augšupielādes logu"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automātiski kopēt saiti pēc augšupielādes"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Uzņemt peles kursoru"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurēt"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Jūs nevarat uzstādīt vienu ātro taustiņu vairākām funkcijām. Lūdzu, pamainiet ātros taustiņus."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Viens no Jūsu ātrajiem taustiņiem ir kļūdains. Ja vēlaties to izslēgt, izņēmiet attiecīgo ķeksīti."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formāti"
+   },
+   "screenshot_app_options_general": {
+      "message": "Vispārīgi"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Uzņemšanas ātrtaustiņš"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Ātrie taustiņi"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Uzreiz saglabāt visu ekrānu"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Uzreiz augšupielādēt pilnu ekrānu"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvalitāte"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Saglabāt izvēlēto laukumu"
+   },
+   "screenshot_app_options_language": {
+      "message": "Valoda"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Izmantot savu proxy konfigurāciju"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Neizmantot proxy"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy iestatījumi"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Ports"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Rādīt paziņojuma logus kopējot un saglabājot"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Izmantot sistēmas proxy iestatījumus"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Augšupielādēto izmantojot formātu"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Pierakstīts kā:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Pierakstīties"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot konta pierakstīšanās kļūda"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Pierakstot radās kļūda. Lūdzu mēģiniet vēlreiz."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Uzņemt ekrānšāviņu"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot lietošanas noteikumi"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Nospiediet \"%hotkey_main%\" taustiņu uz klaviatūras, lai uzņemtu ekrānšāviņu"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Atcelt"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Notīrīt iezīmēto"
+   },
+   "screenshot_plugin_close": {
+      "message": "Aizvērt"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopēt"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Kļūda: Firefox CTypes nevarēja ielādēt Lightshot. Lūdzu, restartējiet interneta pārlūku. Ja pēc pārlūka restartēšanas turpinat redzēt šo kļūdu, sazinieties ar support@skillbrains.com.\\n\\nPaplašināts kļūdas apraksts: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Bulta"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Izpludināt"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Aplis"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Krāsa"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Līnija"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marķieris"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pildspalva"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Taisnstūris"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Teksts"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Solis atpakaļ"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Rediģēt ekrānuzņēmumu internetā onlainā"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Kļūda"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Iezīmēt pilnu ekrānu"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Atvainojiet, bet Lightshot spraudnis ir paredzēts tikai Windows datoriem. Ja vēlaties instalēt Lightshot Mac datoram, lūdzu apmeklējiet Mac App Store. Vai vēlaties atvērt App Store tagad?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Nepareizs izmērs"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Kļūda: Lightshot NPAPI spraudnis netika atrasts. Lūdzu restartējiet interneta pārlūku. Ja pēc pārlūka restartēšanas turpinat redzēt šo kļūdu, sazinieties ar support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Atvērt"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Atvainojiet, bet Lightshot ir paredzēts tikai Windows un Mac datoriem. Ja vēlaties, lai Lighshot būtu pieejams arī Jūsu operētājsistēmai, lūdzu sazinieties ar support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Drukāt"
+   },
+   "screenshot_plugin_save": {
+      "message": "Saglabāt"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Ekrānšāviņš nokopēts"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Kļūda: Lightshot nevarēja uzņemt ekrānšāviņu. Lūdzu, restartējiet interneta pārlūku. Ja pēc pārlūka restartēšanas joprojām redzat šo kļūdu, sazinieties ar support@skillbrains.com.\\n\\nPaplašināts kļūdas apraksts: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Ekrānšāviņš saglabāts: %filename%. Spiediet šeit, lai atvērtu to mapē."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Ekrānšāviņš augšupielādēts. Saite nokopēta."
+   },
+   "screenshot_plugin_share": {
+      "message": "Kopīgot sociālajos tīklos"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Kopīgot Facebook vietnē"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Meklēt līdzīgus attēlus Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Dalīties Pinterest vietnē"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Nosūtīt pa e-pastu"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Meklēt līdzīgus attēlus Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Kopīgot Twitter vietnē"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Kopīgot VK vietnē"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Izvēlēties laukumu"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Pašreizējais Lightshot ir izmainīts lai lietotu šo proxy %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot lieto pašreizējo sistēmas proxy iestatījumus %proxy%"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Augšupielādēt uz prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Augšupielādes kļūda"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Augšupielāde neizdevusies"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Augšupielādes kļūda. Vai atkārtot?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Attēls tiek augšupielādēts"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Uzņemt ekrānuzņēmumu"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (Ekrānuzņemšanas rīks)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Vienkāršs un ērts ekrānšāviņu uzņemšanas rīks.Ļauj uzņemt ekrānšāviņu no jebkura ekrāna laukuma,rediģēt to un augšupielādēt serverī."
+   }
+}

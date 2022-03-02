@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Über"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Alle Rechte vorbehalten."
+   },
+   "screenshot_app_exit": {
+      "message": "Beenden"
+   },
+   "screenshot_app_help": {
+      "message": "Hilfe"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Deine Tastenkombination konnte nicht zugewiesen werden:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Eine andere Anwendung benutzt diese Tastenkombination. Hier klicken um das Einstellungs Fenster zu öffnen."
+   },
+   "screenshot_app_language_code": {
+      "message": "DE"
+   },
+   "screenshot_app_language_name": {
+      "message": "Deutsch"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "German"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Meine Gallerie (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Einloggen..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Abmelden"
+   },
+   "screenshot_app_options": {
+      "message": "Einstellungen"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Upload Fenster automatisch schließen"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Link nach dem Hochladen automatisch in die Zwischenablage kopieren"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Mauszeiger aufnehmen"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Konfigurieren"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "System Proxy"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Du kannst nicht die selbe Tastenkombination mehreren Funktionen zuweisen. Bitte ändere eine Kombination."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Deine Tastenkombinations Wahl ist ungültig. Wenn Du Deine Auswahl aufheben möchtest, wähle die entsprechende Checkbox."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formate"
+   },
+   "screenshot_app_options_general": {
+      "message": "Allgemein"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Screenshot erstellen"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Tastenkombinationen"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Sofortiges Speichern des gesamten Bildschirms"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Sofortiges Hochladen des gesamten Bildschirms"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) Proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG Qualität"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Größe und Position des Auswahlfensters merken"
+   },
+   "screenshot_app_options_language": {
+      "message": "Sprache"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Manuelle Proxy Einstellungen"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Kein Proxy"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Immer"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Nie"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Screenshots optimieren (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Nur beim hochladen"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Benachrichtigung nach Kopieren oder Speichern anzeigen"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "Nicht gesetzt (direkte Verbindung)"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "System Proxy Einstellungen benutzen"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Bilformat auswählen"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Angemeldet als"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Anmelden"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot Anmeldefehler"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Ein Fehler ist beim Anmelden entstanden. Bitte versuchen sie es erneut."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Screenshot erstellen"
+   },
+   "screenshot_app_terms": {
+      "message": "Nutzungsbedingungen"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Drücke die \"%hotkey_main%\" Taste auf deiner Tastatur um einen Screenshot zu erstellen"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Diese Nachricht nicht noch einmal zeigen"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Abbrechen"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Oh oh!\u003C/h4>Schon wieder passiert! Google Chrome hat einen \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">schwerwiegenden Fehler\u003C/a> bezüglich der Screenshot Funktionalität auf High-DPI Monitoren. Er verkleinert das gesamte Bild, so dass ein verschwommenes statt einem scharfen Bild erstellt wird. Obwohl der Fehler als behoben markiert ist, wird es erst ab Chrome 39 oder 40 funktionieren. Deshalb können wir leider nichts ändern.\u003Cbr>Wir empfehlen aber das Lightshot Programm zu verwenden. Es funktioniert genauso wie Du es gewohnt bist und ist nicht von Google Chrome Änderungen abhängig. Du kannst es hier downloaden: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>Wir entschuldigen uns für die Unannehmlichkeiten."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Leider bietet Google Chrome keine Möglichkeit Bilder in die Zwischenablage zu kopieren, deshalb mussten wir diese Option ausschalten. Wir entschuldigen uns für die Unannehmlichkeit.\\n\\nWie können wir dir helfen?\\nEs gibt ein Fehler-Ticket im Google Chrome Fehler-Tracker darüber. Du kannst diesen mit einem Stern markieren, damit es eine höhere Priorität bekommt und früher behoben wird.\\n\\nOder du kannst das Lightshot Programm nutzen. Kopieren funktioniert perfekt damit. Du kannst es von http://app.prntsrc.com/ downloaden\\n\\nKlicke \"Ok\" um den Google Chrome Fehler-Tracker zu öffnen.\\nKlicke \"Abbrechen\" um dieses Fenster zu schließen."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Auswahl aufheben"
+   },
+   "screenshot_plugin_close": {
+      "message": "Schließen"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopieren"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Fehler: Firefox CTypes konnte Lightshot nicht laden. Versuche den Browser neu zu starten. Wenn du trotz Neustart weiterhin diesen Fehler bekommst, kontaktiere bitte support@skillbrains.com (In Englisch) \\n\\nErweiterte Fehler Informationen: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Pfeil"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Weichzeichnen"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Kreis"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Farbe"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linie"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Markierer"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Stift"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rechteck"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Rückgängig"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Screenshot online bearbeiten"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Fehler"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Kompletten Bildschirm auswählen"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Wir entschuldigen uns für die Unannehmlichkeiten, aber die Lightshot Erweiterung funktioniert nur unter Windows. Wenn du Lightshot auf einem Mac nutzen möchtest, nutze bitte die App vom Mac App Store. Jetzt zum App Store gehen?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Fehlerhafte JSON Struktur in der Antwort des Bilder Hosters"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Falsche Größe"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Was ist mit dem guten alten Lightshot passiert?\u003C/h4>Vielleicht hast du mitbekommen, dass Google Chrome im September aufgehört hat \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">NPAPI Plugins zu unterstützen\u003C/a> (Englisch). Deshalb mussten wir uns anpassen.\u003Cbr>Vom NPAPI Plugin zu Javascript war ein weiter Weg. Momentan haben wir unser \"Kopieren\" Feature verloren wegen \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">diesem Fehler\u003C/a> (Google Chrome Fehler-Tracker, Englisch). Andere Features sind ebenfalls betroffen.\u003Cbr>Wenn du die vorherige Version geliebt hast, empfehlen wir dir das Lightshot Programm auszuprobieren. Es funktioniert genauso wie Du es gewohnt bist und ist nicht von Google Chrome Änderungen abhängig. Du kannst es hier downloaden: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>\u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">Hier\u003C/a> bekommst du mehr Informationen über die neue Version.\u003Cbr>Wir entschuldigen uns für die Unannehmlichkeit."
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Fehler: Lightshot NPAPI Plugin konnte nicht gefunden werden. Versuche bitte den Browser neu zu starten. Wenn du trotz Neustart weiterhin diesen Fehler bekommst, kontaktiere uns bitte via E-mail: support@skillbrains.com (In Englisch)."
+   },
+   "screenshot_plugin_open": {
+      "message": "Öffnen"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Screenshot optimieren"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Wir entschuldigen uns für die Unannehmlichkeiten, aber Lightshot funktioniert nur unter Windows und Mac Computern. Wenn du Lightshot für dein Betriebssystem willst, kontaktiere support@skillbrains.com (In Englisch)."
+   },
+   "screenshot_plugin_print": {
+      "message": "Drucken"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Erneut versuchen"
+   },
+   "screenshot_plugin_save": {
+      "message": "Speichern"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Screenshot wurde in die Zwischenablage kopiert"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Fehler: Lightshot konnte keinen Screenshot erstellen. Versuche den Browser neu zu starten. Wenn Du trotz Neustart weiterhin diesen Fehler bekommst, kontaktiere bitte support@skillbrains.com (In Englisch) \\n\\nErweiterte Fehler Informationen: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Screenshot wurde als %filename% gespeichert. Hier klicken, um den Ordner zu öffnen."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Screenshot hochgeladen. Der Link wurde in die Zwischenablage kopiert."
+   },
+   "screenshot_plugin_share": {
+      "message": "Auf sozialen Netzwerken teilen"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Auf Facebook teilen"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Nach ähnlichen Bildern auf Google suchen"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Auf Pinterest teilen"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Per Email verschicken"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Nach ähnlichen Bildern auf Tineye suchen"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Auf Twitter teilen"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Auf VK teilen"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Bereich auswählen"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Abbrechen - Screenshot hochladen abbrechen"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Bitte stelle sicher, dass die Konfiguration richtig ist und Ihr Proxy nicht Lightshot Abfragen blockiert."
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Fortsetzen - Lightshot Proxy Einstellungen öffnen"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Fortsetzen - System Proxy Einstellungen öffnen"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Momentan ist Lightshot auf diesen Proxy eingestellt: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot nutzt die derzeitigen Proxy Einstellungen des Systems: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Erneut versuchen - mit aktuellen Einstellungen erneut probieren"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Hochladen auf prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Beim Hochladen ist ein Fehler aufgetreten."
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Detaillierte Informationen"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Hochladen fehlgeschlagen."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Hochladen fehlgeschlagen. Erneut versuchen?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Screenshot wird hochgeladen"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Screenshot aufnehmen"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (Screenshot Tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Einfaches und Praktisches screenshot Tool. Markiere einen Bereich, editiere deinen Screenshot und lade ihn auf dem Server hoch."
+   }
+}

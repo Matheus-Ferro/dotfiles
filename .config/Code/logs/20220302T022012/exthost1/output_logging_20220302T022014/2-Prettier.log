@@ -1,0 +1,62 @@
+["INFO" - 2:20:14 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:20:14 AM] Extension Version: 9.3.0.
+["INFO" - 2:21:39 AM] Formatting file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css
+["INFO" - 2:21:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 2:21:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:21:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
+  "parser": "css"
+}
+["INFO" - 2:21:41 AM] Formatting completed in 1.833ms.
+["INFO" - 2:21:43 AM] Formatting file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-4.0/gtk.css
+["INFO" - 2:21:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 2:21:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:21:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-4.0/gtk.css",
+  "parser": "css"
+}
+["INFO" - 2:21:44 AM] Formatting completed in 0.453ms.

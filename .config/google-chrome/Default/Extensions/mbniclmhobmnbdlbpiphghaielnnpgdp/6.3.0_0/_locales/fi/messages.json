@@ -1,0 +1,332 @@
+{
+   "screenshot_app_about": {
+      "message": "Tietoja"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Kaikki oikeudet pidätetään."
+   },
+   "screenshot_app_exit": {
+      "message": "Poistu"
+   },
+   "screenshot_app_help": {
+      "message": "Apua"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Virhe asettaessa pikanäppäintä:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Toinen sovellus saattaa jo käyttää sitä. Klikkaa tätä viestiä avataksesi asetukset."
+   },
+   "screenshot_app_language_code": {
+      "message": "FI"
+   },
+   "screenshot_app_language_name": {
+      "message": "Suomi"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Finnish"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Ladatut kuvat (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Kirjaudu sisään..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Kirjaudu ulos"
+   },
+   "screenshot_app_options": {
+      "message": "Asetukset"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Sulje latausikkuna automaattisesti"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Kopioi linkki automaattisesti lataamisen jälkeen"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Vangitse kohdistin kuvakaappauksen aikana"
+   },
+   "screenshot_app_options_configure_system_proxy": {
+      "message": "Määritä"
+   },
+   "screenshot_app_options_current_system_proxy": {
+      "message": "Järjestelmän välityspalvelin"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Et voi asettaa samoja pikanäppäimiä eri toiminnoille. Vaihda toinen pikanäppäin joksikin toiseksi."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Yksi pikanäppäimistäsi ei toimi. Poistaaksesi tämän pikanäppäimen käytöstä, ota ruksi pois kyseisen näppäimen valintaruudun kohdalta."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Kuvatiedostomuodot"
+   },
+   "screenshot_app_options_general": {
+      "message": "Yleinen"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Yleinen pikanäppäin"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Pikanäppäimet"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Kuvankaappaus koko näytöstä ja sen tallennus"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Välitön lataus koko näytössä"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S)-välityspalvelin"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG-laatu"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Pidä valitun alueen sijainti"
+   },
+   "screenshot_app_options_language": {
+      "message": "Kieli"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Manuaaliset välityspalvelinmääritykset"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Ei välityspalvelinta"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "Aina"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "Ei koskaan"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "Optimoi kuvankaappaukset (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "Vain kun lataus on käynnissä"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Välityspalvelin"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Portti"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Näytä ilmoitukset kopioimisesta ja tallentamisesta"
+   },
+   "screenshot_app_options_system_proxy_not_set": {
+      "message": "(Suoraa yhteyttä) ei ole asetettu"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Käytä järjestelmän välityspalvelimen asetuksia"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Lataa käyttäen kuvatiedostomuotoa"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Kirjautunut sisään nimellä"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Kirjaudu sisään"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot sisäänkirjautumisvirhe"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Tapahtui virhe kirjautuessa sisään. Ole hyvä ja yritä uudelleen."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ota kuvankaapaus"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshotin käyttöehdot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Paina \"%hotkey_main%\" näppäimistölläsi ottaaksesi kuvankaappaus"
+   },
+   "screenshot_plugin_announce_do_not_show": {
+      "message": "Älä näytä tätä viestiä uudestaan"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Peruuta"
+   },
+   "screenshot_plugin_chrome_38_retina_bug": {
+      "message": "\u003Ch4>Pahus!\u003C/h4>Se tapahtui taas! Google Chromella on \u003Ca target=\"_blank\" href=\"http://crbug.com/415297\">ohjelmointivirhe\u003C/a> joka liittyy kuvankaappauksen toiminnallisuuteen korkearesoluutioisissa näytöissä. Selain pienentää koko kuvan niin, että korkealaatuisen kuvankaappauksen sijasta näet sumean kuvan. Vaikka vika on merkitty korjattavaksi vikalistassa, ongelma on korjattu vasta Chromen 40 versiossa. Emme siis valitettavasti voi asialle mitään.\u003Cbr>Mutta suosittelemme sinua kokeilemaan Lightshotin työpöytä-ohjelmaa. Se toimii aivan kuten ennenkin ja voit ladata sen osoitteesta: \u003Ca target=\"_blank\" href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>."
+   },
+   "screenshot_plugin_chrome_bug_copy": {
+      "message": "Valitettavasti Google Chrome ei tue kuvien kopiointia leikepöydälle käyttäen API:a, joten otimme tämän vaihtoehdon pois päältä. \\n\\nMitä seuraavaksi?\\nGoogle Chromen vikaseurantarekisteriin on lähetetty tiedot tästä ongelmasta, voit merkitä ongelman tähdellä, joten sen korjaamisessa on suurempi prioriteetti.\\n\\nTai voit käyttää Lightshot-sovellusta, jossa sen kopiointiominaisuus toimii täydellisesti. Voit ladata sovelluksen osoitteesta http://app.prntscr.com/.\\n\\nKlikkaa \"OK\" avataksesi Google Chromen vikaseurantaohjelman.\\nValitse \"Peruuta\" sulkeaksesi tämän ikkunan."
+   },
+   "screenshot_plugin_clear": {
+      "message": "Tyhjennä valinta"
+   },
+   "screenshot_plugin_close": {
+      "message": "Sulje"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopioi"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Virhe: Firefox CTypes ei onnistunut lataamaan Lightshottia. Yritä ladata selaimesi uudelleen. Jos näet tämän virheen uudelleenlatauksen jälkeen, ota meihin yhteyttä osoitteessa support@skillbrains.com. \\n\\nVirheen lisätiedot: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Nuoli"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Sumennus"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Ympyrä"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Väri"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Viiva"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Huopakynä"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Kynä"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Suorakulmio"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Teksti"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Kumoa"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Muokkaa kuvankaappausta verkossa"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Virhe"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Valitse koko näyttö"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Pahoittelumme, mutta Lighshot toimii vain Windows-tietokoneissa. Jos haluat käyttää Lightshotia Macilla, lataa se Mac App Storesta. Mene App Storeen nyt?"
+   },
+   "screenshot_plugin_image_hosting_incorrect_response": {
+      "message": "Kuvan ylläpitopalvelin ilmoittaa virheellisestä JSON-rakenteesta"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Väärä koko"
+   },
+   "screenshot_plugin_npapi_deprecated_message": {
+      "message": "\u003Ch4>Mitä tapahtui vanhalle Lightshotille?\u003C/h4>Kuten ehkä tiedät, Google Chrome on lopettanut \u003Ca href=\"http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html\">NPAPI:n tukemisen\u003C/a> syyskuussa 2013, jonka takia myös meidän täytyi mukautua tähän muutokseen. \u003Cbr>Siirtyminen NPAPI:sta Javascriptiin oli tuskaisaa. Jouduimme poistamaan ''Kopioi''-ominaisuuden \u003Ca href=\"https://code.google.com/p/chromium/issues/detail?id=150835\">tämän ongelman vuoksi\u003C/a> sekä jouduimme muuttamaan myös muitakin ominaisuuksia.\u003Cbr>Jos rakastit aiempaa versiota etkä pidä tapahtuneista muutoksista niin suosittelemme että kokeilet Lighshotin työpöytä-ohjelmaa, Se toimii tismalleen samoin kuin vanha Lightshot eikä ole muuttunut Google Chromesta johtuvien muutoksien vuoksi. Voit ladata ohjelman osoitteesta: \u003Ca href=\"http://app.prntscr.com/\">http://app.prntscr.com/\u003C/a>\u003Cbr>. Löydät lisätietoa uudesta versiosta \u003Ca href=\"http://app.prntscr.com/html5-chrome-extension.html\">täältä\u003C/a>.\u003Cbr>"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Virhe: Lightshot NPAPI-laajennusta ei löydy. Yritä ladata selaimesi uudelleen. Jos näet tämän virheen uudelleenlatauksen jälkeen, ota yhteyttä meihin osoitteessa support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Avaa"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "Optimoidaan kuvankaappausta"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Pahoittelumme, mutta Lightshot toimii vain Windows- ja Mac-tietokoneissa. Jos haluat Lightshotin omalle käyttöjärjestelmällesi, ota meihin yhteyttä osoitteessa support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Tulosta"
+   },
+   "screenshot_plugin_retry": {
+      "message": "Yritä uudelleen"
+   },
+   "screenshot_plugin_save": {
+      "message": "Tallenna"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Kuvankaappauksesi on kopioitu leikepöydälle"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Virhe: Lightshot ei voinut ottaa kuvankaappausta. Yritä ladata selaimesi uudelleen. Jos näet tämän virheen uudelleenlatauksen jälkeen, ota meihin yhteyttä osoitteessa support@skillbrains.com. \\n\\nExtended error info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Kuvankaappaus on tallennettu %filename%. Klikkaa tästä avataksesi kansion."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Kuvankaappaus on ladattu. Kuvan osoite on kopioitu leikepöydälle."
+   },
+   "screenshot_plugin_share": {
+      "message": "Jaa sosiaalisessa mediassa"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Jaa Facebookissa"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Etsi samanlaisia kuvia Googlesta"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Jaa Pinterestissä"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Lähetä sähköpostilla"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Etsi samankaltaisia kuvia sivustolta Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Jaa Twitterissä"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Jaa VK:ssa"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Valitse alue"
+   },
+   "screenshot_plugin_upl_fail_cancel_uploading_screenshot": {
+      "message": "Peruuta - peruuta kuvan lataaminen"
+   },
+   "screenshot_plugin_upl_fail_check_proxy_settings": {
+      "message": "Varmista, että määritykset ovat oikeat ja välityspalvelinasetukset eivät peitä Lightshot pyyntöjä"
+   },
+   "screenshot_plugin_upl_fail_continue_open_lightshot_proxy": {
+      "message": "Jatka - avaa Lightshotin välityspalvelinmääritykset"
+   },
+   "screenshot_plugin_upl_fail_continue_open_system_proxy": {
+      "message": "Jatka - avaa järjestelmän välityspalvelinmääritykset"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_proxy": {
+      "message": "Tällä hetkellä Lightshot on määritetty käyttämään seuraavaa välityspalvelinta: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_lightshot_uses_system_proxy": {
+      "message": "Lightshot käyttää nykyisiä välityspalvelinasetuksia: %proxy%"
+   },
+   "screenshot_plugin_upl_fail_try_again_with_current_settings": {
+      "message": "Yritä uudelleen käyttäen nykyisiä asetuksia"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Lataa sivustolle prntscr.com"
+   },
+   "screenshot_plugin_upload_error_capt": {
+      "message": "Latausvirhe"
+   },
+   "screenshot_plugin_upload_error_detailed_info": {
+      "message": "Yksityiskohtaiset tiedot"
+   },
+   "screenshot_plugin_upload_failed": {
+      "message": "Lataaminen epäonnistui."
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Lataus epäonnistui. Yritä uudelleen?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Kuvaa ladataan"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Ota kuvankaappaus"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (kuvankaappaussovellus)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Yksinkertainen ja kätevä kuvankaappaussovellus. Valitse alue, muokkaa kuvaa ja lataa se palvelimelle."
+   }
+}
