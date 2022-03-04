@@ -1,0 +1,6 @@
+[2022-03-03T09:58:56.372Z] Validating found git in: git
+[2022-03-03T09:58:56.394Z] Using git 2.35.1 from git
+[2022-03-03T09:58:56.418Z] > git rev-parse --git-dir [6ms]
+[2022-03-03T09:58:56.421Z] Open repository: /home/breakcore
+[2022-03-03T09:58:56.871Z] > git ls-files --stage -- /home/breakcore/.config/pamac/config [25ms]
+[2022-03-03T09:58:56.878Z] > git cat-file -s 0a6f32ba69b18cf1656016813d6f71c06cbb0322 [2ms]

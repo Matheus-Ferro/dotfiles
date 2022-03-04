@@ -342,18 +342,20 @@ globalkeys = my_table.join(
 
     awful.key({ modkey, }, "s", hotkeys_popup.show_help,
         {description = "Show Help", group = "0- Window Manager"}),
+    awful.key({ modkey, }, "space", function () awful.layout.inc( 1)                end,
+        {description = "select next", group = "0- Window Manager"}),
 
     -- Tag browsing with modkey
     awful.key({ modkey,           }, "Left",   awful.tag.viewprev,
-        {description = "View Previous", group = "tag"}),
+        {description = "View Previous", group = "3- tag"}),
     awful.key({ modkey,           }, "Right",  awful.tag.viewnext,
-        {description = "View Next", group = "tag"}),
+        {description = "View Next", group = "3- tag"}),
 
     -- Non-empty tag browsing
     --awful.key({ modkey }, "Left", function () lain.util.tag_view_nonempty(-1) end,
-              --{description = "view  previous nonempty", group = "tag"}),
+              --{description = "view  previous nonempty", group = "3- tag"}),
    -- awful.key({ modkey }, "Right", function () lain.util.tag_view_nonempty(1) end,
-             -- {description = "view  next nonempty", group = "tag"}),
+             -- {description = "view  next nonempty", group = "3- tag"}),
 
     -- Default client focus
         -- By direction client focus with arrows
@@ -511,10 +513,10 @@ for i = 1, 9 do
     -- Hack to only show tags 1 and 9 in the shortcut window (mod+s)
     local descr_view, descr_toggle, descr_move, descr_toggle_focus
     if i == 1 or i == 9 then
-        descr_view = {description = "View Tag #", group = "tag"}
-        descr_toggle = {description = "Toggle Tag #", group = "tag"}
-        descr_move = {description = "Move Focused Client to Tag #", group = "tag"}
-        descr_toggle_focus = {description = "Toggle Focused Client on Tag #", group = "tag"}
+        descr_view = {description = "View Tag #", group = "3- tag"}
+        descr_toggle = {description = "Toggle Tag #", group = "3- tag"}
+        descr_move = {description = "Move Focused Client to Tag #", group = "3- tag"}
+        descr_toggle_focus = {description = "Toggle Focused Client on Tag #", group = "3- tag"}
     end
     globalkeys = my_table.join(globalkeys,
         -- View tag only.

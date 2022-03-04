@@ -1,2 +1,3 @@
-2022/02/26-20:59:42.781 cd69 Creating DB /home/breakcore/.config/opera/shared_proto_db since it was missing.
-2022/02/26-20:59:42.786 cd69 Reusing MANIFEST /home/breakcore/.config/opera/shared_proto_db/MANIFEST-000001
+2022/03/03-02:34:18.364 775d Reusing MANIFEST /home/breakcore/.config/opera/shared_proto_db/MANIFEST-000001
+2022/03/03-02:34:18.364 775d Recovering log #3
+2022/03/03-02:34:18.365 775d Reusing old log /home/breakcore/.config/opera/shared_proto_db/000003.log 

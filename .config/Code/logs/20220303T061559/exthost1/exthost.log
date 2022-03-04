@@ -1,0 +1,21 @@
+[2022-03-03 06:16:00.252] [exthost] [info] Extension host with pid 132619 started
+[2022-03-03 06:16:00.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-03 06:16:00.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-03 06:16:00.328] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.347] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.350] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-03 06:16:00.490] [exthost] [info] Eager extensions activated
+[2022-03-03 06:16:00.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-03 06:16:00.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-03 06:16:00.556] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-03 06:16:00.869] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-03 06:16:01.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-03 06:16:02.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-03 06:16:02.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-03 06:16:02.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-03 06:16:03.934] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-03-03 06:31:42.291] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-03 06:31:42.298] [exthost] [info] Extension host with pid 132619 exiting with code 0

@@ -5,12 +5,12 @@
 	"last_version": 4126,
 	"last_window_id": 1,
 	"log_indexing": false,
-	"next_update_check": 1646252319,
+	"next_update_check": 1646385668,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 0.0,
-		"new_window_maximized": true,
+		"new_window_height": 1016.0,
+		"new_window_maximized": false,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -50,6 +50,7 @@
 			},
 			"file_history":
 			[
+				"/home/breakcore/Downloads/Simp1e/how_to_install.txt",
 				"/home/breakcore/Downloads/Simp1e/Simp1e/index.theme",
 				"/home/breakcore/Downloads/WhiteSur-yellow/WhiteSur-yellow-dark/index.theme",
 				"/home/breakcore/.config/arcologout/arcologout.conf",
@@ -145,7 +146,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 1261.0
 	},
 	"windows":
 	[
@@ -170,7 +171,7 @@
 					"file": "/home/breakcore/.local/share/sddm/xorg-session.log",
 					"settings":
 					{
-						"buffer_size": 97203,
+						"buffer_size": 102607,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -193,21 +194,13 @@
 							"left_delete",
 							null,
 							"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
 						]
 					],
 					"settings":
 					{
-						"buffer_size": 465828,
+						"buffer_size": 493144,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/breakcore/Downloads/Simp1e/how_to_install.txt",
-					"settings":
-					{
-						"buffer_size": 303,
 						"line_ending": "Unix"
 					}
 				},
@@ -218,6 +211,25 @@
 						"buffer_size": 6990,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/breakcore/.config/rofi/config.rasi",
+					"settings":
+					{
+						"buffer_size": 5008,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/usr/share/rofi/themes/android_notification.rasi",
+					"settings":
+					{
+						"buffer_size": 4488,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
 				}
 			],
 			"build_system": "",
@@ -252,6 +264,7 @@
 			},
 			"file_history":
 			[
+				"/home/breakcore/Downloads/Simp1e/how_to_install.txt",
 				"/home/breakcore/Downloads/Simp1e/Simp1e/index.theme",
 				"/home/breakcore/Downloads/WhiteSur-yellow/WhiteSur-yellow-dark/index.theme",
 				"/home/breakcore/.config/arcologout/arcologout.conf",
@@ -321,7 +334,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 6,
 							"stack_multiselect": false,
 							"type": "text"
 						},
@@ -331,7 +344,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 97203,
+								"buffer_size": 102607,
 								"regions":
 								{
 								},
@@ -352,7 +365,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"stack_multiselect": false,
 							"type": "text"
 						},
@@ -381,7 +394,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"stack_multiselect": false,
 							"type": "text"
 						},
@@ -391,15 +404,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 465828,
+								"buffer_size": 493144,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										97,
-										97
+										0,
+										0
 									]
 								],
 								"settings":
@@ -412,17 +425,48 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 4,
-							"file": "/home/breakcore/Downloads/Simp1e/how_to_install.txt",
+							"file": "/home/breakcore/.config/awesome/system-overview",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 303,
+								"buffer_size": 6990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1530.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/breakcore/.config/rofi/config.rasi",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5008,
 								"regions":
 								{
 								},
@@ -446,31 +490,31 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/home/breakcore/.config/awesome/system-overview",
+							"buffer": 6,
+							"file": "/usr/share/rofi/themes/android_notification.rasi",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6990,
+								"buffer_size": 4488,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										1869,
+										1869
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Text/Plain text.tmLanguage",
 									"tab_size": 4,
-									"translate_tabs_to_spaces": false
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1530.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -516,7 +560,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,4480,1080,9",
+			"position": "0,0,0,0,0,1930,30,3191,1046,4480,1080,9",
 			"project": "",
 			"replace":
 			{

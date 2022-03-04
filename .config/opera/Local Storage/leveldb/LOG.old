@@ -1,0 +1,11 @@
+2022/02/26-20:59:42.053 3 Creating DB /home/breakcore/.config/opera/Local Storage/leveldb since it was missing.
+2022/02/26-20:59:42.067 3 Reusing MANIFEST /home/breakcore/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2022/02/26-21:03:18.200 3 Level-0 table #5: started
+2022/02/26-21:03:18.224 3 Level-0 table #5: 42397 bytes OK
+2022/02/26-21:03:18.227 3 Delete type=0 #3
+2022/02/26-21:25:20.622 3 Level-0 table #7: started
+2022/02/26-21:25:20.629 3 Level-0 table #7: 20361 bytes OK
+2022/02/26-21:25:20.631 3 Delete type=0 #4
+2022/02/26-22:49:29.350 3 Level-0 table #9: started
+2022/02/26-22:49:29.355 3 Level-0 table #9: 17715 bytes OK
+2022/02/26-22:49:29.359 3 Delete type=0 #6

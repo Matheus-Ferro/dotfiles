@@ -1,3 +1,24 @@
-2022/03/01-23:31:40.701 19e7 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2022/03/01-23:31:40.701 19e7 Recovering log #25
-2022/03/01-23:31:40.704 19e7 Reusing old log /home/breakcore/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000025.log 
+2022/03/04-05:21:07.745 b0d Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/03/04-05:21:07.745 b0d Recovering log #36
+2022/03/04-05:21:07.760 b0d Reusing old log /home/breakcore/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000036.log 
+2022/03/04-09:25:53.755 ad4 Level-0 table #40: started
+2022/03/04-09:25:53.779 ad4 Level-0 table #40: 2558375 bytes OK
+2022/03/04-09:25:53.781 ad4 Delete type=0 #36
+2022/03/04-09:25:53.880 ad4 Level-0 table #42: started
+2022/03/04-09:25:53.922 ad4 Level-0 table #42: 2751867 bytes OK
+2022/03/04-09:25:53.925 ad4 Delete type=0 #39
+2022/03/04-09:25:53.925 ad4 Compacting 4@0 + 4@1 files
+2022/03/04-09:25:53.952 ad4 Generated table #43@0: 16 keys, 2128877 bytes
+2022/03/04-09:25:53.986 ad4 Generated table #44@0: 7 keys, 2606860 bytes
+2022/03/04-09:25:54.020 ad4 Generated table #45@0: 9 keys, 2670112 bytes
+2022/03/04-09:25:54.024 ad4 Generated table #46@0: 4 keys, 152388 bytes
+2022/03/04-09:25:54.024 ad4 Compacted 4@0 + 4@1 files => 7558237 bytes
+2022/03/04-09:25:54.027 ad4 compacted to: files[ 0 4 1 0 0 0 0 ]
+2022/03/04-09:25:54.027 ad4 Delete type=2 #33
+2022/03/04-09:25:54.027 ad4 Delete type=2 #42
+2022/03/04-09:25:54.027 ad4 Delete type=2 #32
+2022/03/04-09:25:54.027 ad4 Delete type=2 #31
+2022/03/04-09:25:54.027 ad4 Delete type=2 #40
+2022/03/04-09:25:54.027 ad4 Delete type=2 #37
+2022/03/04-09:25:54.027 ad4 Delete type=2 #30
+2022/03/04-09:25:54.027 ad4 Delete type=2 #35

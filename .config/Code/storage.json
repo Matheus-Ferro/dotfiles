@@ -41,70 +41,17 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFile",
+                                    "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
-                                        "path": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
+                                        "path": "/home/breakcore/curso_progbr",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css"
+                                    "label": "~/curso_progbr"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-4.0/gtk.css",
-                                        "path": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-4.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.themes/Orchis-yellow-dark/gtk-4.0/gtk.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/share/themes/Orchis-yellow-dark-compact/gnome-shell/pad-osd.css",
-                                        "path": "/usr/share/themes/Orchis-yellow-dark-compact/gnome-shell/pad-osd.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/share/themes/Orchis-yellow-dark-compact/gnome-shell/pad-osd.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/share/themes/Orchis-yellow-dark-compact/gtk-3.0/gtk.css",
-                                        "path": "/usr/share/themes/Orchis-yellow-dark-compact/gtk-3.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/share/themes/Orchis-yellow-dark-compact/gtk-3.0/gtk.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/share/themes/Orchis-yellow-dark-compact/gtk-4.0/gtk.css",
-                                        "path": "/usr/share/themes/Orchis-yellow-dark-compact/gtk-4.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/share/themes/Orchis-yellow-dark-compact/gtk-4.0/gtk.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/share/themes/Orchis-yellow-dark-compact/index.theme",
-                                        "path": "/usr/share/themes/Orchis-yellow-dark-compact/index.theme",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/share/themes/Orchis-yellow-dark-compact/index.theme"
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -121,12 +68,23 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/awesome/rc.lua",
-                                        "path": "/home/breakcore/.config/awesome/rc.lua",
+                                        "external": "file:///home/breakcore/Downloads/awesomewm-dark-theme.user.css",
+                                        "path": "/home/breakcore/Downloads/awesomewm-dark-theme.user.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/awesome/rc.lua"
+                                    "label": "~/Downloads/awesomewm-dark-theme.user.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/awesome/themes/multicolor/icons/color.txt",
+                                        "path": "/home/breakcore/.config/awesome/themes/multicolor/icons/color.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/themes/multicolor/icons/color.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -143,12 +101,67 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/awesome/picom.conf",
-                                        "path": "/home/breakcore/.config/awesome/picom.conf",
+                                        "external": "file:///home/breakcore/.config/awesome/rc.lua",
+                                        "path": "/home/breakcore/.config/awesome/rc.lua",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/awesome/picom.conf"
+                                    "label": "~/.config/awesome/rc.lua"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/pamac/config",
+                                        "path": "/home/breakcore/.config/pamac/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/pamac/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///usr/share/rofi/themes/android_notification.rasi",
+                                        "path": "/usr/share/rofi/themes/android_notification.rasi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/share/rofi/themes/android_notification.rasi"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/awesome/system-overview",
+                                        "path": "/home/breakcore/.config/awesome/system-overview",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/system-overview"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/rofi/config.rasi",
+                                        "path": "/home/breakcore/.config/rofi/config.rasi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/rofi/config.rasi"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
+                                        "path": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -722,7 +735,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1614,15 +1628,16 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/breakcore/.config/Code/Backups/1646202013252",
+            "backupPath": "/home/breakcore/.config/Code/Backups/1646290415966",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 1932,
                 "y": 32,
-                "width": 1261,
+                "width": 2536,
                 "height": 1016
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/breakcore"
 }

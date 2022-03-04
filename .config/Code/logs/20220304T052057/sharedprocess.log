@@ -1,0 +1,29 @@
+[2022-03-04 05:20:58.996] [sharedprocess] [info] Starting worker process with pid 2238 (type: fileWatcher, window: 1).
+[2022-03-04 05:21:02.448] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-03-04 05:21:02.448] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-03-04 05:21:02.449] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-nightly
+[2022-03-04 05:21:02.450] [sharedprocess] [info] Getting Manifest... ms-vscode.vscode-typescript-next
+[2022-03-04 05:21:02.881] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2022-03-04 05:21:03.034] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-03-04 05:21:03.036] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-03-04 05:21:03.336] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-nightly
+[2022-03-04 05:21:08.392] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-nightly /home/breakcore/.config/Code/CachedExtensionVSIXs/ms-vscode.js-debug-nightly-2022.3.310
+[2022-03-04 05:21:08.491] [sharedprocess] [info] Extracted extension to /home/breakcore/.vscode/extensions/.f0d55504-fcfa-483d-be89-24f41a0953fc: ms-vscode.js-debug-nightly
+[2022-03-04 05:21:08.506] [sharedprocess] [info] Renamed to /home/breakcore/.vscode/extensions/ms-vscode.js-debug-nightly-2022.3.310
+[2022-03-04 05:21:08.511] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-nightly
+[2022-03-04 05:21:08.523] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-nightly
+[2022-03-04 05:21:14.484] [sharedprocess] [info] Downloaded extension: ms-python.python /home/breakcore/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.2.1924087327
+[2022-03-04 05:21:15.440] [sharedprocess] [info] Extracted extension to /home/breakcore/.vscode/extensions/.6df212aa-6c17-48a1-95e3-d386cf0c6b91: ms-python.python
+[2022-03-04 05:21:15.447] [sharedprocess] [info] Renamed to /home/breakcore/.vscode/extensions/ms-python.python-2022.2.1924087327
+[2022-03-04 05:21:15.449] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-03-04 05:21:15.454] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-03-04 05:21:15.744] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/breakcore/.config/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.7.20220303
+[2022-03-04 05:21:16.003] [sharedprocess] [info] Extracted extension to /home/breakcore/.vscode/extensions/.bae2a6da-6e65-413a-aa8d-436b0176a63f: ms-vscode.vscode-typescript-next
+[2022-03-04 05:21:16.104] [sharedprocess] [info] Renamed to /home/breakcore/.vscode/extensions/ms-vscode.vscode-typescript-next-4.7.20220303
+[2022-03-04 05:21:16.105] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2022-03-04 05:21:16.108] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+[2022-03-04 05:21:16.408] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/breakcore/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.3.0
+[2022-03-04 05:21:17.617] [sharedprocess] [info] Extracted extension to /home/breakcore/.vscode/extensions/.1a238c0d-511b-481b-a0d5-0bec5fd73d41: ms-python.vscode-pylance
+[2022-03-04 05:21:17.649] [sharedprocess] [info] Renamed to /home/breakcore/.vscode/extensions/ms-python.vscode-pylance-2022.3.0
+[2022-03-04 05:21:17.650] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-03-04 05:21:17.653] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

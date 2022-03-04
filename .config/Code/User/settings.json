@@ -4,5 +4,15 @@
     "workbench.colorTheme": "Mayukai Dark",
     "security.workspace.trust.banner": "never",
     "editor.fontFamily": "JetBrainsMono NF",
-    "editor.fontSize": 17
+    "editor.fontSize": 17,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "editor.fontLigatures": true 
 }

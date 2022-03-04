@@ -1,0 +1,15 @@
+[2022-03-03 06:01:19.753] [renderer1] [info] IExtensionHostStarter.start() took 166 ms.
+[2022-03-03 06:01:19.944] [renderer1] [error] [Extension Host] (node:125524) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-03-03 06:05:35.242] [renderer1] [error] [Extension Host] TypeError: Cannot read property 'version' of null
+    at /home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:68024
+    at l (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at Generator._invoke (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4273)
+    at Generator.next (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at l (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at M (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:5658)
+    at Generator._invoke (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4050)
+    at Generator.next (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at t (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:413)
+    at s (/home/breakcore/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:624)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

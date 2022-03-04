@@ -1,2 +1,3 @@
-2022/02/26-20:59:42.034 cd3a Creating DB /home/breakcore/.config/opera/Site Characteristics Database since it was missing.
-2022/02/26-20:59:42.043 cd3a Reusing MANIFEST /home/breakcore/.config/opera/Site Characteristics Database/MANIFEST-000001
+2022/03/03-02:34:17.693 775c Reusing MANIFEST /home/breakcore/.config/opera/Site Characteristics Database/MANIFEST-000001
+2022/03/03-02:34:17.693 775c Recovering log #3
+2022/03/03-02:34:17.693 775c Reusing old log /home/breakcore/.config/opera/Site Characteristics Database/000003.log 

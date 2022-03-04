@@ -1,0 +1,11 @@
+[2022-03-03T10:16:00.458Z] Validating found git in: git
+[2022-03-03T10:16:00.480Z] Using git 2.35.1 from git
+[2022-03-03T10:16:00.505Z] > git rev-parse --git-dir [6ms]
+[2022-03-03T10:16:00.509Z] Open repository: /home/breakcore
+[2022-03-03T10:16:00.935Z] > git ls-files --stage -- /home/breakcore/.config/awesome/themes/multicolor/theme.lua [9ms]
+[2022-03-03T10:16:00.941Z] > git cat-file -s 2f1fdb9d68d06ce7fbaffb94e0869c3597a10e90 [2ms]
+[2022-03-03T10:16:03.846Z] > git symbolic-ref --short HEAD [1ms]
+[2022-03-03T10:16:03.850Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [0ms]
+[2022-03-03T10:16:03.856Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-03-03T10:16:03.856Z] > git remote --verbose [0ms]
+[2022-03-03T10:16:03.955Z] > git config --get commit.template [2ms]

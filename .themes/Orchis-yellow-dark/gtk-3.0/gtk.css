@@ -192,6 +192,7 @@ textview text selection,
 widget.view:selected {
   color: rgba(0, 0, 0, 0.87);
   background-color: #ffd600;
+  border-radius: 5px;
 }
 
 .linked:not(.vertical) > button,
@@ -14999,7 +15000,7 @@ check:checked,
 check:indeterminate,
 radio:checked,
 radio:indeterminate {
-  color: #FFD600;
+  color: #ffd600;
 }
 
 check:checked:disabled,
@@ -15343,7 +15344,7 @@ window#gnome-system-monitor.background.csd
   treeview.view:not(.progressbar):not(.trough)
   radio:indeterminate,
 filechooser stack.view scrolledwindow treeview.view radio:indeterminate {
-  color: #FFD600;
+  color: #ffd600;
 }
 
 treeview.view check:checked:disabled,
@@ -15803,7 +15804,7 @@ levelbar block:not(.empty) {
 }
 
 levelbar block.full {
-  background-color: #FFD600;
+  background-color: #ffd600;
 }
 
 levelbar block.empty {

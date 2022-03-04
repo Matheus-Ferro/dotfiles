@@ -1,0 +1,23 @@
+[2022-03-03T10:01:20.385Z] Validating found git in: git
+[2022-03-03T10:01:20.398Z] Using git 2.35.1 from git
+[2022-03-03T10:01:20.416Z] > git rev-parse --git-dir [1ms]
+[2022-03-03T10:01:20.420Z] Open repository: /home/breakcore
+[2022-03-03T10:01:20.829Z] > git ls-files --stage -- /home/breakcore/.config/awesome/rc.lua [5ms]
+[2022-03-03T10:01:20.837Z] > git cat-file -s be3136fd8354721cf60a7aed9b302607cc70bdd4 [2ms]
+[2022-03-03T10:01:22.928Z] > git symbolic-ref --short HEAD [1ms]
+[2022-03-03T10:01:22.935Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-03-03T10:01:22.943Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-03-03T10:01:22.943Z] > git remote --verbose [1ms]
+[2022-03-03T10:01:23.048Z] > git config --get commit.template [1ms]
+[2022-03-03T10:02:52.780Z] > git ls-files --stage -- /home/breakcore/.config/awesome/themes/multicolor/theme.lua [1ms]
+[2022-03-03T10:02:52.798Z] > git cat-file -s 2f1fdb9d68d06ce7fbaffb94e0869c3597a10e90 [15ms]
+[2022-03-03T10:05:35.442Z] > git ls-files --stage -- /home/breakcore/.config/awesome/rc.lua [2ms]
+[2022-03-03T10:05:35.447Z] > git cat-file -s be3136fd8354721cf60a7aed9b302607cc70bdd4 [1ms]
+[2022-03-03T10:06:59.577Z] > git ls-files --stage -- /home/breakcore/.config/awesome/rc(backup).lua [2ms]
+[2022-03-03T10:06:59.595Z] > git cat-file -s 90705c595b9a7fafc0b373be1b458dac6d631d7e [15ms]
+[2022-03-03T10:07:04.381Z] > git ls-files --stage -- /home/breakcore/.config/awesome/rc.lua [2ms]
+[2022-03-03T10:07:04.385Z] > git cat-file -s be3136fd8354721cf60a7aed9b302607cc70bdd4 [1ms]
+[2022-03-03T10:09:10.776Z] > git ls-files --stage -- /home/breakcore/.config/awesome/themes/multicolor/icons/color.txt [1ms]
+[2022-03-03T10:09:13.518Z] > git ls-files --stage -- /home/breakcore/.config/awesome/rc(backup).lua [2ms]
+[2022-03-03T10:09:13.522Z] > git cat-file -s 90705c595b9a7fafc0b373be1b458dac6d631d7e [1ms]
+[2022-03-03T10:09:14.359Z] > git ls-files --stage -- /home/breakcore/.config/awesome/themes/multicolor/icons/color.txt [1ms]

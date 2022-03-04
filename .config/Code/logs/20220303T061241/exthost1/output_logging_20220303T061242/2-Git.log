@@ -1,0 +1,5 @@
+[2022-03-03T10:12:42.655Z] Validating found git in: git
+[2022-03-03T10:12:42.672Z] Using git 2.35.1 from git
+[2022-03-03T10:12:42.691Z] > git rev-parse --git-dir [2ms]
+[2022-03-03T10:12:42.694Z] Open repository: /home/breakcore
+[2022-03-03T10:12:43.084Z] > git ls-files --stage -- /home/breakcore/Downloads/awesomewm-dark-theme.user.css [9ms]
