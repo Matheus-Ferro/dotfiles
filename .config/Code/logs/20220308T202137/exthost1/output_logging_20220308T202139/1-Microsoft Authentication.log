@@ -1,0 +1,30 @@
+[Info  - 00:21:39.507] Reading sessions from secret storage...
+[Info  - 00:21:44.651] Got 1 stored sessions
+[Trace  - 00:21:44.651] Read the following stored session with scopes: email offline_access openid profile
+[Info  - 00:21:44.651] Refreshing token for scopes: email offline_access openid profile
+[Info  - 00:21:45.261] Setting token for scopes: email offline_access openid profile
+[Info  - 00:21:45.261] Token refresh success for scopes: email offline_access openid profile
+[Info  - 00:21:45.263] Getting sessions for the following scopes: email offline_access openid profile
+[Info  - 00:21:45.264] Got 1 sessions for scopes: email offline_access openid profile
+[Info  - 00:21:45.264] Token available from cache (for scopes email offline_access openid profile), expires in 4118997 milliseconds
+[Info  - 01:07:31.261] Refreshing token for scopes: email offline_access openid profile
+[Info  - 01:07:31.842] Setting token for scopes: email offline_access openid profile
+[Info  - 01:07:31.842] Token refresh success for scopes: email offline_access openid profile
+[Info  - 01:07:31.842] Triggering change session event...
+[Info  - 01:07:31.845] Getting sessions for the following scopes: email offline_access openid profile
+[Info  - 01:07:31.845] Got 1 sessions for scopes: email offline_access openid profile
+[Info  - 01:07:31.845] Token available from cache (for scopes email offline_access openid profile), expires in 4704997 milliseconds
+[Info  - 01:59:48.509] Refreshing token for scopes: email offline_access openid profile
+[Info  - 01:59:49.474] Setting token for scopes: email offline_access openid profile
+[Info  - 01:59:49.474] Token refresh success for scopes: email offline_access openid profile
+[Info  - 01:59:49.474] Triggering change session event...
+[Info  - 01:59:49.478] Getting sessions for the following scopes: email offline_access openid profile
+[Info  - 01:59:49.478] Got 1 sessions for scopes: email offline_access openid profile
+[Info  - 01:59:49.478] Token available from cache (for scopes email offline_access openid profile), expires in 4425996 milliseconds
+[Info  - 02:49:00.141] Refreshing token for scopes: email offline_access openid profile
+[Info  - 02:49:00.857] Setting token for scopes: email offline_access openid profile
+[Info  - 02:49:00.858] Token refresh success for scopes: email offline_access openid profile
+[Info  - 02:49:00.858] Triggering change session event...
+[Info  - 02:49:00.860] Getting sessions for the following scopes: email offline_access openid profile
+[Info  - 02:49:00.860] Got 1 sessions for scopes: email offline_access openid profile
+[Info  - 02:49:00.860] Token available from cache (for scopes email offline_access openid profile), expires in 5116997 milliseconds

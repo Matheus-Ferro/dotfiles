@@ -1,3 +1,12 @@
-2022/03/04-05:21:08.027 adc Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/04-05:21:08.027 adc Recovering log #91
-2022/03/04-05:21:08.052 adc Reusing old log /home/breakcore/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000091.log 
+2022/03/09-00:06:45.217 2185f Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/09-00:06:45.217 2185f Recovering log #141
+2022/03/09-00:06:45.222 2185f Reusing old log /home/breakcore/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000141.log 
+2022/03/09-00:06:46.667 21834 Level-0 table #146: started
+2022/03/09-00:06:46.676 21834 Level-0 table #146: 893971 bytes OK
+2022/03/09-00:06:46.679 21834 Delete type=0 #141
+2022/03/09-00:06:52.222 21834 Compacting 1@1 + 1@2 files
+2022/03/09-00:06:52.227 21834 Generated table #147@1: 853 keys, 35608 bytes
+2022/03/09-00:06:52.227 21834 Compacted 1@1 + 1@2 files => 35608 bytes
+2022/03/09-00:06:52.230 21834 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/09-00:06:52.231 21834 Delete type=2 #146
+2022/03/09-00:06:52.231 21834 Delete type=2 #143

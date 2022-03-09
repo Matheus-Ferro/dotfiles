@@ -1,3 +1,15 @@
-2022/03/03-02:53:39.591 3 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/03/03-02:53:39.591 3 Recovering log #33
-2022/03/03-02:53:39.593 3 Reusing old log /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/000033.log 
+2022/03/08-07:08:38.728 3 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/08-07:08:38.728 3 Recovering log #36
+2022/03/08-07:08:38.732 3 Reusing old log /home/breakcore/.config/google-chrome/Default/Local Storage/leveldb/000036.log 
+2022/03/08-07:11:40.015 3 Level-0 table #40: started
+2022/03/08-07:11:40.033 3 Level-0 table #40: 14536 bytes OK
+2022/03/08-07:11:40.036 3 Delete type=0 #36
+2022/03/08-07:11:40.036 3 Compacting 4@0 + 1@1 files
+2022/03/08-07:11:40.041 3 Generated table #41@0: 149 keys, 97929 bytes
+2022/03/08-07:11:40.041 3 Compacted 4@0 + 1@1 files => 97929 bytes
+2022/03/08-07:11:40.043 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/08-07:11:40.044 3 Delete type=2 #28
+2022/03/08-07:11:40.044 3 Delete type=2 #31
+2022/03/08-07:11:40.044 3 Delete type=2 #40
+2022/03/08-07:11:40.044 3 Delete type=2 #34
+2022/03/08-07:11:40.044 3 Delete type=2 #37

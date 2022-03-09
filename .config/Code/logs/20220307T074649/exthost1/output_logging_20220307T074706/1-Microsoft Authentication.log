@@ -1,0 +1,9 @@
+[Info  - 11:47:07.59] Reading sessions from secret storage...
+[Info  - 11:47:07.91] Got 1 stored sessions
+[Trace  - 11:47:07.91] Read the following stored session with scopes: email offline_access openid profile
+[Info  - 11:47:07.91] Refreshing token for scopes: email offline_access openid profile
+[Info  - 11:47:07.844] Setting token for scopes: email offline_access openid profile
+[Info  - 11:47:07.845] Token refresh success for scopes: email offline_access openid profile
+[Info  - 11:47:07.849] Getting sessions for the following scopes: email offline_access openid profile
+[Info  - 11:47:07.849] Got 1 sessions for scopes: email offline_access openid profile
+[Info  - 11:47:07.849] Token available from cache (for scopes email offline_access openid profile), expires in 4959995 milliseconds

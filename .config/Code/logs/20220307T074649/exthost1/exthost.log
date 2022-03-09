@@ -1,0 +1,701 @@
+[2022-03-07 07:46:50.873] [exthost] [info] Extension host with pid 20497 started
+[2022-03-07 07:46:50.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-07 07:46:50.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-07 07:46:50.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-07 07:46:50.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-07 07:46:50.958] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-03-07 07:46:50.978] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-07 07:46:50.982] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-03-07 07:46:51.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-07 07:46:51.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-07 07:46:51.215] [exthost] [info] Eager extensions activated
+[2022-03-07 07:46:51.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:46:51.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:46:51.253] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:46:51.456] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:46:52.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-07 07:46:54.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 07:46:54.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 07:46:54.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 07:46:56.758] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-03-07 07:47:05.761] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-07 07:47:05.770] [exthost] [info] Extension host with pid 20497 exiting with code 0
+[2022-03-07 07:47:06.954] [exthost] [info] Extension host with pid 20720 started
+[2022-03-07 07:47:06.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-07 07:47:07.000] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-07 07:47:07.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.003] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.015] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.018] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-07 07:47:07.090] [exthost] [info] Eager extensions activated
+[2022-03-07 07:47:07.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:07.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:07.103] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:07.231] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:07.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-07 07:47:21.039] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-07 07:47:21.042] [exthost] [info] Extension host with pid 20720 exiting with code 0
+[2022-03-07 07:47:22.201] [exthost] [info] Extension host with pid 20908 started
+[2022-03-07 07:47:22.201] [exthost] [info] Skipping acquiring lock for /home/breakcore/.config/Code/User/workspaceStorage/81b721622354cd335c5df656e9ac5a63.
+[2022-03-07 07:47:22.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-07 07:47:22.322] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-07 07:47:22.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-07 07:47:22.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-07 07:47:22.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.465] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.476] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.483] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-07 07:47:22.670] [exthost] [info] Eager extensions activated
+[2022-03-07 07:47:22.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:22.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:22.697] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:22.827] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 07:47:23.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-07 07:47:38.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-07 07:59:51.399] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:51.399] [exthost] [error] undefined
+[2022-03-07 07:59:51.889] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:51.889] [exthost] [error] undefined
+[2022-03-07 07:59:52.050] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:52.050] [exthost] [error] undefined
+[2022-03-07 07:59:52.230] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:52.230] [exthost] [error] undefined
+[2022-03-07 07:59:52.428] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:52.428] [exthost] [error] undefined
+[2022-03-07 07:59:52.683] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:52.683] [exthost] [error] undefined
+[2022-03-07 07:59:52.793] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:52.793] [exthost] [error] undefined
+[2022-03-07 07:59:53.635] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:53.635] [exthost] [error] undefined
+[2022-03-07 07:59:54.282] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:54.282] [exthost] [error] undefined
+[2022-03-07 07:59:54.567] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 07:59:54.567] [exthost] [error] undefined
+[2022-03-07 08:00:01.036] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:01.036] [exthost] [error] undefined
+[2022-03-07 08:00:01.512] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:01.512] [exthost] [error] undefined
+[2022-03-07 08:00:01.621] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:01.621] [exthost] [error] undefined
+[2022-03-07 08:00:03.582] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:03.582] [exthost] [error] undefined
+[2022-03-07 08:00:06.713] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:06.713] [exthost] [error] undefined
+[2022-03-07 08:00:24.758] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:24.758] [exthost] [error] undefined
+[2022-03-07 08:00:27.524] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:27.524] [exthost] [error] undefined
+[2022-03-07 08:00:31.768] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:31.768] [exthost] [error] undefined
+[2022-03-07 08:00:38.171] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:38.171] [exthost] [error] undefined
+[2022-03-07 08:00:51.887] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:51.887] [exthost] [error] undefined
+[2022-03-07 08:00:55.925] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:55.925] [exthost] [error] undefined
+[2022-03-07 08:00:56.214] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:56.214] [exthost] [error] undefined
+[2022-03-07 08:00:56.501] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:56.501] [exthost] [error] undefined
+[2022-03-07 08:00:56.735] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:56.735] [exthost] [error] undefined
+[2022-03-07 08:00:56.897] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:56.897] [exthost] [error] undefined
+[2022-03-07 08:00:57.076] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:57.076] [exthost] [error] undefined
+[2022-03-07 08:00:57.204] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:00:57.204] [exthost] [error] undefined
+[2022-03-07 08:01:03.482] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:03.482] [exthost] [error] undefined
+[2022-03-07 08:01:04.586] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:04.586] [exthost] [error] undefined
+[2022-03-07 08:01:12.464] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:12.464] [exthost] [error] undefined
+[2022-03-07 08:01:13.600] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:13.600] [exthost] [error] undefined
+[2022-03-07 08:01:15.281] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:15.281] [exthost] [error] undefined
+[2022-03-07 08:01:17.429] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:17.429] [exthost] [error] undefined
+[2022-03-07 08:01:18.334] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:18.334] [exthost] [error] undefined
+[2022-03-07 08:01:19.905] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:19.905] [exthost] [error] undefined
+[2022-03-07 08:01:27.791] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:27.791] [exthost] [error] undefined
+[2022-03-07 08:01:28.418] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:28.418] [exthost] [error] undefined
+[2022-03-07 08:01:28.580] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:28.580] [exthost] [error] undefined
+[2022-03-07 08:01:28.721] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:28.721] [exthost] [error] undefined
+[2022-03-07 08:01:28.957] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:28.957] [exthost] [error] undefined
+[2022-03-07 08:01:38.147] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:38.147] [exthost] [error] undefined
+[2022-03-07 08:01:38.866] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:38.866] [exthost] [error] undefined
+[2022-03-07 08:01:39.424] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:39.424] [exthost] [error] undefined
+[2022-03-07 08:01:39.811] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:39.811] [exthost] [error] undefined
+[2022-03-07 08:01:41.025] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:41.025] [exthost] [error] undefined
+[2022-03-07 08:01:41.120] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:41.120] [exthost] [error] undefined
+[2022-03-07 08:01:41.277] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:41.277] [exthost] [error] undefined
+[2022-03-07 08:01:41.405] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:41.405] [exthost] [error] undefined
+[2022-03-07 08:01:44.412] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:44.412] [exthost] [error] undefined
+[2022-03-07 08:01:45.400] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:01:45.400] [exthost] [error] undefined
+[2022-03-07 08:02:13.684] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:13.684] [exthost] [error] undefined
+[2022-03-07 08:02:14.766] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:14.766] [exthost] [error] undefined
+[2022-03-07 08:02:16.375] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:16.376] [exthost] [error] undefined
+[2022-03-07 08:02:17.854] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:17.854] [exthost] [error] undefined
+[2022-03-07 08:02:18.728] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:18.728] [exthost] [error] undefined
+[2022-03-07 08:02:20.060] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:20.060] [exthost] [error] undefined
+[2022-03-07 08:02:28.914] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:28.914] [exthost] [error] undefined
+[2022-03-07 08:02:30.311] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:30.311] [exthost] [error] undefined
+[2022-03-07 08:02:36.108] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:36.108] [exthost] [error] undefined
+[2022-03-07 08:02:37.718] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:02:37.718] [exthost] [error] undefined
+[2022-03-07 08:03:07.030] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:07.030] [exthost] [error] undefined
+[2022-03-07 08:03:07.800] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:07.800] [exthost] [error] undefined
+[2022-03-07 08:03:09.006] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:09.006] [exthost] [error] undefined
+[2022-03-07 08:03:26.246] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:26.246] [exthost] [error] undefined
+[2022-03-07 08:03:26.853] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:26.853] [exthost] [error] undefined
+[2022-03-07 08:03:28.168] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:28.168] [exthost] [error] undefined
+[2022-03-07 08:03:28.775] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:28.775] [exthost] [error] undefined
+[2022-03-07 08:03:32.304] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:32.304] [exthost] [error] undefined
+[2022-03-07 08:03:48.889] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:48.889] [exthost] [error] undefined
+[2022-03-07 08:03:49.642] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:49.642] [exthost] [error] undefined
+[2022-03-07 08:03:50.870] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:03:50.870] [exthost] [error] undefined
+[2022-03-07 08:04:37.660] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:04:37.660] [exthost] [error] undefined
+[2022-03-07 08:10:32.025] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:10:32.025] [exthost] [error] undefined
+[2022-03-07 08:10:44.967] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:10:44.967] [exthost] [error] undefined
+[2022-03-07 08:10:46.586] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:10:46.586] [exthost] [error] undefined
+[2022-03-07 08:12:16.607] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:16.607] [exthost] [error] undefined
+[2022-03-07 08:12:19.463] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:19.463] [exthost] [error] undefined
+[2022-03-07 08:12:27.126] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:27.126] [exthost] [error] undefined
+[2022-03-07 08:12:31.659] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:31.659] [exthost] [error] undefined
+[2022-03-07 08:12:37.640] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:37.640] [exthost] [error] undefined
+[2022-03-07 08:12:43.875] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:43.876] [exthost] [error] undefined
+[2022-03-07 08:12:44.379] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:44.379] [exthost] [error] undefined
+[2022-03-07 08:12:44.487] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:44.487] [exthost] [error] undefined
+[2022-03-07 08:12:45.170] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:45.171] [exthost] [error] undefined
+[2022-03-07 08:12:45.296] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:45.296] [exthost] [error] undefined
+[2022-03-07 08:12:47.428] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:47.428] [exthost] [error] undefined
+[2022-03-07 08:12:49.896] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:49.896] [exthost] [error] undefined
+[2022-03-07 08:12:54.598] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:12:54.598] [exthost] [error] undefined
+[2022-03-07 08:13:00.910] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:00.911] [exthost] [error] undefined
+[2022-03-07 08:13:01.073] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:01.073] [exthost] [error] undefined
+[2022-03-07 08:13:01.236] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:01.236] [exthost] [error] undefined
+[2022-03-07 08:13:01.739] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:01.739] [exthost] [error] undefined
+[2022-03-07 08:13:01.916] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:01.916] [exthost] [error] undefined
+[2022-03-07 08:13:02.044] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:02.045] [exthost] [error] undefined
+[2022-03-07 08:13:02.209] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:13:02.209] [exthost] [error] undefined
+[2022-03-07 08:23:30.696] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:30.696] [exthost] [error] undefined
+[2022-03-07 08:23:31.828] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:31.828] [exthost] [error] undefined
+[2022-03-07 08:23:34.676] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:34.676] [exthost] [error] undefined
+[2022-03-07 08:23:35.833] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:35.833] [exthost] [error] undefined
+[2022-03-07 08:23:39.971] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:39.971] [exthost] [error] undefined
+[2022-03-07 08:23:40.202] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:40.202] [exthost] [error] undefined
+[2022-03-07 08:23:41.771] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:41.771] [exthost] [error] undefined
+[2022-03-07 08:23:42.565] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:42.565] [exthost] [error] undefined
+[2022-03-07 08:23:44.536] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:44.536] [exthost] [error] undefined
+[2022-03-07 08:23:53.557] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:23:53.557] [exthost] [error] undefined
+[2022-03-07 08:29:24.162] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:24.162] [exthost] [error] undefined
+[2022-03-07 08:29:25.809] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:25.809] [exthost] [error] undefined
+[2022-03-07 08:29:25.972] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:25.972] [exthost] [error] undefined
+[2022-03-07 08:29:26.116] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:26.116] [exthost] [error] undefined
+[2022-03-07 08:29:26.223] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:26.223] [exthost] [error] undefined
+[2022-03-07 08:29:26.624] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:26.624] [exthost] [error] undefined
+[2022-03-07 08:29:27.072] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:27.072] [exthost] [error] undefined
+[2022-03-07 08:29:27.986] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:27.986] [exthost] [error] undefined
+[2022-03-07 08:29:28.040] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:28.040] [exthost] [error] undefined
+[2022-03-07 08:29:28.274] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:28.274] [exthost] [error] undefined
+[2022-03-07 08:29:28.509] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:28.509] [exthost] [error] undefined
+[2022-03-07 08:29:28.579] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:28.579] [exthost] [error] undefined
+[2022-03-07 08:29:28.795] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:28.795] [exthost] [error] undefined
+[2022-03-07 08:29:29.717] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:29.718] [exthost] [error] undefined
+[2022-03-07 08:29:30.150] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:30.150] [exthost] [error] undefined
+[2022-03-07 08:29:30.725] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:30.725] [exthost] [error] undefined
+[2022-03-07 08:29:30.828] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:30.828] [exthost] [error] undefined
+[2022-03-07 08:29:30.973] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:30.973] [exthost] [error] undefined
+[2022-03-07 08:29:31.100] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:31.100] [exthost] [error] undefined
+[2022-03-07 08:29:31.388] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:31.388] [exthost] [error] undefined
+[2022-03-07 08:29:31.624] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:31.624] [exthost] [error] undefined
+[2022-03-07 08:29:32.435] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:32.435] [exthost] [error] undefined
+[2022-03-07 08:29:32.844] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:32.844] [exthost] [error] undefined
+[2022-03-07 08:29:33.024] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:33.024] [exthost] [error] undefined
+[2022-03-07 08:29:33.151] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:33.151] [exthost] [error] undefined
+[2022-03-07 08:29:33.313] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:33.313] [exthost] [error] undefined
+[2022-03-07 08:29:33.636] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:33.636] [exthost] [error] undefined
+[2022-03-07 08:29:35.074] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:35.074] [exthost] [error] undefined
+[2022-03-07 08:29:35.849] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:35.850] [exthost] [error] undefined
+[2022-03-07 08:29:37.113] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:37.113] [exthost] [error] undefined
+[2022-03-07 08:29:38.534] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:38.534] [exthost] [error] undefined
+[2022-03-07 08:29:39.001] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:39.001] [exthost] [error] undefined
+[2022-03-07 08:29:40.854] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:40.854] [exthost] [error] undefined
+[2022-03-07 08:29:41.336] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:41.336] [exthost] [error] undefined
+[2022-03-07 08:29:41.628] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:41.628] [exthost] [error] undefined
+[2022-03-07 08:29:41.931] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:41.931] [exthost] [error] undefined
+[2022-03-07 08:29:42.723] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:42.723] [exthost] [error] undefined
+[2022-03-07 08:29:42.978] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:42.978] [exthost] [error] undefined
+[2022-03-07 08:29:43.535] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:43.535] [exthost] [error] undefined
+[2022-03-07 08:29:55.139] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:55.139] [exthost] [error] undefined
+[2022-03-07 08:29:55.501] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:55.501] [exthost] [error] undefined
+[2022-03-07 08:29:56.125] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:56.125] [exthost] [error] undefined
+[2022-03-07 08:29:56.288] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:56.288] [exthost] [error] undefined
+[2022-03-07 08:29:56.650] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:56.650] [exthost] [error] undefined
+[2022-03-07 08:29:56.739] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:56.739] [exthost] [error] undefined
+[2022-03-07 08:29:57.423] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:57.423] [exthost] [error] undefined
+[2022-03-07 08:29:57.980] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:57.980] [exthost] [error] undefined
+[2022-03-07 08:29:58.362] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:58.362] [exthost] [error] undefined
+[2022-03-07 08:29:58.771] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:58.771] [exthost] [error] undefined
+[2022-03-07 08:29:58.988] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:58.988] [exthost] [error] undefined
+[2022-03-07 08:29:59.114] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:29:59.114] [exthost] [error] undefined
+[2022-03-07 08:30:00.142] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:00.142] [exthost] [error] undefined
+[2022-03-07 08:30:01.167] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:01.167] [exthost] [error] undefined
+[2022-03-07 08:30:01.918] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:01.918] [exthost] [error] undefined
+[2022-03-07 08:30:02.046] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:02.046] [exthost] [error] undefined
+[2022-03-07 08:30:02.321] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:02.321] [exthost] [error] undefined
+[2022-03-07 08:30:02.459] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:02.459] [exthost] [error] undefined
+[2022-03-07 08:30:02.714] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:02.714] [exthost] [error] undefined
+[2022-03-07 08:30:02.945] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:02.945] [exthost] [error] undefined
+[2022-03-07 08:30:03.055] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:03.055] [exthost] [error] undefined
+[2022-03-07 08:30:03.216] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:03.216] [exthost] [error] undefined
+[2022-03-07 08:30:03.722] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:03.722] [exthost] [error] undefined
+[2022-03-07 08:30:13.346] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:13.346] [exthost] [error] undefined
+[2022-03-07 08:30:13.755] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:13.755] [exthost] [error] undefined
+[2022-03-07 08:30:15.234] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:15.234] [exthost] [error] undefined
+[2022-03-07 08:30:15.755] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:15.755] [exthost] [error] undefined
+[2022-03-07 08:30:15.878] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:15.878] [exthost] [error] undefined
+[2022-03-07 08:30:16.131] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:16.131] [exthost] [error] undefined
+[2022-03-07 08:30:16.294] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:16.294] [exthost] [error] undefined
+[2022-03-07 08:30:16.472] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:16.472] [exthost] [error] undefined
+[2022-03-07 08:30:16.562] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:16.562] [exthost] [error] undefined
+[2022-03-07 08:30:22.664] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:22.664] [exthost] [error] undefined
+[2022-03-07 08:30:23.026] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:23.026] [exthost] [error] undefined
+[2022-03-07 08:30:23.750] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:23.750] [exthost] [error] undefined
+[2022-03-07 08:30:24.304] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:24.304] [exthost] [error] undefined
+[2022-03-07 08:30:24.950] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:24.950] [exthost] [error] undefined
+[2022-03-07 08:30:25.056] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:25.056] [exthost] [error] undefined
+[2022-03-07 08:30:25.649] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:25.649] [exthost] [error] undefined
+[2022-03-07 08:30:25.775] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:25.775] [exthost] [error] undefined
+[2022-03-07 08:30:26.352] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:26.352] [exthost] [error] undefined
+[2022-03-07 08:30:27.017] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:27.017] [exthost] [error] undefined
+[2022-03-07 08:30:27.432] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:27.432] [exthost] [error] undefined
+[2022-03-07 08:30:29.180] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:29.180] [exthost] [error] undefined
+[2022-03-07 08:30:29.628] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:29.628] [exthost] [error] undefined
+[2022-03-07 08:30:31.122] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:31.122] [exthost] [error] undefined
+[2022-03-07 08:30:31.877] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:31.877] [exthost] [error] undefined
+[2022-03-07 08:30:32.019] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:32.019] [exthost] [error] undefined
+[2022-03-07 08:30:32.109] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:32.109] [exthost] [error] undefined
+[2022-03-07 08:30:32.252] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:32.252] [exthost] [error] undefined
+[2022-03-07 08:30:32.360] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:32.360] [exthost] [error] undefined
+[2022-03-07 08:30:35.850] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:35.850] [exthost] [error] undefined
+[2022-03-07 08:30:36.498] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:36.498] [exthost] [error] undefined
+[2022-03-07 08:30:36.731] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:36.731] [exthost] [error] undefined
+[2022-03-07 08:30:37.090] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:37.090] [exthost] [error] undefined
+[2022-03-07 08:30:37.253] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:37.253] [exthost] [error] undefined
+[2022-03-07 08:30:37.451] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:37.451] [exthost] [error] undefined
+[2022-03-07 08:30:37.559] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 08:30:37.559] [exthost] [error] undefined
+[2022-03-07 09:13:34.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 09:13:34.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 10:08:29.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-03-07 10:08:43.573] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:43.573] [exthost] [error] undefined
+[2022-03-07 10:08:44.038] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:44.038] [exthost] [error] undefined
+[2022-03-07 10:08:44.163] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:44.163] [exthost] [error] undefined
+[2022-03-07 10:08:44.290] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:44.290] [exthost] [error] undefined
+[2022-03-07 10:08:44.435] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:44.435] [exthost] [error] undefined
+[2022-03-07 10:08:45.101] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:45.101] [exthost] [error] undefined
+[2022-03-07 10:08:45.496] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:45.497] [exthost] [error] undefined
+[2022-03-07 10:08:45.658] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:45.658] [exthost] [error] undefined
+[2022-03-07 10:08:45.856] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:45.856] [exthost] [error] undefined
+[2022-03-07 10:08:45.982] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:45.982] [exthost] [error] undefined
+[2022-03-07 10:08:46.073] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:46.073] [exthost] [error] undefined
+[2022-03-07 10:08:46.217] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:46.217] [exthost] [error] undefined
+[2022-03-07 10:08:46.378] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:46.378] [exthost] [error] undefined
+[2022-03-07 10:08:50.637] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:50.637] [exthost] [error] undefined
+[2022-03-07 10:08:56.908] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:56.908] [exthost] [error] undefined
+[2022-03-07 10:08:58.936] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:08:58.936] [exthost] [error] undefined
+[2022-03-07 10:09:01.116] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:01.116] [exthost] [error] undefined
+[2022-03-07 10:09:04.156] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:04.156] [exthost] [error] undefined
+[2022-03-07 10:09:43.580] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:43.580] [exthost] [error] undefined
+[2022-03-07 10:09:46.010] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:46.010] [exthost] [error] undefined
+[2022-03-07 10:09:46.728] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:46.728] [exthost] [error] undefined
+[2022-03-07 10:09:47.033] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:47.033] [exthost] [error] undefined
+[2022-03-07 10:09:47.231] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:47.231] [exthost] [error] undefined
+[2022-03-07 10:09:49.983] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:49.983] [exthost] [error] undefined
+[2022-03-07 10:09:51.250] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:09:51.250] [exthost] [error] undefined
+[2022-03-07 10:10:44.323] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:10:44.323] [exthost] [error] undefined
+[2022-03-07 10:13:47.847] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:13:47.847] [exthost] [error] undefined
+[2022-03-07 10:13:49.670] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:13:49.670] [exthost] [error] undefined
+[2022-03-07 10:14:16.758] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:14:16.758] [exthost] [error] undefined
+[2022-03-07 10:14:17.428] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:14:17.428] [exthost] [error] undefined
+[2022-03-07 10:29:59.299] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:29:59.299] [exthost] [error] undefined
+[2022-03-07 10:31:29.269] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:29.269] [exthost] [error] undefined
+[2022-03-07 10:31:33.372] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:33.372] [exthost] [error] undefined
+[2022-03-07 10:31:40.404] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:40.404] [exthost] [error] undefined
+[2022-03-07 10:31:42.184] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:42.184] [exthost] [error] undefined
+[2022-03-07 10:31:42.597] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:42.597] [exthost] [error] undefined
+[2022-03-07 10:31:42.758] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:31:42.758] [exthost] [error] undefined
+[2022-03-07 10:32:15.339] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:15.339] [exthost] [error] undefined
+[2022-03-07 10:32:16.634] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:16.634] [exthost] [error] undefined
+[2022-03-07 10:32:17.892] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:17.892] [exthost] [error] undefined
+[2022-03-07 10:32:19.263] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:19.263] [exthost] [error] undefined
+[2022-03-07 10:32:20.629] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:20.629] [exthost] [error] undefined
+[2022-03-07 10:32:38.587] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:38.587] [exthost] [error] undefined
+[2022-03-07 10:32:43.085] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:43.085] [exthost] [error] undefined
+[2022-03-07 10:32:52.585] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:52.585] [exthost] [error] undefined
+[2022-03-07 10:32:54.328] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:54.328] [exthost] [error] undefined
+[2022-03-07 10:32:54.579] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:54.579] [exthost] [error] undefined
+[2022-03-07 10:32:54.724] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:54.724] [exthost] [error] undefined
+[2022-03-07 10:32:54.975] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:54.975] [exthost] [error] undefined
+[2022-03-07 10:32:55.173] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:32:55.173] [exthost] [error] undefined
+[2022-03-07 10:33:12.874] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:33:12.874] [exthost] [error] undefined
+[2022-03-07 10:33:27.843] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:33:27.843] [exthost] [error] undefined
+[2022-03-07 10:33:28.236] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:33:28.236] [exthost] [error] undefined
+[2022-03-07 10:41:13.744] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:41:13.744] [exthost] [error] undefined
+[2022-03-07 10:41:19.104] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:41:19.104] [exthost] [error] undefined
+[2022-03-07 10:41:23.098] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:41:23.098] [exthost] [error] undefined
+[2022-03-07 10:43:49.259] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:43:49.259] [exthost] [error] undefined
+[2022-03-07 10:43:52.037] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:43:52.037] [exthost] [error] undefined
+[2022-03-07 10:43:52.199] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:43:52.199] [exthost] [error] undefined
+[2022-03-07 10:43:59.978] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:43:59.978] [exthost] [error] undefined
+[2022-03-07 10:44:08.698] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:44:08.698] [exthost] [error] undefined
+[2022-03-07 10:44:09.472] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:44:09.472] [exthost] [error] undefined
+[2022-03-07 10:44:09.866] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:44:09.866] [exthost] [error] undefined
+[2022-03-07 10:46:14.476] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:46:14.476] [exthost] [error] undefined
+[2022-03-07 10:46:21.821] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:46:21.821] [exthost] [error] undefined
+[2022-03-07 10:47:23.474] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:47:23.474] [exthost] [error] undefined
+[2022-03-07 10:50:13.933] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:50:13.933] [exthost] [error] undefined
+[2022-03-07 10:50:40.862] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:50:40.862] [exthost] [error] undefined
+[2022-03-07 10:50:51.495] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:50:51.495] [exthost] [error] undefined
+[2022-03-07 10:51:31.251] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:31.251] [exthost] [error] undefined
+[2022-03-07 10:51:34.646] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:34.646] [exthost] [error] undefined
+[2022-03-07 10:51:37.194] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:37.194] [exthost] [error] undefined
+[2022-03-07 10:51:37.407] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:37.407] [exthost] [error] undefined
+[2022-03-07 10:51:38.116] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:38.117] [exthost] [error] undefined
+[2022-03-07 10:51:39.913] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:51:39.913] [exthost] [error] undefined
+[2022-03-07 10:55:58.498] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:55:58.498] [exthost] [error] undefined
+[2022-03-07 10:56:00.347] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:00.347] [exthost] [error] undefined
+[2022-03-07 10:56:01.552] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:01.552] [exthost] [error] undefined
+[2022-03-07 10:56:04.108] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:04.108] [exthost] [error] undefined
+[2022-03-07 10:56:04.754] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:04.754] [exthost] [error] undefined
+[2022-03-07 10:56:05.006] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:05.006] [exthost] [error] undefined
+[2022-03-07 10:56:05.116] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:56:05.116] [exthost] [error] undefined
+[2022-03-07 10:59:20.313] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:59:20.314] [exthost] [error] undefined
+[2022-03-07 10:59:20.942] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:59:20.942] [exthost] [error] undefined
+[2022-03-07 10:59:21.537] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:59:21.537] [exthost] [error] undefined
+[2022-03-07 10:59:25.837] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:59:25.837] [exthost] [error] undefined
+[2022-03-07 10:59:25.925] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 10:59:25.925] [exthost] [error] undefined
+[2022-03-07 11:01:04.250] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:01:04.250] [exthost] [error] undefined
+[2022-03-07 11:01:04.377] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:01:04.377] [exthost] [error] undefined
+[2022-03-07 11:01:05.042] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:01:05.042] [exthost] [error] undefined
+[2022-03-07 11:01:06.568] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:01:06.568] [exthost] [error] undefined
+[2022-03-07 11:01:06.678] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:01:06.678] [exthost] [error] undefined
+[2022-03-07 11:05:29.678] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:05:29.678] [exthost] [error] undefined
+[2022-03-07 11:05:44.354] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:05:44.354] [exthost] [error] undefined
+[2022-03-07 11:05:51.225] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:05:51.226] [exthost] [error] undefined
+[2022-03-07 11:06:04.032] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:06:04.032] [exthost] [error] undefined
+[2022-03-07 11:12:05.010] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:12:05.010] [exthost] [error] undefined
+[2022-03-07 11:13:22.820] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:13:22.820] [exthost] [error] undefined
+[2022-03-07 11:13:23.526] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:13:23.526] [exthost] [error] undefined
+[2022-03-07 11:22:09.534] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:09.534] [exthost] [error] undefined
+[2022-03-07 11:22:15.371] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:15.371] [exthost] [error] undefined
+[2022-03-07 11:22:16.449] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:16.449] [exthost] [error] undefined
+[2022-03-07 11:22:19.658] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:19.658] [exthost] [error] undefined
+[2022-03-07 11:22:22.405] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:22.405] [exthost] [error] undefined
+[2022-03-07 11:22:47.588] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:47.588] [exthost] [error] undefined
+[2022-03-07 11:22:48.596] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:48.596] [exthost] [error] undefined
+[2022-03-07 11:22:52.951] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:22:52.951] [exthost] [error] undefined
+[2022-03-07 11:23:58.661] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:23:58.661] [exthost] [error] undefined
+[2022-03-07 11:24:00.482] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:24:00.482] [exthost] [error] undefined
+[2022-03-07 11:24:03.663] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:24:03.663] [exthost] [error] undefined
+[2022-03-07 11:24:23.739] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:24:23.739] [exthost] [error] undefined
+[2022-03-07 11:24:28.924] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:24:28.924] [exthost] [error] undefined
+[2022-03-07 11:25:45.389] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:25:45.389] [exthost] [error] undefined
+[2022-03-07 11:25:46.879] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:25:46.879] [exthost] [error] undefined
+[2022-03-07 11:26:04.637] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:26:04.637] [exthost] [error] undefined
+[2022-03-07 11:30:23.317] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-03-07 11:30:23.317] [exthost] [error] undefined
+[2022-03-07 12:44:25.884] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-07 12:44:25.898] [exthost] [info] Extension host with pid 20908 exiting with code 0

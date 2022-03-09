@@ -9,6 +9,10 @@
                         "label": "&&New File"
                     },
                     {
+                        "id": "welcome.showNewFileEntries",
+                        "label": "New File..."
+                    },
+                    {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
                     },
@@ -28,14 +32,13 @@
                         "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.33",
+                        "id": "submenuitem.34",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -44,6 +47,8 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "fsPath": "/home/breakcore/curso_progbr",
+                                        "external": "file:///home/breakcore/curso_progbr",
                                         "path": "/home/breakcore/curso_progbr",
                                         "scheme": "file"
                                     },
@@ -52,6 +57,39 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/awesome/picom.conf",
+                                        "path": "/home/breakcore/.config/awesome/picom.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/picom.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.zshrc",
+                                        "path": "/home/breakcore/.zshrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.zshrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/awesome/rc.lua",
+                                        "path": "/home/breakcore/.config/awesome/rc.lua",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/awesome/rc.lua"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -101,17 +139,6 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/awesome/rc.lua",
-                                        "path": "/home/breakcore/.config/awesome/rc.lua",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/awesome/rc.lua"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/breakcore/.config/pamac/config",
                                         "path": "/home/breakcore/.config/pamac/config",
                                         "scheme": "file"
@@ -140,28 +167,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/awesome/system-overview"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/rofi/config.rasi",
-                                        "path": "/home/breakcore/.config/rofi/config.rasi",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/rofi/config.rasi"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
-                                        "path": "/home/breakcore/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.themes/Orchis-yellow-dark/gtk-3.0/gtk.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -219,7 +224,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -292,6 +297,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -461,7 +470,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.22",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -487,7 +496,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -515,7 +525,7 @@
                                     "label": "&&Move Side Bar Right"
                                 },
                                 {
-                                    "id": "submenuitem.31",
+                                    "id": "submenuitem.32",
                                     "label": "Panel Position",
                                     "submenu": {
                                         "items": [
@@ -536,7 +546,7 @@
                                     }
                                 },
                                 {
-                                    "id": "submenuitem.30",
+                                    "id": "submenuitem.31",
                                     "label": "Align Panel",
                                     "submenu": {
                                         "items": [
@@ -579,7 +589,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.28",
+                        "id": "submenuitem.29",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -735,14 +745,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.35",
+                        "id": "submenuitem.36",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -791,7 +800,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.36",
+                        "id": "submenuitem.37",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -993,7 +1002,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1190,6 +1199,10 @@
                 "label": "Ctrl+N",
                 "userSettingsLabel": "ctrl+n"
             },
+            "welcome.showNewFileEntries": {
+                "label": "Ctrl+Alt+Super+N",
+                "userSettingsLabel": "ctrl+alt+meta+n"
+            },
             "workbench.action.newWindow": {
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
@@ -1241,6 +1254,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1327,6 +1345,10 @@
                 "label": "Alt+Down",
                 "userSettingsLabel": "alt+down"
             },
+            "editor.action.duplicateSelection": {
+                "label": "Ctrl+D",
+                "userSettingsLabel": "ctrl+d"
+            },
             "editor.action.insertCursorAbove": {
                 "label": "Shift+Alt+Up",
                 "userSettingsLabel": "shift+alt+up"
@@ -1338,10 +1360,6 @@
             "editor.action.insertCursorAtEndOfEachLineSelected": {
                 "label": "Shift+Alt+I",
                 "userSettingsLabel": "shift+alt+i"
-            },
-            "editor.action.addSelectionToNextFindMatch": {
-                "label": "Ctrl+D",
-                "userSettingsLabel": "ctrl+d"
             },
             "editor.action.selectHighlights": {
                 "label": "Ctrl+Shift+L",
@@ -1621,20 +1639,21 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 400,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/breakcore/.config/Code/Backups/1646290415966",
+            "folder": "file:///home/breakcore/curso_progbr",
+            "backupPath": "/home/breakcore/.config/Code/Backups/2220029cf6fd1175c45b5cad10daa26b",
             "uiState": {
-                "mode": 0,
-                "x": 1932,
-                "y": 32,
-                "width": 2536,
-                "height": 1016
+                "mode": 1,
+                "x": 1922,
+                "y": 2,
+                "width": 2556,
+                "height": 1076
             }
         },
         "openedWindows": []
