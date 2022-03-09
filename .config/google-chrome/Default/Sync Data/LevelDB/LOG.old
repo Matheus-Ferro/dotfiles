@@ -1,6 +1,0 @@
-2022/03/08-07:08:38.772 4ca9 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/03/08-07:08:38.773 4ca9 Recovering log #38
-2022/03/08-07:08:38.779 4ca9 Reusing old log /home/breakcore/.config/google-chrome/Default/Sync Data/LevelDB/000038.log 
-2022/03/08-11:03:11.248 22fe0 Level-0 table #43: started
-2022/03/08-11:03:11.275 22fe0 Level-0 table #43: 95090 bytes OK
-2022/03/08-11:03:11.278 22fe0 Delete type=0 #38

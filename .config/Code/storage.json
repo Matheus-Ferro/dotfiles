@@ -38,7 +38,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -47,8 +48,6 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/breakcore/curso_progbr",
-                                        "external": "file:///home/breakcore/curso_progbr",
                                         "path": "/home/breakcore/curso_progbr",
                                         "scheme": "file"
                                     },
@@ -57,6 +56,39 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/cutefishos/dock_pinned.conf",
+                                        "path": "/home/breakcore/.config/cutefishos/dock_pinned.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/cutefishos/dock_pinned.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/arcolinux-tweak-tool/settings.ini",
+                                        "path": "/home/breakcore/.config/arcolinux-tweak-tool/settings.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/arcolinux-tweak-tool/settings.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/breakcore/.config/arcologout/arcologout.conf",
+                                        "path": "/home/breakcore/.config/arcologout/arcologout.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/arcologout/arcologout.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -134,39 +166,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/awesome/rc(backup).lua"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/pamac/config",
-                                        "path": "/home/breakcore/.config/pamac/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/pamac/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/share/rofi/themes/android_notification.rasi",
-                                        "path": "/usr/share/rofi/themes/android_notification.rasi",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/share/rofi/themes/android_notification.rasi"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/breakcore/.config/awesome/system-overview",
-                                        "path": "/home/breakcore/.config/awesome/system-overview",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/awesome/system-overview"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -297,10 +296,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -496,8 +491,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -736,7 +730,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -745,7 +740,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1255,11 +1251,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1639,20 +1630,19 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 400,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/breakcore/curso_progbr",
-            "backupPath": "/home/breakcore/.config/Code/Backups/2220029cf6fd1175c45b5cad10daa26b",
+            "backupPath": "/home/breakcore/.config/Code/Backups/1646799989953",
             "uiState": {
                 "mode": 1,
-                "x": 1922,
+                "x": 2,
                 "y": 2,
-                "width": 2556,
+                "width": 956,
                 "height": 1076
             }
         },

@@ -1,6 +1,0 @@
-2022/03/01-18:43:39.890 157e5 Reusing MANIFEST /home/breakcore/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/01-18:43:39.890 157e5 Recovering log #3
-2022/03/01-18:43:39.913 157e5 Reusing old log /home/breakcore/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
-2022/03/01-19:07:36.122 18345 Level-0 table #5: started
-2022/03/01-19:07:36.144 18345 Level-0 table #5: 1536002 bytes OK
-2022/03/01-19:07:36.146 18345 Delete type=0 #3
