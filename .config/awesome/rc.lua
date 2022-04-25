@@ -302,7 +302,7 @@ globalkeys = my_table.join(
     -- {{{ Personal keybindings
     awful.key({ modkey }, "b", function () awful.util.spawn( "firefox" ) end,
         {description = "Firefox", group = "1- Programs"}),
-    awful.key({ modkey }, "y", function () awful.util.spawn( "/opt/google/chrome/google-chrome --profile-directory=Default --app-id=cinhimbnkkaeohfgghhklpknlkffjgod" ) end,
+    awful.key({ modkey }, "y", function () awful.util.spawn( "/usr/bin/chromium --profile-directory=Default --app-id=cinhimbnkkaeohfgghhklpknlkffjgod" ) end,
         {description = "YouTube Music", group = "1- Programs"}),
 
     -- super + ... Programs
@@ -392,6 +392,11 @@ globalkeys = my_table.join(
               {description = "Swap With Previous Client by Index", group = "0- Window Manager"}),
     awful.key({ modkey }, "o", function () awful.screen.focus_relative( 1) end,
               {description = "Focus The Next Screen", group = "0- Window Manager"}),
+
+    awful.key({ modkey,          }, "j", function () awful.client.focus.byidx( 1) end,
+              {description = "Focus Next By Index", group = "0- Window Manager"}),
+    awful.key({ modkey,          }, "k", function () awful.client.focus.byidx(-1) end,
+              {description = "Focus Previous By Index", group = "0- Window Manager"}),
 
     -- Show/Hide Wibox
     awful.key({ modkey }, "w", function ()
