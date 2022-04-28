@@ -1,6 +1,0 @@
-[2022-03-09T04:26:11.482Z] Validating found git in: git
-[2022-03-09T04:26:11.491Z] Using git 2.35.1 from git
-[2022-03-09T04:26:11.503Z] > git rev-parse --git-dir [1ms]
-[2022-03-09T04:26:11.505Z] Open repository: /home/breakcore
-[2022-03-09T04:26:11.791Z] > git ls-files --stage -- /home/breakcore/.config/arcolinux-tweak-tool/settings.ini [10ms]
-[2022-03-09T04:26:11.797Z] > git cat-file -s 6f79e81220ded1eccfdd78c94156648dc01da970 [2ms]

@@ -1,8 +1,0 @@
-[2022-03-08 20:21:39.401] [sharedprocess] [info] Starting worker process with pid 28594 (type: fileWatcher, window: 1).
-[2022-03-08 20:21:53.890] [sharedprocess] [info] Getting Manifest... ms-vscode.vscode-typescript-next
-[2022-03-08 20:21:59.955] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
-[2022-03-08 20:22:06.293] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/breakcore/.config/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.7.20220308
-[2022-03-08 20:22:06.601] [sharedprocess] [info] Extracted extension to /home/breakcore/.vscode/extensions/.84f283b6-8925-4c42-b59a-14c409e1fa61: ms-vscode.vscode-typescript-next
-[2022-03-08 20:22:06.628] [sharedprocess] [info] Renamed to /home/breakcore/.vscode/extensions/ms-vscode.vscode-typescript-next-4.7.20220308
-[2022-03-08 20:22:06.629] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
-[2022-03-08 20:22:06.633] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next

@@ -1,8 +1,0 @@
-[2022-03-04 05:20:57.586] [main] [info] update#setState idle
-[2022-03-04 05:20:57.612] [main] [info] ExtensionHostStarterWorker created
-[2022-03-04 05:20:58.375] [main] [info] Starting extension host with pid 2176 (fork() took 5 ms).
-[2022-03-04 05:20:58.375] [main] [info] ExtensionHostStarterWorker.start() took 7 ms.
-[2022-03-04 05:21:27.596] [main] [info] update#setState checking for updates
-[2022-03-04 05:21:27.601] [main] [info] update#setState available for download
-[2022-03-04 10:00:32.306] [main] [info] Waiting for extension host with pid 2176 to exit.
-[2022-03-04 10:00:32.331] [main] [info] Extension host with pid 2176 exited with code: 0, signal: null.

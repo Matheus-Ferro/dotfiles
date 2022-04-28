@@ -1,6 +1,0 @@
-[2022-03-09T04:26:30.379Z] Validating found git in: git
-[2022-03-09T04:26:30.387Z] Using git 2.35.1 from git
-[2022-03-09T04:26:30.613Z] > git rev-parse --git-dir [207ms]
-[2022-03-09T04:26:30.614Z] Open repository: /home/breakcore
-[2022-03-09T04:26:30.932Z] > git ls-files --stage -- /home/breakcore/.config/cutefishos/dock_pinned.conf [1ms]
-[2022-03-09T04:26:30.936Z] > git cat-file -s 9e8fdc5c8d7dc569b917706a88f54557eef95bfa [1ms]

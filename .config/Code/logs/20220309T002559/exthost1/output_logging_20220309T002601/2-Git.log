@@ -1,6 +1,0 @@
-[2022-03-09T04:26:01.223Z] Validating found git in: git
-[2022-03-09T04:26:01.232Z] Using git 2.35.1 from git
-[2022-03-09T04:26:01.481Z] > git rev-parse --git-dir [232ms]
-[2022-03-09T04:26:01.482Z] Open repository: /home/breakcore
-[2022-03-09T04:26:01.798Z] > git ls-files --stage -- /home/breakcore/.config/arcologout/arcologout.conf [1ms]
-[2022-03-09T04:26:01.803Z] > git cat-file -s 26458b3f2abe43d64bca1f0ca82830854b9b970c [1ms]

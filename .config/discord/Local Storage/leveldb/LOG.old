@@ -1,6 +1,0 @@
-2022/03/04-13:53:08.580 1cbc2 Reusing MANIFEST /home/breakcore/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/03/04-13:53:08.580 1cbc2 Recovering log #4
-2022/03/04-13:53:08.581 1cbc2 Reusing old log /home/breakcore/.config/discord/Local Storage/leveldb/000004.log 
-2022/03/04-13:54:09.297 1cbc2 Level-0 table #8: started
-2022/03/04-13:54:09.320 1cbc2 Level-0 table #8: 353931 bytes OK
-2022/03/04-13:54:09.323 1cbc2 Delete type=0 #4

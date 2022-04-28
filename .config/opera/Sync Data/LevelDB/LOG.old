@@ -1,8 +1,0 @@
-2022/02/26-20:59:42.079 cd44 Creating DB /home/breakcore/.config/opera/Sync Data/LevelDB since it was missing.
-2022/02/26-20:59:42.095 cd44 Reusing MANIFEST /home/breakcore/.config/opera/Sync Data/LevelDB/MANIFEST-000001
-2022/02/26-21:12:37.739 f75b Level-0 table #5: started
-2022/02/26-21:12:37.766 f75b Level-0 table #5: 136029 bytes OK
-2022/02/26-21:12:37.769 f75b Delete type=0 #3
-2022/02/26-22:45:12.341 173d5 Level-0 table #7: started
-2022/02/26-22:45:12.368 173d5 Level-0 table #7: 89503 bytes OK
-2022/02/26-22:45:12.373 173d5 Delete type=0 #4
