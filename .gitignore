@@ -74,7 +74,7 @@
 /.config/htop/
 /.config/kde.org/
 /.config/libreoffice/
-/.config/lviv/
+/.config/lvim/
 /.config/menus/
 /.config/nitrogen/
 /.config/nomacs/
@@ -107,3 +107,9 @@
 /.config/systemsettingsrc
 /.config/user-dirs.dirs
 /.config/yad.conf
+/.config/BraveSoftware/
+/.config/terminology/
+/.elementary/
+/.steam/
+/.steampath
+/.steampid
