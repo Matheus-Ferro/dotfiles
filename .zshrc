@@ -1,3 +1,4 @@
+source ~/.zsh/zsh-snap/znap.zsh
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
@@ -7,6 +8,10 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 ZSH_THEME="jonathan"
 
+#Plugins
+znap source marlonrichert/zsh-autocomplete
+znap source babasbot/auto-fortune-cowsay-zsh
+znap source MichaelAquilina/zsh-auto-notify
 
 plugins=(git)
 
@@ -25,10 +30,10 @@ unsetopt SHARE_HISTORY
 
 export HISTCONTROL=ignoreboth:erasedups
 
-# Make nano the default editor
+# Make vim the default editor
 
-export EDITOR='nano'
-export VISUAL='nano'
+export EDITOR='vim'
+export VISUAL='vim'
 
 #PS1='[\u@\h \W]\$ '
 
@@ -335,7 +340,7 @@ alias personal='cp -Rf /personal/* ~'
 [[ -f ~/.zshrc-personal ]] && . ~/.zshrc-personal
 
 # reporting tools - install when not installed
-neofetch
+#neofetch
 #screenfetch
 #alsi
 #paleofetch
@@ -369,3 +374,7 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

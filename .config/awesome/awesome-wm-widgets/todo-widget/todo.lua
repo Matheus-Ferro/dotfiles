@@ -141,7 +141,7 @@ local function worker(user_args)
 
     local args = user_args or {}
 
-    local icon = args.icon or WIDGET_DIR .. '/checkbox-checked-symbolic.svg'
+    local icon = args.icon or WIDGET_DIR .. '/checkbox.png'
 
     todo_widget.widget:set_icon(icon)
 

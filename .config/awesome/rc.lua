@@ -96,17 +96,12 @@ awful.spawn.with_shell(
 
 -- {{{ Variable definitions
 
-local themes = {
-    "multicolor",		-- 1
-    "powerarrow",      		-- 2
-    "powerarrow-blue",	 	-- 3
-    "blackburn",		-- 4
-    "copland",        -- 5    
-    "holo",         --6
+local themes = {   
+    "holo",         --1
 }
 
 -- choose your theme here
-local chosen_theme = themes[6]
+local chosen_theme = themes[1]
 
 local theme_path = string.format("%s/.config/awesome/themes/%s/theme.lua", os.getenv("HOME"), chosen_theme)
 beautiful.init(theme_path)
@@ -329,7 +324,7 @@ globalkeys = my_table.join(
         {description = "Alacritty", group = "1- Programs"}),
     awful.key({ modkey }, "v", function () awful.util.spawn( "pavucontrol" ) end,
         {description = "Pulseaudio Volume Control", group = "1- Programs"}),
-    awful.key({ modkey }, "x",  function () awful.util.spawn( "arcolinux-logout" ) end,
+    awful.key({ modkey }, "x",  function () awful.util.spawn( "archlinux-logout" ) end,
       {description = "Exit", group = "2- Hotkeys"}),
     awful.key({ modkey }, "Escape", function () awful.util.spawn( "xkill" ) end,
         {description = "Kill Proces", group = "2- Hotkeys"}),

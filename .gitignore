@@ -113,3 +113,12 @@
 /.steam/
 /.steampath
 /.steampid
+/.config/archlinux-betterlockscreen/
+/.config/archlinux-logout/
+/.config/archlinux-tweak-tool/
+/.nvm/
+/.zcompdump
+/.zsh/
+/mess_age/
+/package-lock.json
+/.config/configstore/

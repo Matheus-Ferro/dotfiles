@@ -1,9 +1,3 @@
---[[
-
-     Holo Awesome WM theme 3.0
-     github.com/lcpz
-
---]]
 
 local gears = require("gears")
 local lain  = require("lain")
@@ -13,9 +7,14 @@ local dpi   = require("beautiful.xresources").apply_dpi
 local weather_widget = require("awesome-wm-widgets.weather-widget.weather")
 local cpu_widget = require("awesome-wm-widgets.cpu-widget.cpu-widget")
 local calendar_widget = require("awesome-wm-widgets.calendar-widget.calendar")
+local todo_widget = require("awesome-wm-widgets.todo-widget.todo")
+local volume_widget = require('awesome-wm-widgets.volume-widget.volume')
 
 local string, os = string, os
 local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
+
+-- Lembrar que quando a documentação se referir a beautiful.<something> é aqui que devemos declarar com theme.<something>
+-- Pois beautiful é a biblioteca de temas do awesomewm
 
 local theme                                     = {}
 theme.default_dir                               = require("awful.util").get_themes_dir() .. "default"
@@ -34,6 +33,7 @@ theme.border_normal                             = "#00000000"
 theme.border_focus                              = "#00000000"
 theme.taglist_fg_focus                          = "#F0DE00"
 theme.tasklist_fg_focus                         = "#F0DE00"
+theme.hotkeys_border_color                      = "#00000000"
 theme.menu_height                               = dpi(20)
 theme.menu_width                                = dpi(160)
 theme.menu_icon_size                            = dpi(32)
@@ -137,10 +137,10 @@ theme.fs = lain.widget.fs({
 theme.volume = lain.widget.alsabar({
     notification_preset = { font = "Monospace 9"},
     --togglechannel = "IEC958,3",
-    width = dpi(80), height = dpi(10),
+    width = dpi(80), height = dpi(5),
     colors = {
         background = "#383838",
-        unmute     = "#F0DE00",
+        unmute     = "#FFFFFF",
         mute       = "#FF9F9F"
     },
 })
@@ -215,6 +215,9 @@ function theme.at_screen_connect(s)
     })
     local my_weather = wibox.container.margin(get_my_weather, dpi(0), dpi(0), dpi(3), dpi(3))
 
+    local get_my_todo = todo_widget()
+    local my_todo = wibox.container.margin(get_my_todo, dpi(0), dpi(0), dpi(3), dpi(3))
+
     -- Tags
     awful.tag(awful.util.tagnames, s, awful.layout.layouts)
 
@@ -237,10 +240,10 @@ function theme.at_screen_connect(s)
     -- Create a tasklist widget
     s.get_mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, awful.util.tasklist_buttons, { bg_focus = theme.bg_focus, shape = gears.shape.rounded_rect, align = "center" })
     s.mytasklist = wibox.container.margin(s.get_mytasklist, dpi(10), dpi(10), dpi(4), dpi(2))
-    -- Create the wibox
+    -- Create the top wibox
     s.mywibox = awful.wibar({ position = "top", screen = s, height = dpi(27) })
 
-    -- Add widgets to the wibox
+    -- Add widgets to the top wibox
     s.mywibox:setup {
         layout = wibox.layout.align.horizontal,
         { -- Left widgets
@@ -267,10 +270,15 @@ function theme.at_screen_connect(s)
                 timeout = 1,
             }),
             sep_thin_little_bar,
-            mpd_icon,
+            volume_widget{
+                widget_type = 'arc',
+                thickness = 2,
+            },
             volumewidget,
             sep_thin_little_bar,
             my_weather,
+            sep_thin_little_bar,
+            my_todo,
             sep_thin_little_bar,
             first,
             clock_icon,
