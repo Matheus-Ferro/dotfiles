@@ -23,7 +23,7 @@ theme.font                                      = "Roboto Bold 11"
 theme.taglist_font                              = "Roboto Condensed Regular 13"
 theme.fg_normal                                 = "#FFFFFF"
 theme.fg_focus                                  = "#F0DE00"
-theme.bg_focus                                  = "#FFFFFF5F"
+theme.bg_focus                                  = "#FFFFFF3F"
 theme.bg_normal                                 = "#000000AF"
 theme.bg_systray                                = "#1B2334"
 theme.fg_urgent                                 = "#CC9393"
@@ -33,6 +33,7 @@ theme.border_normal                             = "#00000000"
 theme.border_focus                              = "#00000000"
 theme.taglist_fg_focus                          = "#F0DE00"
 theme.tasklist_fg_focus                         = "#F0DE00"
+theme.tooltip_bg                                = "#FFFFFF3F"
 theme.hotkeys_border_color                      = "#00000000"
 theme.menu_height                               = dpi(20)
 theme.menu_width                                = dpi(160)
@@ -265,7 +266,7 @@ function theme.at_screen_connect(s)
                 width = 70,
                 step_width = 2,
                 step_spacing = 1,
-                color = '#F0DE00',
+                color = theme.fg_focus,
                 enable_kill_button= true,
                 timeout = 1,
             }),
@@ -291,7 +292,7 @@ function theme.at_screen_connect(s)
 
     -- Create the bottom wibox
     s.mybottomwibox = awful.wibar({ position = "bottom", screen = s, border_width = dpi(0), height = dpi(27), bg = theme.bg_normal })
-    s.borderwibox = awful.wibar({ position = "bottom", screen = s, height = dpi(1), bg = theme.fg_focus, x = dpi(0), y = dpi(33)})
+    s.borderwibox = awful.wibar({ position = "bottom", screen = s, height = dpi(1), x = dpi(0), y = dpi(33)})
 
     -- Add widgets to the bottom wibox
     s.mybottomwibox:setup {

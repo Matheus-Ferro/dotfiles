@@ -476,7 +476,6 @@ globalkeys = my_table.join(
                   }
               end,
               {description = "Run Lua Code", group = "0- Window Manager"})
-    --]]
 )
 
 clientkeys = my_table.join(
