@@ -27,12 +27,12 @@ button {
   --font-display: var(--font-primary) !important;
   /* Dark Matter Variables */
   --avatar-size: 32px;
-  --home-image: url("https://i.imgur.com/233d55Y.gif");
-  --background-solid: #161921;
-  --background-solid-dark: #101218;
-  --background-solid-darker: #0c0e12;
-  --accent: 184, 134, 11;
-  --accent-alt: 184, 134, 11;
+  --home-image: url("https://cdn.theatlantic.com/media/mt/science/triduo.gif");
+  --background-solid: #000000;
+  --background-solid-dark: #000000;
+  --background-solid-darker: #000000;
+  --accent: 240, 222, 0;
+  --accent-alt: 240, 222, 0;
   --black: 0, 0, 0;
   --white: 255, 255, 255;
   /* BlurpleRecolor */
@@ -53,13 +53,13 @@ button {
   --background-floating: var(--background-solid);
   --background-secondary: var(--background-solid);
   --background-accent: var(--background-solid);
-  --background-message-hover: rgba(var(--black), 0.4);
+  --background-message-hover: rgba(var(--white), 0.1);
   --channeltextarea-background: transparent;
   --activity-card-background: rgba(var(--white), 1);
   --deprecated-store-bg: transparent;
   --background-modifier-hover: rgba(var(--white), 0.2);
   --background-modifier-active: rgba(var(--black), 0.3);
-  --background-modifier-selected: rgba(var(--black), 0.6);
+  --background-modifier-selected: rgba(var(--white), 0.1);
   --elevation-low: inset 0 -1px 0 0 rgba(var(--black), 0.3);
   --channels-default: rgba(var(--white), 1);
   --deprecated-quickswitcher-input-background: var(--background-solid);
@@ -144,7 +144,7 @@ ul[data-list-id="guildsnav"] {
   --background-secondary: var(--background-solid);
   --background-primary: rgba(var(--white), 0.1);
   margin-bottom: 70px;
-  background-color: rgba(var(--black), 0.6);
+  background-color: rgba(var(--black), 1);
   border-right: 1px solid rgba(var(--black), 0.2);
   box-shadow: inset -10px 0px 20px -10px rgba(var(--black), 0.3);
 }
@@ -211,7 +211,7 @@ div[data-list-item-id="guildsnav___guild-discover-button"] {
   transition: 150ms ease;
   opacity: 0.5;
   background-color: var(--background-solid) !important;
-  color: rgba(var(--white), 0.3) !important;
+  color: rgba(var(--white), 1) !important;
   border: 1px dashed rgba(var(--white), 0.3);
   border-radius: 50px;
 }
@@ -285,7 +285,7 @@ body {
 #app-mount > div[class^="app-"] {
   --background-tertiary: transparent;
   --background-secondary: rgba(var(--black), 0.7);
-  background-color: rgba(var(--black), 0.4);
+  background-color: rgba(var(--black), 0.1);
 }
 
 nav + div [class^="sidebar-"],
@@ -445,7 +445,7 @@ div[id^="chat-messages-"][class*="cozy-"] div::before {
 }
 
 .mention:hover {
-  background-color: rgba(var(--accent), 0.3) !important;
+  background-color: rgba(var(--accent), 0.5) !important;
 }
 
 #app-mount .container-2cd8Mz {
@@ -545,7 +545,7 @@ div[class*="errorPage"] {
 
 div[class^="tooltip-"] {
   --background-floating: rgba(var(--accent-alt), 1);
-  --text-normal: #e0e0e0;
+  --text-normal: #000;
 }
 
 /* Buttons */

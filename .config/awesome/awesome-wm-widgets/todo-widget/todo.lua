@@ -156,7 +156,7 @@ local function worker(user_args)
             {
                 {widget = wibox.widget.textbox},
                 {
-                    markup = '<span size="large" font_weight="bold" color="#ffffff">ToDo</span>',
+                    markup = '<span size="large" font_weight="bold" color="#ffffff">To Do</span>',
                     align = 'center',
                     forced_width = 350, -- for horizontal alignment
                     forced_height = 40,

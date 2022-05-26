@@ -316,6 +316,8 @@ globalkeys = my_table.join(
         {description = "Rofi (Run)" , group = "1- Programs" }),
     awful.key({ modkey }, "h", function () awful.util.spawn( "ytop" ) end,
         {description = "ytop (Task Manager)" , group = "1- Programs" }),
+    awful.key({ modkey }, "d", function () awful.util.spawn( "discord" ) end,
+        {description = "Discord" , group = "1- Programs" }),
 
     -- super + ...
     awful.key({ modkey }, "e", function () awful.util.spawn( editorgui ) end,
