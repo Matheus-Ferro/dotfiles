@@ -296,8 +296,8 @@ root.buttons(my_table.join(
 globalkeys = my_table.join(
 
     -- {{{ Personal keybindings
-    awful.key({ modkey }, "b", function () awful.util.spawn( "firefox" ) end,
-        {description = "Firefox", group = "1- Programs"}),
+    awful.key({ modkey }, "b", function () awful.util.spawn( "google-chrome-stable" ) end,
+        {description = "Google Chrome", group = "1- Programs"}),
     awful.key({ modkey }, "y", function () awful.util.spawn( "/usr/bin/chromium --profile-directory=Default --app-id=cinhimbnkkaeohfgghhklpknlkffjgod" ) end,
         {description = "YouTube Music", group = "1- Programs"}),
     awful.key({ modkey }, "F5", function () awful.util.spawn( "playerctl --all-players stop" ) end,

@@ -122,5 +122,14 @@
 /mess_age/
 /package-lock.json
 /.config/configstore/
-.config/cef_user_data/
-.config/whatsapp-nativefier-d40211/
+/.config/cef_user_data/
+/.config/whatsapp-nativefier-d40211/
+/eclipse-workspace/
+/.codetogether/
+/.config/JetBrains/
+/.ctsystem
+/.eclipse/
+/.java/
+/.swt/
+/.webclipse/
+/.zshrc.zwc
