@@ -133,3 +133,13 @@
 /.swt/
 /.webclipse/
 /.zshrc.zwc
+/.config/alacritty/alacritty.yml.bak
+/.config/deepin/
+/.config/systemd/
+/.p10k.zsh.zwc
+/.wine/
+/.zcompdump-breakcore-5.9
+/.zhistory
+/.zshrc.pre-oh-my-zsh
+/desktop/
+/powerlevel10k/
