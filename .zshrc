@@ -29,6 +29,9 @@ setopt HIST_EXPIRE_DUPS_FIRST
 bindkey '\e[A' history-search-backward
 bindkey '\e[B' history-search-forward
 
+### PATH ###
+export PATH="$PATH:$HOME/flutter/bin"
+
 ####   ARCOLINUX SETTINGS   ####
 export PAGER='most'
 

@@ -1,16 +1,3 @@
---[[
-
-     Awesome WM configuration template
-     https://github.com/awesomeWM
-
-     Freedesktop : https://github.com/lcpz/awesome-freedesktop
-
-     Copycats themes : https://github.com/lcpz/awesome-copycats
-
-     lain : https://github.com/lcpz/lain
-
---]]
-
 -- {{{ Required libraries
 local awesome, client, mouse, screen, tag = awesome, client, mouse, screen, tag
 local ipairs, string, os, table, tostring, tonumber, type = ipairs, string, os, table, tostring, tonumber, type
@@ -298,8 +285,8 @@ globalkeys = my_table.join(
     -- {{{ Personal keybindings
     awful.key({ modkey }, "b", function () awful.util.spawn( "google-chrome-stable --no-proxy-server" ) end,
         {description = "Google Chrome", group = "1- Programs"}),
-    awful.key({ modkey }, "y", function () awful.util.spawn( "google-chrome-stable --app-id=cinhimbnkkaeohfgghhklpknlkffjgod" ) end,
-        {description = "YouTube Music", group = "1- Programs"}),
+    awful.key({ modkey }, "y", function () awful.util.spawn( "spotify" ) end,
+        {description = "Spotify", group = "1- Programs"}),
     awful.key({ modkey }, "F5", function () awful.util.spawn( "playerctl --all-players stop" ) end,
         {description = "Stop", group = "3- Player Control"}),
     awful.key({ modkey }, "F6", function () awful.util.spawn( "playerctl --all-players previous" ) end,

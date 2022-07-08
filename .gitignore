@@ -2,6 +2,8 @@
 /MEGA/
 /R/
 /anaconda3/
+/flutter/
+/.pub-cache/
 /curso_c2_alura/
 /curso_progbr/
 /jogo-da-memoria/
@@ -143,3 +145,7 @@
 /.zshrc.pre-oh-my-zsh
 /desktop/
 /powerlevel10k/
+/.config/spotify/
+/.config/tool_state
+/.flutter
+/.gnupg/
