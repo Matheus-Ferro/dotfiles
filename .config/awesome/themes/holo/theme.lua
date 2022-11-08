@@ -1,14 +1,13 @@
-
-local gears = require("gears")
-local lain  = require("lain")
-local awful = require("awful")
-local wibox = require("wibox")
-local dpi   = require("beautiful.xresources").apply_dpi
-local weather_widget = require("awesome-wm-widgets.weather-widget.weather")
-local cpu_widget = require("awesome-wm-widgets.cpu-widget.cpu-widget")
+local gears           = require("gears")
+local lain            = require("lain")
+local awful           = require("awful")
+local wibox           = require("wibox")
+local dpi             = require("beautiful.xresources").apply_dpi
+local weather_widget  = require("awesome-wm-widgets.weather-widget.weather")
+local cpu_widget      = require("awesome-wm-widgets.cpu-widget.cpu-widget")
 local calendar_widget = require("awesome-wm-widgets.calendar-widget.calendar")
-local todo_widget = require("awesome-wm-widgets.todo-widget.todo")
-local volume_widget = require('awesome-wm-widgets.volume-widget.volume')
+local todo_widget     = require("awesome-wm-widgets.todo-widget.todo")
+local volume_widget   = require('awesome-wm-widgets.volume-widget.volume')
 
 local string, os = string, os
 local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
@@ -24,7 +23,8 @@ theme.taglist_font                              = "Roboto Condensed Regular 13"
 theme.fg_normal                                 = "#FFFFFF"
 theme.fg_focus                                  = "#F0DE00"
 theme.bg_focus                                  = "#FFFFFF3F"
-theme.bg_normal                                 = "#000000AF"
+theme.bg_normal                                 = "#0000009F"
+theme.bg_tasklist                               = "#0000007F"
 theme.bg_systray                                = "#1B2334"
 theme.fg_urgent                                 = "#CC9393"
 theme.bg_urgent                                 = "#af1d18"
@@ -79,33 +79,34 @@ theme.layout_centerfair                         = theme.icon_dir .. "/centerfair
 theme.tasklist_plain_task_name                  = true
 theme.tasklist_disable_icon                     = true
 theme.useless_gap                               = dpi(3)
-theme.titlebar_close_button_normal              = theme.default_dir.."/titlebar/close_normal.png"
-theme.titlebar_close_button_focus               = theme.default_dir.."/titlebar/close_focus.png"
-theme.titlebar_minimize_button_normal           = theme.default_dir.."/titlebar/minimize_normal.png"
-theme.titlebar_minimize_button_focus            = theme.default_dir.."/titlebar/minimize_focus.png"
-theme.titlebar_ontop_button_normal_inactive     = theme.default_dir.."/titlebar/ontop_normal_inactive.png"
-theme.titlebar_ontop_button_focus_inactive      = theme.default_dir.."/titlebar/ontop_focus_inactive.png"
-theme.titlebar_ontop_button_normal_active       = theme.default_dir.."/titlebar/ontop_normal_active.png"
-theme.titlebar_ontop_button_focus_active        = theme.default_dir.."/titlebar/ontop_focus_active.png"
-theme.titlebar_sticky_button_normal_inactive    = theme.default_dir.."/titlebar/sticky_normal_inactive.png"
-theme.titlebar_sticky_button_focus_inactive     = theme.default_dir.."/titlebar/sticky_focus_inactive.png"
-theme.titlebar_sticky_button_normal_active      = theme.default_dir.."/titlebar/sticky_normal_active.png"
-theme.titlebar_sticky_button_focus_active       = theme.default_dir.."/titlebar/sticky_focus_active.png"
-theme.titlebar_floating_button_normal_inactive  = theme.default_dir.."/titlebar/floating_normal_inactive.png"
-theme.titlebar_floating_button_focus_inactive   = theme.default_dir.."/titlebar/floating_focus_inactive.png"
-theme.titlebar_floating_button_normal_active    = theme.default_dir.."/titlebar/floating_normal_active.png"
-theme.titlebar_floating_button_focus_active     = theme.default_dir.."/titlebar/floating_focus_active.png"
-theme.titlebar_maximized_button_normal_inactive = theme.default_dir.."/titlebar/maximized_normal_inactive.png"
-theme.titlebar_maximized_button_focus_inactive  = theme.default_dir.."/titlebar/maximized_focus_inactive.png"
-theme.titlebar_maximized_button_normal_active   = theme.default_dir.."/titlebar/maximized_normal_active.png"
-theme.titlebar_maximized_button_focus_active    = theme.default_dir.."/titlebar/maximized_focus_active.png"
+theme.titlebar_close_button_normal              = theme.default_dir .. "/titlebar/close_normal.png"
+theme.titlebar_close_button_focus               = theme.default_dir .. "/titlebar/close_focus.png"
+theme.titlebar_minimize_button_normal           = theme.default_dir .. "/titlebar/minimize_normal.png"
+theme.titlebar_minimize_button_focus            = theme.default_dir .. "/titlebar/minimize_focus.png"
+theme.titlebar_ontop_button_normal_inactive     = theme.default_dir .. "/titlebar/ontop_normal_inactive.png"
+theme.titlebar_ontop_button_focus_inactive      = theme.default_dir .. "/titlebar/ontop_focus_inactive.png"
+theme.titlebar_ontop_button_normal_active       = theme.default_dir .. "/titlebar/ontop_normal_active.png"
+theme.titlebar_ontop_button_focus_active        = theme.default_dir .. "/titlebar/ontop_focus_active.png"
+theme.titlebar_sticky_button_normal_inactive    = theme.default_dir .. "/titlebar/sticky_normal_inactive.png"
+theme.titlebar_sticky_button_focus_inactive     = theme.default_dir .. "/titlebar/sticky_focus_inactive.png"
+theme.titlebar_sticky_button_normal_active      = theme.default_dir .. "/titlebar/sticky_normal_active.png"
+theme.titlebar_sticky_button_focus_active       = theme.default_dir .. "/titlebar/sticky_focus_active.png"
+theme.titlebar_floating_button_normal_inactive  = theme.default_dir .. "/titlebar/floating_normal_inactive.png"
+theme.titlebar_floating_button_focus_inactive   = theme.default_dir .. "/titlebar/floating_focus_inactive.png"
+theme.titlebar_floating_button_normal_active    = theme.default_dir .. "/titlebar/floating_normal_active.png"
+theme.titlebar_floating_button_focus_active     = theme.default_dir .. "/titlebar/floating_focus_active.png"
+theme.titlebar_maximized_button_normal_inactive = theme.default_dir .. "/titlebar/maximized_normal_inactive.png"
+theme.titlebar_maximized_button_focus_inactive  = theme.default_dir .. "/titlebar/maximized_focus_inactive.png"
+theme.titlebar_maximized_button_normal_active   = theme.default_dir .. "/titlebar/maximized_normal_active.png"
+theme.titlebar_maximized_button_focus_active    = theme.default_dir .. "/titlebar/maximized_focus_active.png"
 
 local markup = lain.util.markup
 local blue   = "#80CCE6"
 local space3 = markup.font("Roboto 3", " ")
 
 -- Clock
-local mytextclock = wibox.widget.textclock(markup("#FFFFFF", "%A %d %B ") .. markup("#FFFFFF", ">") .. markup("#FFFFFF", " %H:%M "))
+local mytextclock = wibox.widget.textclock(markup("#FFFFFF", "%A %d %B ") ..
+    markup("#FFFFFF", ">") .. markup("#FFFFFF", " %H:%M "))
 mytextclock.font = theme.font
 local get_clock_icon = wibox.widget.imagebox(theme.clock)
 local clock_icon = wibox.container.margin(get_clock_icon, dpi(0), dpi(0), dpi(5), dpi(5))
@@ -117,7 +118,7 @@ local cw = calendar_widget({
     placement = 'top_right',
     start_sunday = true,
     radius = 8,
--- with customized next/previous (see table above)
+    -- with customized next/previous (see table above)
     previous_month_button = 1,
     next_month_button = 3,
 })
@@ -136,7 +137,7 @@ theme.fs = lain.widget.fs({
 
 -- ALSA volume bar
 theme.volume = lain.widget.alsabar({
-    notification_preset = { font = "Monospace 9"},
+    notification_preset = { font = "Monospace 9" },
     --togglechannel = "IEC958,3",
     width = dpi(80), height = dpi(5),
     colors = {
@@ -155,7 +156,7 @@ local get_netup_icon = wibox.widget.imagebox(theme.net_up)
 local net = lain.widget.net({
     settings = function()
         widget:set_markup(markup.font("Roboto 1", " ") .. markup.font(theme.font, net_now.received .. " - "
-                          .. net_now.sent) .. markup.font("Roboto 2", " "))
+            .. net_now.sent) .. markup.font("Roboto 2", " "))
     end
 })
 local networkwidget = wibox.container.margin(net.widget, dpi(0), dpi(0), dpi(0), dpi(2))
@@ -177,15 +178,15 @@ local mylauncher = awful.widget.button({ image = theme.awesome_icon_launcher })
 mylauncher:connect_signal("button::press", function() awful.util.mymainmenu:toggle() end)
 
 -- Separators
-local first                 = wibox.widget.textbox('<span font="Roboto 14"> </span>')
-local sep_big_ball          = wibox.widget.imagebox(theme.icon_dir .. "/sep_big_ball.png")
-local sep_little_ball       = wibox.widget.imagebox(theme.icon_dir .. "/sep_little_ball.png")
-local sep_big_circle        = wibox.widget.imagebox(theme.icon_dir .. "/sep_big_circle.png")
-local sep_little_circle     = wibox.widget.imagebox(theme.icon_dir .. "/sep_little_circle.png")
-local sep_thic_big_bar      = wibox.widget.imagebox(theme.icon_dir .. "/sep_thic_big_bar.png")
-local sep_thic_small_bar    = wibox.widget.imagebox(theme.icon_dir .. "/sep_thic_small_bar.png")
-local sep_thin_bar          = wibox.widget.imagebox(theme.icon_dir .. "/sep_thin_bar.png")
-local sep_thin_little_bar   = wibox.widget.imagebox(theme.icon_dir .. "/sep_thin_little_bar.png")
+local first               = wibox.widget.textbox('<span font="Roboto 14"> </span>')
+local sep_big_ball        = wibox.widget.imagebox(theme.icon_dir .. "/sep_big_ball.png")
+local sep_little_ball     = wibox.widget.imagebox(theme.icon_dir .. "/sep_little_ball.png")
+local sep_big_circle      = wibox.widget.imagebox(theme.icon_dir .. "/sep_big_circle.png")
+local sep_little_circle   = wibox.widget.imagebox(theme.icon_dir .. "/sep_little_circle.png")
+local sep_thic_big_bar    = wibox.widget.imagebox(theme.icon_dir .. "/sep_thic_big_bar.png")
+local sep_thic_small_bar  = wibox.widget.imagebox(theme.icon_dir .. "/sep_thic_small_bar.png")
+local sep_thin_bar        = wibox.widget.imagebox(theme.icon_dir .. "/sep_thin_bar.png")
+local sep_thin_little_bar = wibox.widget.imagebox(theme.icon_dir .. "/sep_thin_little_bar.png")
 
 
 function theme.at_screen_connect(s)
@@ -202,8 +203,8 @@ function theme.at_screen_connect(s)
 
     -- My Weather Configuration
     local get_my_weather = weather_widget({
-        coordinates = {-15.670412,-58.096426},
-        api_key='2329ca9c510c73633847edc3b6e83515',
+        coordinates = { -15.670412, -58.096426 },
+        api_key = '2329ca9c510c73633847edc3b6e83515',
         font_name = 'Montserrat',
         both_units_widget = false,
         units = 'metric',
@@ -228,18 +229,20 @@ function theme.at_screen_connect(s)
     -- We need one layoutbox per screen.
     s.mylayoutbox = awful.widget.layoutbox(s)
     s.mylayoutbox:buttons(my_table.join(
-                           awful.button({}, 1, function () awful.layout.inc( 1) end),
-                           awful.button({}, 2, function () awful.layout.set( awful.layout.layouts[1] ) end),
-                           awful.button({}, 3, function () awful.layout.inc(-1) end),
-                           awful.button({}, 4, function () awful.layout.inc( 1) end),
-                           awful.button({}, 5, function () awful.layout.inc(-1) end)))
+        awful.button({}, 1, function() awful.layout.inc(1) end),
+        awful.button({}, 2, function() awful.layout.set(awful.layout.layouts[1]) end),
+        awful.button({}, 3, function() awful.layout.inc(-1) end),
+        awful.button({}, 4, function() awful.layout.inc(1) end),
+        awful.button({}, 5, function() awful.layout.inc(-1) end)))
     local get_mylayoutbox = wibox.container.margin(s.mylayoutbox, dpi(0), dpi(5), dpi(4), dpi(4))
     -- Create a taglist widget
-    s.mytaglist = awful.widget.taglist(s, awful.widget.taglist.filter.all, awful.util.taglist_buttons)
+    s.mytaglist = awful.widget.taglist(s, awful.widget.taglist.filter.all, awful.util.taglist_buttons, {font = "Roboto Mono"})
     s.mytag = wibox.container.margin(s.mytaglist, dpi(0), dpi(0), dpi(0), dpi(1))
 
     -- Create a tasklist widget
-    s.get_mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, awful.util.tasklist_buttons, { bg_focus = theme.bg_focus, shape = gears.shape.rounded_rect, align = "center" , })
+    s.get_mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, awful.util.tasklist_buttons,
+        { bg_normal = theme.bg_tasklist, bg_focus = theme.bg_focus, shape = gears.shape.rounded_rect, align = "center",
+            spacing = 3})
     s.mytasklist = wibox.container.margin(s.get_mytasklist, dpi(10), dpi(10), dpi(4), dpi(2))
     -- Create the top wibox
     s.mywibox = awful.wibar({ position = "top", screen = s, height = dpi(27) })
@@ -267,11 +270,11 @@ function theme.at_screen_connect(s)
                 step_width = 2,
                 step_spacing = 1,
                 color = theme.fg_focus,
-                enable_kill_button= true,
+                enable_kill_button = true,
                 timeout = 1,
             }),
             sep_thin_little_bar,
-            volume_widget{
+            volume_widget {
                 widget_type = 'arc',
                 thickness = 2,
             },
@@ -291,8 +294,9 @@ function theme.at_screen_connect(s)
     }
 
     -- Create the bottom wibox
-    s.mybottomwibox = awful.wibar({ position = "bottom", screen = s, border_width = dpi(0), height = dpi(27), bg = theme.bg_normal })
-    s.borderwibox = awful.wibar({ position = "bottom", screen = s, height = dpi(1), x = dpi(0), y = dpi(33)})
+    s.mybottomwibox = awful.wibar({ position = "bottom", screen = s, border_width = dpi(0), height = dpi(27),
+        bg = theme.bg_normal })
+    s.borderwibox = awful.wibar({ position = "bottom", screen = s, height = dpi(1), x = dpi(0), y = dpi(33) })
 
     -- Add widgets to the bottom wibox
     s.mybottomwibox:setup {
