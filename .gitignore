@@ -185,3 +185,9 @@
 /.dotnet/
 /Documents/
 /.themes/
+/.config/Nickvision/
+/.config/ffmulticonverter/
+/.config/kdeglobals
+/.config/knfsshare
+/.config/soundkonverterrc
+/.config/xnviewmp/
