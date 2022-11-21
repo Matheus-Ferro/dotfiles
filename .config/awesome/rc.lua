@@ -283,8 +283,8 @@ root.buttons(my_table.join(
 globalkeys = my_table.join(
 
     -- {{{ Personal keybindings
-    awful.key({ modkey }, "b", function () awful.util.spawn( "google-chrome-stable --no-proxy-server" ) end,
-        {description = "Google Chrome", group = "1- Programs"}),
+    awful.key({ modkey }, "b", function () awful.util.spawn( "brave" ) end,
+        {description = "Brave Browser", group = "1- Programs"}),
     awful.key({ modkey }, "y", function () awful.util.spawn( "spotify" ) end,
         {description = "Spotify", group = "1- Programs"}),
     awful.key({ modkey }, "F5", function () awful.util.spawn( "playerctl --all-players stop" ) end,
